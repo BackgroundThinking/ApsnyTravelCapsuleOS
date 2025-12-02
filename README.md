@@ -1,49 +1,50 @@
-# ApsnyTravel - Winter Tourism Platform 🏔️
+# ApsnyTravelCapsuleOS v0.0.1
 
-> A modern, high-performance static web application for exploring winter tourism in Abkhazia and Sochi. Built with **CapsuleOS** architecture.
+![GitHub last commit](https://img.shields.io/github/last-commit/BackgroundThinking/ApsnyTravelCapsuleOS) ![GitHub repo size](https://img.shields.io/github/repo-size/BackgroundThinking/ApsnyTravelCapsuleOS) ![GitHub license](https://img.shields.io/github/license/BackgroundThinking/ApsnyTravelCapsuleOS) ![GitHub issues](https://img.shields.io/github/issues/BackgroundThinking/ApsnyTravelCapsuleOS)
+
+**ApsnyTravelCapsuleOS** is a sophisticated, enterprise-grade web application for exploring winter tourism in Abkhazia and Sochi. It is built on the **CapsuleOS** architecture, a modern, high-performance static web application framework.
 
 ![ApsnyTravel Hero](/client/public/images/hero-winter-ritsa.jpg)
 
-## 📋 Overview
+## 🚀 Key Features
 
-**ApsnyTravel** is a curated digital guide designed to showcase the unique winter experiences of the Caucasus region—from the frozen beauty of Lake Ritsa to the steaming thermal springs of Kyndyg.
-
-The platform is built on the **CapsuleOS** philosophy: content is organized into atomic "capsules" (Markdown files) that are compiled into a static JSON API at build time. This ensures blazing fast performance, excellent SEO, and easy content management without a complex CMS.
-
-### Key Features
-
--   **🇨🇭 Swiss Style Design**: A clean, objective, and typographic-centric interface inspired by Alpine Modernism.
--   **⚡ Static Performance**: Zero-latency navigation and instant page loads powered by Next.js (Static Export) or Vite.
--   **💎 Capsule Architecture**: Content is decoupled from code, stored as structured Markdown with frontmatter metadata.
--   **📱 Fully Responsive**: Optimized for all devices, from desktop monitors to mobile phones on the go.
--   **🔍 Rich Metadata**: Comprehensive cross-linking between Tours, Places, and Guides.
-
----
+- **Dynamic Content:** The application is powered by a sophisticated algorithm that synchronizes content with the live ApsnyTravel.ru website.
+- **High Performance:** The application is built with a modern, high-performance static web application framework that ensures blazing fast performance.
+- **Enterprise-Grade:** The application is built with enterprise-grade features, including a comprehensive documentation suite, Docker containerization, and a GitHub Actions CI/CD pipeline.
+- **Comprehensive Documentation:** The project includes a comprehensive documentation suite with 15+ guides covering all aspects of the project.
 
 ## 🛠️ Tech Stack
 
--   **Framework**: React 19 + Vite (Static Generation)
--   **Styling**: Tailwind CSS 4 + Shadcn UI
--   **Routing**: Wouter (Client-side routing)
--   **Data Layer**: Custom Python scripts for Markdown -> JSON compilation
--   **Typography**: Unbounded (Headings) + Inter (Body)
--   **Icons**: Lucide React
+- **Frontend:** React 19, TypeScript 5.6, Vite 7, TailwindCSS
+- **Backend (Algorithm):** Python 3.11, Pydantic, Requests
+- **DevOps:** Docker, GitHub Actions, Nginx
+- **Testing:** Vitest, Pydantic validation
+- **Documentation:** Markdown
 
----
+## 📖 Documentation
+
+The project includes a comprehensive documentation suite with 15+ guides covering all aspects of the project, including deployment, operations, security, API documentation, algorithm documentation, testing, contribution guidelines, and troubleshooting.
+
+Key documents:
+- [**DEPLOYMENT.md**](DEPLOYMENT.md) - How to deploy the application
+- [**OPERATIONS_MANUAL.md**](OPERATIONS_MANUAL.md) - How to operate and maintain
+- [**ALGORITHM_DEPLOYMENT.md**](ALGORITHM_DEPLOYMENT.md) - How to run the synchronization algorithm
+- [**SECURITY.md**](SECURITY.md) - Security best practices
 
 ## 🚀 Getting Started
 
 ### Prerequisites
 
--   Node.js 18+
--   Python 3.11+ (for content generation)
+- Node.js 18+
+- Python 3.11+
+- pnpm
 
 ### Installation
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/num1hub/apsnytravel-web.git
-    cd apsnytravel-web
+    git clone https://github.com/BackgroundThinking/ApsnyTravelCapsuleOS.git
+    cd ApsnyTravelCapsuleOS
     ```
 
 2.  **Install dependencies:**
@@ -51,68 +52,20 @@ The platform is built on the **CapsuleOS** philosophy: content is organized into
     pnpm install
     ```
 
-3.  **Generate Content Data:**
-    This step compiles the Markdown capsules into `client/public/capsules.json`.
+3.  **Run the content synchronization algorithm:**
     ```bash
-    python3 ../generate_capsules_metadata.py
+    python3 scripts/sync-with-apsnytravel.py
     ```
 
-4.  **Start Development Server:**
+4.  **Start the development server:**
     ```bash
     pnpm dev
     ```
-    The site will be available at `http://localhost:3000`.
 
----
+## 🤝 Contributing
 
-## 📂 Project Structure
-
-```
-apsnytravel-web/
-├── client/
-│   ├── public/             # Static assets (images, capsules.json)
-│   ├── src/
-│   │   ├── components/     # React components (Navigation, Footer, UI)
-│   │   ├── pages/          # Page views (Home, Tours, Places)
-│   │   ├── lib/            # Utilities (Data fetching, Zod schemas)
-│   │   └── index.css       # Global styles & Design Tokens
-├── server/                 # (Unused in static mode)
-├── generate_capsules_metadata.py # Content compilation script
-└── README.md               # This file
-```
-
----
-
-## 🎨 Design System
-
-The project follows a strict **"Alpine Modernism"** design language:
-
--   **Primary Color**: International Orange (`#FF4F00`) - Used for CTAs and accents.
--   **Background**: Stark White (`#FFFFFF`) - For maximum readability.
--   **Typography**:
-    -   **Headings**: `Unbounded` - Bold, extended, technical.
-    -   **Body**: `Inter` - Clean, neutral, legible.
--   **Layout**: Asymmetric grids, high contrast, functional whitespace.
-
----
-
-## 📝 Content Management
-
-Content is managed in the `ApsnyTravelCatalog` repository (or local `capsules/` directory).
-
-To add a new place:
-1.  Create a new `.md` file in `capsules/tier2-deeplinks/places/`.
-2.  Follow the standard frontmatter schema (Slug, Category, Related Tours).
-3.  Run the generation script to update the app data.
-
-*See `CONTENT_GUIDE.md` for detailed instructions.*
-
----
+Contributions are welcome! Please see the [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines.
 
 ## 📄 License
 
-MIT License. See `LICENSE` for details.
-
----
-
-*Built with ❤️ by Manus AI for ApsnyTravel.*
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
