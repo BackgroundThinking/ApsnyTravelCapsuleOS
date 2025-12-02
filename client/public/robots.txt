@@ -1,0 +1,9 @@
+# Robots.txt for ApsnyTravel
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://apsnytravel.com/sitemap.xml
+
+# Crawl delay
+Crawl-delay: 1
