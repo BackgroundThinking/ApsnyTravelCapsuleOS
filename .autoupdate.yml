@@ -1,0 +1,143 @@
+# ApsnyTravelCapsuleOS Automated Update Configuration
+# This file configures the /autoupdate command and AI agent behavior
+
+version: 1.0
+
+# Agent Configuration
+agents:
+  # Architect Agent - System Design & Architecture
+  architect:
+    enabled: true
+    priority: 1
+    focus_areas:
+      - code_quality
+      - performance
+      - refactoring
+    max_changes_per_cycle: 1
+    
+  # Documenter Agent - Documentation & Content
+  documenter:
+    enabled: true
+    priority: 2
+    focus_areas:
+      - docstrings
+      - readme_updates
+      - api_documentation
+      - code_comments
+    max_changes_per_cycle: 1
+    
+  # Tester Agent - Quality Assurance & Testing
+  tester:
+    enabled: true
+    priority: 3
+    focus_areas:
+      - unit_tests
+      - integration_tests
+      - test_coverage
+    max_changes_per_cycle: 1
+    
+  # Security Agent - Security & Compliance
+  security:
+    enabled: true
+    priority: 4
+    focus_areas:
+      - vulnerability_scanning
+      - dependency_updates
+      - security_best_practices
+    max_changes_per_cycle: 1
+    
+  # Janitor Agent - Code & Repository Hygiene
+  janitor:
+    enabled: true
+    priority: 5
+    focus_areas:
+      - code_cleanup
+      - file_organization
+      - formatting
+    max_changes_per_cycle: 1
+
+# Improvement Cycle Configuration
+improvement_cycle:
+  # Maximum number of files to modify per cycle
+  max_files_per_cycle: 3
+  
+  # Commit message template
+  commit_template: "{agent}: {action}\n\n{description}"
+  
+  # Auto-push changes
+  auto_push: true
+  
+  # Create pull request for larger changes
+  create_pr_for_large_changes: true
+  large_change_threshold: 5  # files modified
+
+# Monitoring & Metrics
+monitoring:
+  # Track agent performance
+  track_metrics: true
+  
+  # Report metrics to GitHub
+  report_to_github: true
+  
+  # Metrics to track
+  metrics:
+    - code_quality_score
+    - documentation_coverage
+    - test_coverage
+    - security_vulnerabilities
+    - repository_health
+
+# Logging & Audit Trail
+logging:
+  # Log level (debug, info, warning, error)
+  level: info
+  
+  # Log file location
+  file: .autoupdate.log
+  
+  # Keep audit trail of all agent actions
+  audit_trail: true
+  audit_file: .autoupdate_audit.log
+
+# Restrictions & Safety
+safety:
+  # Do not modify these files/directories
+  protected_paths:
+    - package.json
+    - package-lock.json
+    - pnpm-lock.yaml
+    - .git
+    - .github
+    - node_modules
+    
+  # Require approval for these types of changes
+  require_approval:
+    - breaking_changes
+    - major_refactoring
+    - dependency_updates
+    
+  # Maximum lines of code to modify per cycle
+  max_lines_per_cycle: 500
+
+# Notifications
+notifications:
+  # Send notifications to GitHub
+  github_comments: true
+  
+  # Include commit links in notifications
+  include_commit_links: true
+  
+  # Include metrics in notifications
+  include_metrics: true
+
+# Scheduling (for automatic background mode)
+schedule:
+  # Enable automatic background mode
+  enabled: false
+  
+  # Run agents on a schedule (cron format)
+  # Example: "0 2 * * *" = 2 AM every day
+  cron: "0 2 * * *"
+  
+  # Maximum number of cycles per day
+  max_cycles_per_day: 5
