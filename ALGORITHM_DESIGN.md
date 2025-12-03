@@ -41,7 +41,7 @@ The algorithm will be implemented as a series of Python modules, forming a multi
 - **Requests:** For fetching data from the live URL.
 - **Natural Language Toolkit (NLTK):** (Optional) For advanced keyword extraction and relationship discovery.
 
---- 
+---
 
 ## 4. Detailed Component Design
 
@@ -50,32 +50,32 @@ The algorithm will be implemented as a series of Python modules, forming a multi
 - **Function:** `fetch_live_data(url)`
 - **Input:** URL to the live `capsules.json`.
 - **Process:**
-    - Makes an HTTP GET request to the URL.
-    - Handles potential network errors (e.g., 404, 500, timeouts).
-    - Parses the JSON response.
+  - Makes an HTTP GET request to the URL.
+  - Handles potential network errors (e.g., 404, 500, timeouts).
+  - Parses the JSON response.
 - **Output:** A Python dictionary representing the raw data.
 
 ### 4.2. `models.py` - Data Modeling & Validation
 
 - **Purpose:** Define the canonical data structure for a `Capsule` using Pydantic models.
 - **Classes:**
-    - `CapsuleModel`: Defines the strict schema for a capsule, including all sub-objects (`Geo`, `Links`, `SEO`).
-    - `CapsuleCollection`: Represents the entire collection of capsules.
+  - `CapsuleModel`: Defines the strict schema for a capsule, including all sub-objects (`Geo`, `Links`, `SEO`).
+  - `CapsuleCollection`: Represents the entire collection of capsules.
 - **Process:** Ensures that all data passing through the pipeline conforms to the expected schema, preventing data corruption.
 
 ### 4.3. `enrich.py` - Content Enrichment
 
 - **Function:** `enrich_capsule(capsule_data)`
 - **Process:**
-    - **Slug Generation:** Creates a URL-friendly slug from the capsule's title.
-    - **SEO Metadata:** Generates a descriptive meta title, description, and relevant keywords.
-    - **Structured Data:** Creates a JSON-LD object based on the capsule's type (`Product`, `Place`, `Article`).
+  - **Slug Generation:** Creates a URL-friendly slug from the capsule's title.
+  - **SEO Metadata:** Generates a descriptive meta title, description, and relevant keywords.
+  - **Structured Data:** Creates a JSON-LD object based on the capsule's type (`Product`, `Place`, `Article`).
 - **Output:** An enriched capsule object.
 
 ### 4.4. `graph.py` - Relationship Discovery
 
 - **Function:** `build_knowledge_graph(capsules)`
 - **Process:**
-    - Iterates through all capsules.
-    - Uses keyword matching, title analysis, and content analysis to identify connections.
-    - **Logic Example:** If a `product` capsule's title mentions 
+  - Iterates through all capsules.
+  - Uses keyword matching, title analysis, and content analysis to identify connections.
+  - **Logic Example:** If a `product` capsule's title mentions

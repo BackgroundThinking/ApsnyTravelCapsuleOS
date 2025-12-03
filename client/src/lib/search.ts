@@ -121,7 +121,10 @@ export class CapsuleSearch {
 
     // Extract highlights from description
     if (doc.description.toLowerCase().includes(query)) {
-      const start = Math.max(0, doc.description.toLowerCase().indexOf(query) - 30);
+      const start = Math.max(
+        0,
+        doc.description.toLowerCase().indexOf(query) - 30
+      );
       const end = Math.min(doc.description.length, start + 100);
       highlights.push("..." + doc.description.substring(start, end) + "...");
     }

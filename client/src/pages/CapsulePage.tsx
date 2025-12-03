@@ -24,7 +24,7 @@ export default function CapsulePage() {
 
     setLoading(true);
     fetchCapsuleBySlug(slug)
-      .then((data) => {
+      .then(data => {
         if (data) {
           setCapsule(data);
           setError(false);
@@ -55,8 +55,12 @@ export default function CapsulePage() {
       <div className="min-h-screen bg-background flex flex-col">
         <Navigation />
         <div className="flex-1 flex flex-col items-center justify-center text-center p-4">
-          <h1 className="text-4xl font-bold uppercase mb-4">Capsule Not Found</h1>
-          <p className="text-muted-foreground mb-8">The requested data capsule could not be retrieved.</p>
+          <h1 className="text-4xl font-bold uppercase mb-4">
+            Capsule Not Found
+          </h1>
+          <p className="text-muted-foreground mb-8">
+            The requested data capsule could not be retrieved.
+          </p>
           <Link href="/">
             <a className="bg-primary text-white px-6 py-3 font-bold uppercase hover:bg-primary/90 transition-colors">
               Return Home
@@ -69,12 +73,14 @@ export default function CapsulePage() {
 
   // Determine hero image based on slug keywords (fallback logic)
   const getHeroImage = (slug: string) => {
-    if (slug.includes('ritsa')) return '/images/hero-winter-ritsa.jpg';
-    if (slug.includes('athos')) return '/images/hero-new-athos.jpg';
-    if (slug.includes('gagra')) return '/images/hero-gagra-colonnade.jpg';
-    if (slug.includes('thermal') || slug.includes('kyndyg')) return '/images/hero-thermal-springs.jpg';
-    if (slug.includes('ski') || slug.includes('rosa')) return '/images/hero-skitouring.jpg';
-    return '/images/hero-winter-ritsa.jpg'; // Default
+    if (slug.includes("ritsa")) return "/images/hero-winter-ritsa.jpg";
+    if (slug.includes("athos")) return "/images/hero-new-athos.jpg";
+    if (slug.includes("gagra")) return "/images/hero-gagra-colonnade.jpg";
+    if (slug.includes("thermal") || slug.includes("kyndyg"))
+      return "/images/hero-thermal-springs.jpg";
+    if (slug.includes("ski") || slug.includes("rosa"))
+      return "/images/hero-skitouring.jpg";
+    return "/images/hero-winter-ritsa.jpg"; // Default
   };
 
   return (
@@ -91,20 +97,22 @@ export default function CapsulePage() {
           />
           <div className="absolute inset-0 bg-black/40 transition-opacity duration-700 group-hover:bg-black/30" />
         </div>
-        
+
         <div className="relative container h-full flex flex-col justify-end pb-16 z-10 text-white">
           <div className="max-w-4xl space-y-4">
             <div className="flex items-center gap-3 text-sm font-bold uppercase tracking-wider opacity-80">
-              <span className="bg-primary px-2 py-1 text-white">{capsule.type}</span>
+              <span className="bg-primary px-2 py-1 text-white">
+                {capsule.type}
+              </span>
               <span>Tier {capsule.tier}</span>
               <span>•</span>
               <span>{capsule.seo.keywords[0]}</span>
             </div>
-            
+
             <h1 className="text-5xl md:text-7xl font-bold tracking-tighter leading-none uppercase animate-in fade-in slide-in-from-bottom-4 duration-1000">
               {capsule.emoji} {capsule.title}
             </h1>
-            
+
             <p className="text-xl md:text-2xl max-w-2xl font-light text-white/90 line-clamp-2">
               {capsule.seo.description}
             </p>
@@ -115,31 +123,36 @@ export default function CapsulePage() {
       {/* Main Content Grid */}
       <main className="flex-1 container py-16">
         <div className="grid grid-cols-1 lg:grid-cols-12 gap-12">
-          
           {/* Sidebar: Metadata & Quick Facts */}
           <aside className="lg:col-span-4 space-y-8">
             <div className="bg-secondary/30 p-8 border border-border">
               <h3 className="font-bold uppercase mb-6 text-lg">Capsule Data</h3>
-              
+
               <div className="space-y-4">
                 <div className="flex items-start gap-3">
                   <MapPin className="w-5 h-5 text-primary shrink-0 mt-0.5" />
                   <div>
-                    <p className="text-xs font-bold uppercase text-muted-foreground">Coordinates</p>
-                    <p className="font-mono text-sm">{capsule.geo.lat.toFixed(4)}, {capsule.geo.lng.toFixed(4)}</p>
+                    <p className="text-xs font-bold uppercase text-muted-foreground">
+                      Coordinates
+                    </p>
+                    <p className="font-mono text-sm">
+                      {capsule.geo.lat.toFixed(4)}, {capsule.geo.lng.toFixed(4)}
+                    </p>
                   </div>
                 </div>
-                
-                <CapsuleMap 
-                  lat={capsule.geo.lat} 
-                  lng={capsule.geo.lng} 
-                  title={capsule.title} 
+
+                <CapsuleMap
+                  lat={capsule.geo.lat}
+                  lng={capsule.geo.lng}
+                  title={capsule.title}
                 />
 
                 <div className="flex items-start gap-3">
                   <Clock className="w-5 h-5 text-primary shrink-0 mt-0.5" />
                   <div>
-                    <p className="text-xs font-bold uppercase text-muted-foreground">Duration</p>
+                    <p className="text-xs font-bold uppercase text-muted-foreground">
+                      Duration
+                    </p>
                     <p className="text-sm">{capsule.duration}</p>
                   </div>
                 </div>
@@ -147,10 +160,15 @@ export default function CapsulePage() {
                 <div className="flex items-start gap-3">
                   <Calendar className="w-5 h-5 text-primary shrink-0 mt-0.5" />
                   <div>
-                    <p className="text-xs font-bold uppercase text-muted-foreground">Best Season</p>
+                    <p className="text-xs font-bold uppercase text-muted-foreground">
+                      Best Season
+                    </p>
                     <div className="flex flex-wrap gap-1 mt-1">
                       {capsule.season.map(s => (
-                        <span key={s} className="text-xs border border-border px-1.5 py-0.5 capitalize bg-background">
+                        <span
+                          key={s}
+                          className="text-xs border border-border px-1.5 py-0.5 capitalize bg-background"
+                        >
                           {s}
                         </span>
                       ))}
@@ -161,15 +179,20 @@ export default function CapsulePage() {
             </div>
 
             {/* Knowledge Graph Links */}
-            {(capsule.links.parent.length > 0 || capsule.links.children.length > 0) && (
+            {(capsule.links.parent.length > 0 ||
+              capsule.links.children.length > 0) && (
               <div className="space-y-4">
-                <h3 className="font-bold uppercase text-sm text-muted-foreground">Connected Capsules</h3>
-                
+                <h3 className="font-bold uppercase text-sm text-muted-foreground">
+                  Connected Capsules
+                </h3>
+
                 {capsule.links.parent.map(link => (
                   <Link key={link} href={`/capsule/${link}`}>
                     <a className="block p-4 border border-border hover:border-primary transition-colors group">
                       <div className="flex items-center justify-between mb-1">
-                        <span className="text-xs font-bold uppercase text-primary">Parent</span>
+                        <span className="text-xs font-bold uppercase text-primary">
+                          Parent
+                        </span>
                         <ArrowRight className="w-4 h-4 -rotate-45 text-muted-foreground group-hover:text-primary transition-colors" />
                       </div>
                       <p className="font-bold truncate">{link}</p>
@@ -181,7 +204,9 @@ export default function CapsulePage() {
                   <Link key={link} href={`/capsule/${link}`}>
                     <a className="block p-4 border border-border hover:border-primary transition-colors group">
                       <div className="flex items-center justify-between mb-1">
-                        <span className="text-xs font-bold uppercase text-muted-foreground">Child</span>
+                        <span className="text-xs font-bold uppercase text-muted-foreground">
+                          Child
+                        </span>
                         <ArrowRight className="w-4 h-4 text-muted-foreground group-hover:text-primary transition-colors" />
                       </div>
                       <p className="font-bold truncate">{link}</p>
@@ -199,10 +224,9 @@ export default function CapsulePage() {
                 {capsule.content}
               </ReactMarkdown>
             </div>
-            
+
             <KnowledgeGraph links={capsule.links} />
           </article>
-
         </div>
       </main>
 

@@ -8,8 +8,16 @@
     "build": "python3 generate_sitemap.py && vite build && esbuild server/index.ts --platform=node --packages=external --bundle --format=esm --outdir=dist",
     "start": "NODE_ENV=production node dist/index.js",
     "preview": "vite preview --host",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "test:coverage": "vitest run --coverage",
+    "test:ui": "vitest --ui",
+    "lint": "prettier --check .",
+    "lint:fix": "prettier --write .",
+    "type-check": "tsc --noEmit",
     "check": "tsc --noEmit",
     "format": "prettier --write .",
+    "ci": "pnpm lint && pnpm type-check && pnpm test:coverage && pnpm build",
     "sitemap": "python3 generate_sitemap.py"
   },
   "dependencies": {

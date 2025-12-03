@@ -1,5 +1,7 @@
 # ApsnyTravelCapsuleOS v0.0.1
 
+![Test](https://github.com/BackgroundThinking/ApsnyTravelCapsuleOS/actions/workflows/test.yml/badge.svg) ![Lint](https://github.com/BackgroundThinking/ApsnyTravelCapsuleOS/actions/workflows/lint.yml/badge.svg) ![Build](https://github.com/BackgroundThinking/ApsnyTravelCapsuleOS/actions/workflows/build.yml/badge.svg)
+
 ![GitHub last commit](https://img.shields.io/github/last-commit/BackgroundThinking/ApsnyTravelCapsuleOS) ![GitHub repo size](https://img.shields.io/github/repo-size/BackgroundThinking/ApsnyTravelCapsuleOS) ![GitHub license](https://img.shields.io/github/license/BackgroundThinking/ApsnyTravelCapsuleOS) ![GitHub issues](https://img.shields.io/github/issues/BackgroundThinking/ApsnyTravelCapsuleOS)
 
 **ApsnyTravelCapsuleOS** is a sophisticated, enterprise-grade web application for exploring winter tourism in Abkhazia and Sochi. It is built on the **CapsuleOS** architecture, a modern, high-performance static web application framework.
@@ -26,6 +28,9 @@
 The project includes a comprehensive documentation suite with 15+ guides covering all aspects of the project, including deployment, operations, security, API documentation, algorithm documentation, testing, contribution guidelines, and troubleshooting.
 
 Key documents:
+
+- [**TESTING.md**](TESTING.md) - Testing guide and best practices
+- [**CI_CD.md**](CI_CD.md) - CI/CD workflows and automation
 - [**DEPLOYMENT.md**](DEPLOYMENT.md) - How to deploy the application
 - [**OPERATIONS_MANUAL.md**](OPERATIONS_MANUAL.md) - How to operate and maintain
 - [**ALGORITHM_DEPLOYMENT.md**](ALGORITHM_DEPLOYMENT.md) - How to run the synchronization algorithm
@@ -42,17 +47,20 @@ Key documents:
 ### Installation
 
 1.  **Clone the repository:**
+
     ```bash
     git clone https://github.com/BackgroundThinking/ApsnyTravelCapsuleOS.git
     cd ApsnyTravelCapsuleOS
     ```
 
 2.  **Install dependencies:**
+
     ```bash
     pnpm install
     ```
 
 3.  **Run the content synchronization algorithm:**
+
     ```bash
     python3 scripts/sync-with-apsnytravel.py
     ```
@@ -61,6 +69,21 @@ Key documents:
     ```bash
     pnpm dev
     ```
+
+### Running Tests
+
+```bash
+# Run all tests
+pnpm test
+
+# Run tests in watch mode
+pnpm test:watch
+
+# Generate coverage report
+pnpm test:coverage
+```
+
+For more details, see [TESTING.md](TESTING.md).
 
 ## 🤝 Contributing
 

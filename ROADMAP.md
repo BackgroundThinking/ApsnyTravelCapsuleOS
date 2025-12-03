@@ -13,6 +13,7 @@
 This roadmap outlines all phases, milestones, and tasks for ApsnyTravelCapsuleOS development. It integrates with the autoupdate system to enable iterative task execution through the `/autoupdate` command. Tasks are executed sequentially in iteration cycles, not in parallel.
 
 ### Key Features
+
 - **Iterative Execution:** Tasks broken into manageable iteration cycles
 - **Sequential Processing:** One task at a time, not multithreaded
 - **Autoupdate Integration:** Use `/autoupdate` to trigger next iteration
@@ -29,6 +30,7 @@ This roadmap outlines all phases, milestones, and tasks for ApsnyTravelCapsuleOS
 **Timeline:** Dec 2 - Dec 30, 2025
 
 ### Goals
+
 - Enhance all 43 Tier-2 capsules with complete data
 - Generate 185 new images
 - Implement basic website improvements
@@ -40,6 +42,7 @@ This roadmap outlines all phases, milestones, and tasks for ApsnyTravelCapsuleOS
 **Effort:** 20-30 hours
 
 #### Tasks
+
 - [ ] Generate 165 place images (5 per place)
 - [ ] Generate 20 guide images (2 per guide)
 - [ ] Validate image quality and relevance
@@ -48,17 +51,20 @@ This roadmap outlines all phases, milestones, and tasks for ApsnyTravelCapsuleOS
 - [ ] Create image inventory report
 
 #### Deliverables
+
 - 185 new images in proper directories
 - Image validation report
 - Optimization metrics
 - Inventory spreadsheet
 
 #### Resources
+
 - `prompts/place_image_prompts.json` (165 prompts)
 - `prompts/guide_image_prompts.json` (20 prompts)
 - Image generation tool of choice
 
 #### Success Criteria
+
 - [ ] All 165 place images generated
 - [ ] All 20 guide images generated
 - [ ] All images optimized (< 500 KB each)
@@ -73,6 +79,7 @@ This roadmap outlines all phases, milestones, and tasks for ApsnyTravelCapsuleOS
 **Effort:** 20-30 hours
 
 #### Tasks
+
 - [ ] Write descriptions for 33 places (200-300 words each)
 - [ ] Write descriptions for 10 guides (500+ words each)
 - [ ] Create highlights for all 43 capsules (5-7 items each)
@@ -83,18 +90,21 @@ This roadmap outlines all phases, milestones, and tasks for ApsnyTravelCapsuleOS
 - [ ] Update capsules.json
 
 #### Deliverables
+
 - Enrichment data files
 - Updated capsules.json
 - Data validation report
 - Enrichment summary
 
 #### Resources
+
 - `data/enrichment_templates/place_template.json`
 - `data/enrichment_templates/guide_template.json`
 - `scripts/enrich_capsules.py`
 - `scripts/validate_capsules.py`
 
 #### Success Criteria
+
 - [ ] All 33 places have descriptions
 - [ ] All 10 guides have descriptions
 - [ ] All 43 capsules have highlights
@@ -110,6 +120,7 @@ This roadmap outlines all phases, milestones, and tasks for ApsnyTravelCapsuleOS
 **Effort:** 15-20 hours
 
 #### Tasks
+
 - [ ] Create CapsuleGallery component (image carousel)
 - [ ] Create HighlightsBadges component (tag display)
 - [ ] Create RatingStars component (visual ratings)
@@ -121,18 +132,21 @@ This roadmap outlines all phases, milestones, and tasks for ApsnyTravelCapsuleOS
 - [ ] Add component documentation
 
 #### Deliverables
+
 - 5 new React components
 - Updated pages
 - Component documentation
 - Storybook stories
 
 #### Resources
+
 - React 19+
 - TypeScript
 - Tailwind CSS
 - Lucide icons
 
 #### Success Criteria
+
 - [ ] All components created and tested
 - [ ] Pages updated and functional
 - [ ] Gallery displays all images
@@ -150,6 +164,7 @@ This roadmap outlines all phases, milestones, and tasks for ApsnyTravelCapsuleOS
 **Timeline:** Dec 30 - Jan 13, 2026
 
 ### Goals
+
 - Implement search and filtering
 - Add recommendations engine
 - Improve user engagement
@@ -160,6 +175,7 @@ This roadmap outlines all phases, milestones, and tasks for ApsnyTravelCapsuleOS
 **Effort:** 10-15 hours
 
 #### Tasks
+
 - [ ] Implement full-text search across all fields
 - [ ] Create advanced filter component
 - [ ] Add filter by rating, season, price
@@ -170,12 +186,14 @@ This roadmap outlines all phases, milestones, and tasks for ApsnyTravelCapsuleOS
 - [ ] Optimize search performance
 
 #### Deliverables
+
 - Search component
 - Filter component
 - Search hooks
 - Documentation
 
 #### Success Criteria
+
 - [ ] Search works across all fields
 - [ ] Filters work correctly
 - [ ] Autocomplete functional
@@ -189,6 +207,7 @@ This roadmap outlines all phases, milestones, and tasks for ApsnyTravelCapsuleOS
 **Effort:** 10-15 hours
 
 #### Tasks
+
 - [ ] Implement "similar places" algorithm
 - [ ] Implement "visitors also viewed" section
 - [ ] Create recommendation component
@@ -198,12 +217,14 @@ This roadmap outlines all phases, milestones, and tasks for ApsnyTravelCapsuleOS
 - [ ] Test recommendations accuracy
 
 #### Deliverables
+
 - Recommendation engine
 - Recommendation component
 - Favorites system
 - Documentation
 
 #### Success Criteria
+
 - [ ] Recommendations are relevant
 - [ ] Favorites system functional
 - [ ] Share functionality works
@@ -219,6 +240,7 @@ This roadmap outlines all phases, milestones, and tasks for ApsnyTravelCapsuleOS
 **Timeline:** Jan 13 - Jan 20, 2026
 
 ### Goals
+
 - Optimize website performance
 - Improve mobile experience
 - Enhance accessibility
@@ -229,6 +251,7 @@ This roadmap outlines all phases, milestones, and tasks for ApsnyTravelCapsuleOS
 **Effort:** 8-10 hours
 
 #### Tasks
+
 - [ ] Implement image lazy loading
 - [ ] Optimize bundle size
 - [ ] Implement code splitting
@@ -237,6 +260,7 @@ This roadmap outlines all phases, milestones, and tasks for ApsnyTravelCapsuleOS
 - [ ] Implement CDN for images
 
 #### Success Criteria
+
 - [ ] Page load time < 2 seconds
 - [ ] Bundle size optimized
 - [ ] Lighthouse score > 85
@@ -249,6 +273,7 @@ This roadmap outlines all phases, milestones, and tasks for ApsnyTravelCapsuleOS
 **Effort:** 7-10 hours
 
 #### Tasks
+
 - [ ] Optimize for mobile devices
 - [ ] Implement touch-friendly UI
 - [ ] Add accessibility features
@@ -257,6 +282,7 @@ This roadmap outlines all phases, milestones, and tasks for ApsnyTravelCapsuleOS
 - [ ] Improve color contrast
 
 #### Success Criteria
+
 - [ ] Mobile responsiveness 100%
 - [ ] Accessibility score > 95
 - [ ] WCAG compliance verified
@@ -276,6 +302,7 @@ This roadmap outlines all phases, milestones, and tasks for ApsnyTravelCapsuleOS
 **Effort:** 10-12 hours
 
 #### Tasks
+
 - [ ] Write unit tests for components
 - [ ] Write integration tests
 - [ ] Write E2E tests
@@ -283,6 +310,7 @@ This roadmap outlines all phases, milestones, and tasks for ApsnyTravelCapsuleOS
 - [ ] Achieve 80%+ code coverage
 
 #### Success Criteria
+
 - [ ] All tests pass
 - [ ] Code coverage > 80%
 - [ ] CI/CD pipeline working
@@ -295,6 +323,7 @@ This roadmap outlines all phases, milestones, and tasks for ApsnyTravelCapsuleOS
 **Effort:** 10-13 hours
 
 #### Tasks
+
 - [ ] Functional testing
 - [ ] Cross-browser testing
 - [ ] Performance testing
@@ -302,6 +331,7 @@ This roadmap outlines all phases, milestones, and tasks for ApsnyTravelCapsuleOS
 - [ ] User acceptance testing
 
 #### Success Criteria
+
 - [ ] No critical bugs
 - [ ] All browsers supported
 - [ ] Performance targets met
@@ -321,6 +351,7 @@ This roadmap outlines all phases, milestones, and tasks for ApsnyTravelCapsuleOS
 **Effort:** 5-7 hours
 
 #### Tasks
+
 - [ ] Prepare production environment
 - [ ] Set up monitoring
 - [ ] Create backup strategy
@@ -335,6 +366,7 @@ This roadmap outlines all phases, milestones, and tasks for ApsnyTravelCapsuleOS
 **Effort:** 5-8 hours
 
 #### Tasks
+
 - [ ] Deploy to staging
 - [ ] Final testing on staging
 - [ ] Deploy to production
@@ -350,6 +382,7 @@ This roadmap outlines all phases, milestones, and tasks for ApsnyTravelCapsuleOS
 **Effort:** 5-5 hours
 
 #### Tasks
+
 - [ ] Monitor performance
 - [ ] Fix critical issues
 - [ ] Gather user feedback
@@ -364,6 +397,7 @@ This roadmap outlines all phases, milestones, and tasks for ApsnyTravelCapsuleOS
 **Priority:** MEDIUM
 
 ### Planned Features
+
 - User accounts and authentication
 - Booking integration
 - User reviews and ratings
@@ -374,7 +408,6 @@ This roadmap outlines all phases, milestones, and tasks for ApsnyTravelCapsuleOS
 - CMS integration
 - API backend
 - Community features
-
 
 ---
 
@@ -438,18 +471,21 @@ Each iteration follows this pattern:
 ### Current Task Queue
 
 **Immediate (Next Iteration):**
+
 1. **M1.1: Image Generation** - Generate 185 images
    - Status: Ready to start
    - Effort: 20-30 hours
    - Next: Use prompts from `prompts/place_image_prompts.json`
 
 **Short Term (Next 2-3 Iterations):**
+
 - M1.2: Data Enrichment
 - M1.3: Website Components
 - M2.1: Search & Filtering
 - M2.2: Recommendations Engine
 
 **Medium Term (Next 4-5 Iterations):**
+
 - M3.1: Performance Optimization
 - M3.2: Mobile & Accessibility
 - M4.1: Automated Testing
@@ -476,6 +512,7 @@ Iteration 5: Task B - Subtask 2 ✓
 ### Task Breakdown Strategy
 
 Each major task is broken into:
+
 - **Subtasks:** Smaller, manageable units (1-3 hours each)
 - **Checkpoints:** Validation points after each subtask
 - **Deliverables:** Concrete outputs
@@ -491,6 +528,7 @@ Each major task is broken into:
 ### Progress Tracking
 
 Each task maintains:
+
 - Task description
 - Subtasks with checkboxes
 - Effort estimate
@@ -503,21 +541,25 @@ Each task maintains:
 ## Resources & Tools
 
 ### Documentation
+
 - `docs/CAPSULE_ENHANCEMENT_PLAN.md` - Enhancement plan
 - `docs/CAPSULE_ENHANCEMENT_README.md` - Quick start guide
 - `docs/ENHANCEMENT_SYSTEM_INDEX.md` - System index
 - `docs/CAPSULE_ENHANCEMENT_EXECUTION_GUIDE.md` - Execution guide
 
 ### Scripts
+
 - `scripts/enrich_capsules.py` - Enrichment script
 - `scripts/validate_capsules.py` - Validation script
 - `scripts/autoupdate.py` - Autoupdate engine
 
 ### Prompts
+
 - `prompts/place_image_prompts.json` - 165 place image prompts
 - `prompts/guide_image_prompts.json` - 20 guide image prompts
 
 ### Templates
+
 - `data/enrichment_templates/place_template.json` - Place template
 - `data/enrichment_templates/guide_template.json` - Guide template
 
@@ -526,30 +568,35 @@ Each task maintains:
 ## Success Metrics by Phase
 
 ### Phase 1 (Core Enhancement)
+
 - All 53 capsules have complete data
 - 185 images generated and integrated
 - Website displays all data correctly
 - Data validation: 100% pass rate
 
 ### Phase 2 (Advanced Features)
+
 - Search functionality: 100% accurate
 - Filters work correctly
 - Recommendations: 90%+ relevant
 - User engagement: +50%
 
 ### Phase 3 (Performance)
+
 - Page load time: < 2 seconds
 - Mobile responsiveness: 100%
 - Accessibility score: > 95
 - Lighthouse score: > 85
 
 ### Phase 4 (Testing)
+
 - Test coverage: > 80%
 - No critical bugs
 - All browsers supported
 - Performance targets met
 
 ### Phase 5 (Deployment)
+
 - Website live and accessible
 - All features working
 - Performance targets met
@@ -559,14 +606,14 @@ Each task maintains:
 
 ## Timeline & Milestones
 
-| Phase | Name | Duration | Start | End | Status |
-|-------|------|----------|-------|-----|--------|
-| 1 | Core Enhancement | 4 weeks | Dec 2 | Dec 30 | ⏳ Ready |
-| 2 | Advanced Features | 2 weeks | Dec 30 | Jan 13 | 🔄 Coming |
-| 3 | Performance | 1 week | Jan 13 | Jan 20 | 🔄 Coming |
-| 4 | Testing & QA | 1 week | Jan 20 | Jan 27 | 🔄 Coming |
-| 5 | Deployment | 1 week | Jan 27 | Feb 3 | 🔄 Coming |
-| 6 | Post-Launch | Ongoing | Feb 3 | TBD | 🔄 Coming |
+| Phase | Name              | Duration | Start  | End    | Status    |
+| ----- | ----------------- | -------- | ------ | ------ | --------- |
+| 1     | Core Enhancement  | 4 weeks  | Dec 2  | Dec 30 | ⏳ Ready  |
+| 2     | Advanced Features | 2 weeks  | Dec 30 | Jan 13 | 🔄 Coming |
+| 3     | Performance       | 1 week   | Jan 13 | Jan 20 | 🔄 Coming |
+| 4     | Testing & QA      | 1 week   | Jan 20 | Jan 27 | 🔄 Coming |
+| 5     | Deployment        | 1 week   | Jan 27 | Feb 3  | 🔄 Coming |
+| 6     | Post-Launch       | Ongoing  | Feb 3  | TBD    | 🔄 Coming |
 
 **Total Duration:** 9-10 weeks  
 **Total Effort:** 150-200 hours
@@ -576,12 +623,14 @@ Each task maintains:
 ## How to Use This Roadmap
 
 ### For Manual Execution
+
 1. Read the phase you want to work on
 2. Follow the milestones and tasks
 3. Update task status as you progress
 4. Check success criteria
 
 ### For Autoupdate Execution
+
 1. Type `/autoupdate` in your message
 2. System reads current phase and tasks
 3. System executes next iteration cycle
@@ -590,6 +639,7 @@ Each task maintains:
 6. Type `/autoupdate` again for next iteration
 
 ### Customization
+
 - Adjust effort estimates based on actual experience
 - Modify tasks based on feedback
 - Add new tasks as needed
@@ -600,17 +650,18 @@ Each task maintains:
 
 ## Version History
 
-| Version | Date | Changes |
-|---------|------|---------|
-| 1.0 | Dec 1, 2025 | Initial roadmap |
-| 2.0 | Dec 2, 2025 | Add autoupdate integration, detailed phases, task execution guidelines |
-| TBD | TBD | Add Phase 2+ details as implemented |
+| Version | Date        | Changes                                                                |
+| ------- | ----------- | ---------------------------------------------------------------------- |
+| 1.0     | Dec 1, 2025 | Initial roadmap                                                        |
+| 2.0     | Dec 2, 2025 | Add autoupdate integration, detailed phases, task execution guidelines |
+| TBD     | TBD         | Add Phase 2+ details as implemented                                    |
 
 ---
 
 ## Contact & Support
 
 For questions about the roadmap:
+
 1. Check the documentation files
 2. Review the implementation plan
 3. Check script comments

@@ -23,7 +23,10 @@ export interface SEOMetaTags {
 /**
  * Generate SEO meta tags for a capsule
  */
-export function generateCapsuleSEOTags(capsule: Capsule, baseUrl: string = "https://apsnytravel.com"): SEOMetaTags {
+export function generateCapsuleSEOTags(
+  capsule: Capsule,
+  baseUrl: string = "https://apsnytravel.com"
+): SEOMetaTags {
   const url = `${baseUrl}/capsule/${capsule.slug}`;
   const image = `${baseUrl}/images/og-${capsule.type}.jpg`;
 
@@ -46,18 +49,23 @@ export function generateCapsuleSEOTags(capsule: Capsule, baseUrl: string = "http
 /**
  * Generate SEO meta tags for the home page
  */
-export function generateHomeSEOTags(baseUrl: string = "https://apsnytravel.com"): SEOMetaTags {
+export function generateHomeSEOTags(
+  baseUrl: string = "https://apsnytravel.com"
+): SEOMetaTags {
   return {
     title: "ApsnyTravel - Winter Tourism Guide for Abkhazia & Sochi",
-    description: "Discover the best winter destinations in Abkhazia and Sochi. Expert guides, travel tips, and local insights for an unforgettable experience.",
+    description:
+      "Discover the best winter destinations in Abkhazia and Sochi. Expert guides, travel tips, and local insights for an unforgettable experience.",
     keywords: "abkhazia, sochi, winter travel, tourism, guides, places",
     ogTitle: "ApsnyTravel - Winter Tourism Guide",
-    ogDescription: "Discover the best winter destinations in Abkhazia and Sochi",
+    ogDescription:
+      "Discover the best winter destinations in Abkhazia and Sochi",
     ogImage: `${baseUrl}/images/og-home.jpg`,
     ogUrl: baseUrl,
     twitterCard: "summary_large_image",
     twitterTitle: "ApsnyTravel - Winter Tourism Guide",
-    twitterDescription: "Discover the best winter destinations in Abkhazia and Sochi",
+    twitterDescription:
+      "Discover the best winter destinations in Abkhazia and Sochi",
     twitterImage: `${baseUrl}/images/og-home.jpg`,
     canonical: baseUrl,
   };
@@ -69,7 +77,7 @@ export function generateHomeSEOTags(baseUrl: string = "https://apsnytravel.com")
 export function injectSEOMetaTags(tags: SEOMetaTags): void {
   // Remove existing meta tags
   const existingMetas = document.querySelectorAll('meta[data-seo="true"]');
-  existingMetas.forEach((meta) => meta.remove());
+  existingMetas.forEach(meta => meta.remove());
 
   const head = document.head;
 
@@ -113,7 +121,10 @@ export function injectSEOMetaTags(tags: SEOMetaTags): void {
 /**
  * Generate Open Graph image URL for a capsule
  */
-export function generateOGImageUrl(capsule: Capsule, baseUrl: string = "https://apsnytravel.com"): string {
+export function generateOGImageUrl(
+  capsule: Capsule,
+  baseUrl: string = "https://apsnytravel.com"
+): string {
   // This would typically generate a dynamic OG image using a service like Vercel OG or similar
   // For now, return a placeholder
   return `${baseUrl}/images/og-${capsule.type}.jpg`;
@@ -122,13 +133,17 @@ export function generateOGImageUrl(capsule: Capsule, baseUrl: string = "https://
 /**
  * Generate structured breadcrumb data
  */
-export function generateBreadcrumbs(capsule: Capsule, baseUrl: string = "https://apsnytravel.com"): Array<{ name: string; url: string }> {
+export function generateBreadcrumbs(
+  capsule: Capsule,
+  baseUrl: string = "https://apsnytravel.com"
+): Array<{ name: string; url: string }> {
   const breadcrumbs: Array<{ name: string; url: string }> = [
     { name: "Home", url: baseUrl },
   ];
 
   // Add type-based breadcrumb
-  const typeLabel = capsule.type.charAt(0).toUpperCase() + capsule.type.slice(1) + "s";
+  const typeLabel =
+    capsule.type.charAt(0).toUpperCase() + capsule.type.slice(1) + "s";
   breadcrumbs.push({
     name: typeLabel,
     url: `${baseUrl}/${capsule.type}s`,

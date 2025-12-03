@@ -7,12 +7,7 @@
       "slug": "product/гастро-тур-вино-и-очаг",
       "title": "06  ГАСТРО-ТУР ВИНО И ОЧАГ",
       "emoji": "🍷",
-      "season": [
-        "december",
-        "january",
-        "february",
-        "march"
-      ],
+      "season": ["december", "january", "february", "march"],
       "duration": "1 hour",
       "geo": {
         "lat": 43.0,
@@ -69,12 +64,7 @@
       "slug": "product/олимпийский-парк-огни",
       "title": "08  ОЛИМПИЙСКИЙ ПАРК ОГНИ",
       "emoji": "🌃",
-      "season": [
-        "december",
-        "january",
-        "february",
-        "march"
-      ],
+      "season": ["december", "january", "february", "march"],
       "duration": "1 hour",
       "geo": {
         "lat": 43.0,
@@ -131,12 +121,7 @@
       "slug": "product/красная-поляна-русские-альпы",
       "title": "02  КРАСНАЯ ПОЛЯНА РУССКИЕ АЛЬПЫ",
       "emoji": "🏔️",
-      "season": [
-        "december",
-        "january",
-        "february",
-        "march"
-      ],
+      "season": ["december", "january", "february", "march"],
       "duration": "1 hour",
       "geo": {
         "lat": 43.0,
@@ -194,12 +179,7 @@
       "slug": "product/фото-охота-зимний-свет",
       "title": "10  ФОТО-ОХОТА ЗИМНИЙ СВЕТ",
       "emoji": "📸",
-      "season": [
-        "december",
-        "january",
-        "february",
-        "march"
-      ],
+      "season": ["december", "january", "february", "march"],
       "duration": "1 hour",
       "geo": {
         "lat": 43.0,
@@ -256,12 +236,7 @@
       "slug": "product/новый-афон-подземное-царство",
       "title": "03  НОВЫЙ АФОН ПОДЗЕМНОЕ ЦАРСТВО",
       "emoji": "🏛️",
-      "season": [
-        "december",
-        "january",
-        "february",
-        "march"
-      ],
+      "season": ["december", "january", "february", "march"],
       "duration": "1 hour",
       "geo": {
         "lat": 43.0,
@@ -318,12 +293,7 @@
       "slug": "product/зимняя-рица-термы-кындыг",
       "title": "01  ЗИМНЯЯ РИЦА  ТЕРМЫ КЫНДЫГ",
       "emoji": "🔥",
-      "season": [
-        "december",
-        "january",
-        "february",
-        "march"
-      ],
+      "season": ["december", "january", "february", "march"],
       "duration": "1 hour",
       "geo": {
         "lat": 43.0,
@@ -379,12 +349,7 @@
       "slug": "product/сочи-вечнозелёный-город",
       "title": "04  СОЧИ ВЕЧНОЗЕЛЁНЫЙ ГОРОД",
       "emoji": "☀️",
-      "season": [
-        "december",
-        "january",
-        "february",
-        "march"
-      ],
+      "season": ["december", "january", "february", "march"],
       "duration": "1 hour",
       "geo": {
         "lat": 43.0,
@@ -441,12 +406,7 @@
       "slug": "product/мандарины-мимоза",
       "title": "07  МАНДАРИНЫ  МИМОЗА",
       "emoji": "🍊",
-      "season": [
-        "december",
-        "january",
-        "february",
-        "march"
-      ],
+      "season": ["december", "january", "february", "march"],
       "duration": "1 hour",
       "geo": {
         "lat": 43.0,
@@ -466,12 +426,7 @@
       "seo": {
         "title": "07  МАНДАРИНЫ  МИМОЗА",
         "description": "Discover 07  МАНДАРИНЫ  МИМОЗА with ApsnyTravel",
-        "keywords": [
-          "07  МАНДАРИНЫ  МИМОЗА",
-          "Abkhazia",
-          "Sochi",
-          "tourism"
-        ]
+        "keywords": ["07  МАНДАРИНЫ  МИМОЗА", "Abkhazia", "Sochi", "tourism"]
       },
       "metadata": {
         "created": "2025-12-02",
@@ -503,12 +458,7 @@
       "slug": "product/экспресс-в-абхазию",
       "title": "09  ЭКСПРЕСС В АБХАЗИЮ",
       "emoji": "🚕",
-      "season": [
-        "december",
-        "january",
-        "february",
-        "march"
-      ],
+      "season": ["december", "january", "february", "march"],
       "duration": "1 hour",
       "geo": {
         "lat": 43.0,
@@ -528,12 +478,7 @@
       "seo": {
         "title": "09  ЭКСПРЕСС В АБХАЗИЮ",
         "description": "Discover 09  ЭКСПРЕСС В АБХАЗИЮ with ApsnyTravel",
-        "keywords": [
-          "09  ЭКСПРЕСС В АБХАЗИЮ",
-          "Abkhazia",
-          "Sochi",
-          "tourism"
-        ]
+        "keywords": ["09  ЭКСПРЕСС В АБХАЗИЮ", "Abkhazia", "Sochi", "tourism"]
       },
       "metadata": {
         "created": "2025-12-02",
@@ -564,12 +509,7 @@
       "slug": "product/ski-transfer-premium",
       "title": "05  SKI-TRANSFER PREMIUM",
       "emoji": "🚐",
-      "season": [
-        "december",
-        "january",
-        "february",
-        "march"
-      ],
+      "season": ["december", "january", "february", "march"],
       "duration": "1 hour",
       "geo": {
         "lat": 43.0,
@@ -589,12 +529,7 @@
       "seo": {
         "title": "05  SKI-TRANSFER PREMIUM",
         "description": "Discover 05  SKI-TRANSFER PREMIUM with ApsnyTravel",
-        "keywords": [
-          "05  SKI-TRANSFER PREMIUM",
-          "Abkhazia",
-          "Sochi",
-          "tourism"
-        ]
+        "keywords": ["05  SKI-TRANSFER PREMIUM", "Abkhazia", "Sochi", "tourism"]
       },
       "metadata": {
         "created": "2025-12-02",
@@ -626,12 +561,7 @@
       "slug": "guide/абхазское-вино-зимний-гид-по-вкусам-и-традициям",
       "title": "Абхазское вино зимний гид по вкусам и традициям",
       "emoji": "🍷",
-      "season": [
-        "december",
-        "january",
-        "february",
-        "march"
-      ],
+      "season": ["december", "january", "february", "march"],
       "duration": "1 hour",
       "geo": {
         "lat": 43.0,
@@ -673,12 +603,7 @@
       "slug": "guide/советы-по-трафику-в-адлере-зима-2025-2026",
       "title": "Советы по трафику в Адлере Зима 2025-2026",
       "emoji": "🚗",
-      "season": [
-        "december",
-        "january",
-        "february",
-        "march"
-      ],
+      "season": ["december", "january", "february", "march"],
       "duration": "1 hour",
       "geo": {
         "lat": 43.0,
@@ -721,12 +646,7 @@
       "slug": "guide/цветение-мимозы-гид-по-зимнему-солнцу-абхазии",
       "title": "Цветение мимозы Гид по зимнему солнцу Абхазии",
       "emoji": "🌼",
-      "season": [
-        "december",
-        "january",
-        "february",
-        "march"
-      ],
+      "season": ["december", "january", "february", "march"],
       "duration": "1 hour",
       "geo": {
         "lat": 43.0,
@@ -768,12 +688,7 @@
       "slug": "guide/золотой-час-в-сочи-гид-для-зимнего-фотографа",
       "title": "Золотой час в Сочи Гид для зимнего фотографа",
       "emoji": "📸",
-      "season": [
-        "december",
-        "january",
-        "february",
-        "march"
-      ],
+      "season": ["december", "january", "february", "march"],
       "duration": "1 hour",
       "geo": {
         "lat": 43.0,
@@ -816,12 +731,7 @@
       "slug": "guide/перевозка-лыжного-снаряжения",
       "title": "Перевозка лыжного снаряжения",
       "emoji": "🧳",
-      "season": [
-        "december",
-        "january",
-        "february",
-        "march"
-      ],
+      "season": ["december", "january", "february", "march"],
       "duration": "1 hour",
       "geo": {
         "lat": 43.0,
@@ -864,12 +774,7 @@
       "slug": "guide/ski-pass-prices",
       "title": "ЦЕНЫ НА СКИ-ПАССЫ В КРАСНОЙ ПОЛЯНЕ ЗИМА 2025-2026",
       "emoji": "🏔️",
-      "season": [
-        "december",
-        "january",
-        "february",
-        "march"
-      ],
+      "season": ["december", "january", "february", "march"],
       "duration": "1 hour",
       "geo": {
         "lat": 43.0,
@@ -912,12 +817,7 @@
       "slug": "guide/border-crossing",
       "title": "Гайд Пересечение границы РФ-Абхазия зимой",
       "emoji": "🧭",
-      "season": [
-        "december",
-        "january",
-        "february",
-        "march"
-      ],
+      "season": ["december", "january", "february", "march"],
       "duration": "1 hour",
       "geo": {
         "lat": 43.0,
@@ -960,12 +860,7 @@
       "slug": "guide/абхазия-в-первый-раз-зима-2025-2026",
       "title": "Абхазия в первый раз Зима 2025-2026",
       "emoji": "❄️",
-      "season": [
-        "december",
-        "january",
-        "february",
-        "march"
-      ],
+      "season": ["december", "january", "february", "march"],
       "duration": "1 hour",
       "geo": {
         "lat": 43.0,
@@ -1008,12 +903,7 @@
       "slug": "guide/сезон-мандаринов-в-абхазии-зима-2025-2026",
       "title": "Сезон мандаринов в Абхазии Зима 2025-2026",
       "emoji": "🍊",
-      "season": [
-        "december",
-        "january",
-        "february",
-        "march"
-      ],
+      "season": ["december", "january", "february", "march"],
       "duration": "1 hour",
       "geo": {
         "lat": 43.0,
@@ -1056,12 +946,7 @@
       "slug": "guide/winter-ritsa-road",
       "title": "Untitled",
       "emoji": "📍",
-      "season": [
-        "december",
-        "january",
-        "february",
-        "march"
-      ],
+      "season": ["december", "january", "february", "march"],
       "duration": "1 hour",
       "geo": {
         "lat": 43.0,
@@ -1082,12 +967,7 @@
       "seo": {
         "title": "Untitled",
         "description": "Discover Untitled with ApsnyTravel",
-        "keywords": [
-          "Untitled",
-          "Abkhazia",
-          "Sochi",
-          "tourism"
-        ]
+        "keywords": ["Untitled", "Abkhazia", "Sochi", "tourism"]
       },
       "metadata": {
         "created": "2025-12-02",
@@ -1104,12 +984,7 @@
       "slug": "place/курорт-красная-поляна",
       "title": "Курорт Красная Поляна",
       "emoji": "🏔️",
-      "season": [
-        "december",
-        "january",
-        "february",
-        "march"
-      ],
+      "season": ["december", "january", "february", "march"],
       "duration": "1 hour",
       "geo": {
         "lat": 43.0,
@@ -1117,9 +992,7 @@
         "region": "abkhazia"
       },
       "links": {
-        "parent": [
-          "product-красная-поляна-русские-альпы"
-        ],
+        "parent": ["product-красная-поляна-русские-альпы"],
         "children": [],
         "siblings": [],
         "related": [
@@ -1130,12 +1003,7 @@
       "seo": {
         "title": "Курорт Красная Поляна",
         "description": "Discover Курорт Красная Поляна with ApsnyTravel",
-        "keywords": [
-          "Курорт Красная Поляна",
-          "Abkhazia",
-          "Sochi",
-          "tourism"
-        ]
+        "keywords": ["Курорт Красная Поляна", "Abkhazia", "Sochi", "tourism"]
       },
       "metadata": {
         "created": "2025-12-02",
@@ -1152,12 +1020,7 @@
       "slug": "place/rosa-khutor-village",
       "title": "Деревня Роза Хутор Сердце Зимнего Отдыха",
       "emoji": "🏔️",
-      "season": [
-        "december",
-        "january",
-        "february",
-        "march"
-      ],
+      "season": ["december", "january", "february", "march"],
       "duration": "1 hour",
       "geo": {
         "lat": 43.0,
@@ -1165,9 +1028,7 @@
         "region": "abkhazia"
       },
       "links": {
-        "parent": [
-          "product-гастро-тур-вино-и-очаг"
-        ],
+        "parent": ["product-гастро-тур-вино-и-очаг"],
         "children": [],
         "siblings": [],
         "related": [
@@ -1200,12 +1061,7 @@
       "slug": "place/rosa-peak",
       "title": "Untitled",
       "emoji": "📍",
-      "season": [
-        "december",
-        "january",
-        "february",
-        "march"
-      ],
+      "season": ["december", "january", "february", "march"],
       "duration": "1 hour",
       "geo": {
         "lat": 43.0,
@@ -1213,9 +1069,7 @@
         "region": "abkhazia"
       },
       "links": {
-        "parent": [
-          "product-гастро-тур-вино-и-очаг"
-        ],
+        "parent": ["product-гастро-тур-вино-и-очаг"],
         "children": [],
         "siblings": [],
         "related": [
@@ -1226,12 +1080,7 @@
       "seo": {
         "title": "Untitled",
         "description": "Discover Untitled with ApsnyTravel",
-        "keywords": [
-          "Untitled",
-          "Abkhazia",
-          "Sochi",
-          "tourism"
-        ]
+        "keywords": ["Untitled", "Abkhazia", "Sochi", "tourism"]
       },
       "metadata": {
         "created": "2025-12-02",
@@ -1248,12 +1097,7 @@
       "slug": "place/гтц-газпром-галактика",
       "title": "ГТЦ Газпром  Галактика",
       "emoji": "🎿",
-      "season": [
-        "december",
-        "january",
-        "february",
-        "march"
-      ],
+      "season": ["december", "january", "february", "march"],
       "duration": "1 hour",
       "geo": {
         "lat": 43.0,
@@ -1261,9 +1105,7 @@
         "region": "abkhazia"
       },
       "links": {
-        "parent": [
-          "product-гастро-тур-вино-и-очаг"
-        ],
+        "parent": ["product-гастро-тур-вино-и-очаг"],
         "children": [],
         "siblings": [],
         "related": [
@@ -1274,12 +1116,7 @@
       "seo": {
         "title": "ГТЦ Газпром  Галактика",
         "description": "Discover ГТЦ Газпром  Галактика with ApsnyTravel",
-        "keywords": [
-          "ГТЦ Газпром  Галактика",
-          "Abkhazia",
-          "Sochi",
-          "tourism"
-        ]
+        "keywords": ["ГТЦ Газпром  Галактика", "Abkhazia", "Sochi", "tourism"]
       },
       "metadata": {
         "created": "2025-12-02",
@@ -1296,12 +1133,7 @@
       "slug": "place/панорама-цирк-2",
       "title": "Панорама Цирк-2",
       "emoji": "⛷️",
-      "season": [
-        "december",
-        "january",
-        "february",
-        "march"
-      ],
+      "season": ["december", "january", "february", "march"],
       "duration": "1 hour",
       "geo": {
         "lat": 43.0,
@@ -1309,9 +1141,7 @@
         "region": "abkhazia"
       },
       "links": {
-        "parent": [
-          "product-гастро-тур-вино-и-очаг"
-        ],
+        "parent": ["product-гастро-тур-вино-и-очаг"],
         "children": [],
         "siblings": [],
         "related": [
@@ -1322,12 +1152,7 @@
       "seo": {
         "title": "Панорама Цирк-2",
         "description": "Discover Панорама Цирк-2 with ApsnyTravel",
-        "keywords": [
-          "Панорама Цирк-2",
-          "Abkhazia",
-          "Sochi",
-          "tourism"
-        ]
+        "keywords": ["Панорама Цирк-2", "Abkhazia", "Sochi", "tourism"]
       },
       "metadata": {
         "created": "2025-12-02",
@@ -1344,12 +1169,7 @@
       "slug": "place/fisht-stadium",
       "title": "Стадион «Фишт» Зимний Сезон 2025-2026",
       "emoji": "🏟️",
-      "season": [
-        "december",
-        "january",
-        "february",
-        "march"
-      ],
+      "season": ["december", "january", "february", "march"],
       "duration": "1 hour",
       "geo": {
         "lat": 43.0,
@@ -1357,9 +1177,7 @@
         "region": "abkhazia"
       },
       "links": {
-        "parent": [
-          "product-фото-охота-зимний-свет"
-        ],
+        "parent": ["product-фото-охота-зимний-свет"],
         "children": [],
         "siblings": [],
         "related": [
@@ -1392,12 +1210,7 @@
       "slug": "place/олимпийский-парк",
       "title": "Олимпийский парк",
       "emoji": "🏟️",
-      "season": [
-        "december",
-        "january",
-        "february",
-        "march"
-      ],
+      "season": ["december", "january", "february", "march"],
       "duration": "1 hour",
       "geo": {
         "lat": 43.0,
@@ -1405,9 +1218,7 @@
         "region": "abkhazia"
       },
       "links": {
-        "parent": [
-          "product-олимпийский-парк-огни"
-        ],
+        "parent": ["product-олимпийский-парк-огни"],
         "children": [],
         "siblings": [],
         "related": [
@@ -1418,12 +1229,7 @@
       "seo": {
         "title": "Олимпийский парк",
         "description": "Discover Олимпийский парк with ApsnyTravel",
-        "keywords": [
-          "Олимпийский парк",
-          "Abkhazia",
-          "Sochi",
-          "tourism"
-        ]
+        "keywords": ["Олимпийский парк", "Abkhazia", "Sochi", "tourism"]
       },
       "metadata": {
         "created": "2025-12-02",
@@ -1440,12 +1246,7 @@
       "slug": "place/singing-fountains",
       "title": "Untitled",
       "emoji": "📍",
-      "season": [
-        "december",
-        "january",
-        "february",
-        "march"
-      ],
+      "season": ["december", "january", "february", "march"],
       "duration": "1 hour",
       "geo": {
         "lat": 43.0,
@@ -1453,9 +1254,7 @@
         "region": "abkhazia"
       },
       "links": {
-        "parent": [
-          "product-гастро-тур-вино-и-очаг"
-        ],
+        "parent": ["product-гастро-тур-вино-и-очаг"],
         "children": [],
         "siblings": [],
         "related": [
@@ -1466,12 +1265,7 @@
       "seo": {
         "title": "Untitled",
         "description": "Discover Untitled with ApsnyTravel",
-        "keywords": [
-          "Untitled",
-          "Abkhazia",
-          "Sochi",
-          "tourism"
-        ]
+        "keywords": ["Untitled", "Abkhazia", "Sochi", "tourism"]
       },
       "metadata": {
         "created": "2025-12-02",
@@ -1488,12 +1282,7 @@
       "slug": "place/olympic-flame",
       "title": "Untitled",
       "emoji": "📍",
-      "season": [
-        "december",
-        "january",
-        "february",
-        "march"
-      ],
+      "season": ["december", "january", "february", "march"],
       "duration": "1 hour",
       "geo": {
         "lat": 43.0,
@@ -1501,9 +1290,7 @@
         "region": "abkhazia"
       },
       "links": {
-        "parent": [
-          "product-гастро-тур-вино-и-очаг"
-        ],
+        "parent": ["product-гастро-тур-вино-и-очаг"],
         "children": [],
         "siblings": [],
         "related": [
@@ -1514,12 +1301,7 @@
       "seo": {
         "title": "Untitled",
         "description": "Discover Untitled with ApsnyTravel",
-        "keywords": [
-          "Untitled",
-          "Abkhazia",
-          "Sochi",
-          "tourism"
-        ]
+        "keywords": ["Untitled", "Abkhazia", "Sochi", "tourism"]
       },
       "metadata": {
         "created": "2025-12-02",
@@ -1536,12 +1318,7 @@
       "slug": "place/sochi-autodrom",
       "title": "Untitled",
       "emoji": "📍",
-      "season": [
-        "december",
-        "january",
-        "february",
-        "march"
-      ],
+      "season": ["december", "january", "february", "march"],
       "duration": "1 hour",
       "geo": {
         "lat": 43.0,
@@ -1549,9 +1326,7 @@
         "region": "abkhazia"
       },
       "links": {
-        "parent": [
-          "product-гастро-тур-вино-и-очаг"
-        ],
+        "parent": ["product-гастро-тур-вино-и-очаг"],
         "children": [],
         "siblings": [],
         "related": [
@@ -1562,12 +1337,7 @@
       "seo": {
         "title": "Untitled",
         "description": "Discover Untitled with ApsnyTravel",
-        "keywords": [
-          "Untitled",
-          "Abkhazia",
-          "Sochi",
-          "tourism"
-        ]
+        "keywords": ["Untitled", "Abkhazia", "Sochi", "tourism"]
       },
       "metadata": {
         "created": "2025-12-02",
@@ -1584,12 +1354,7 @@
       "slug": "place/new-athos-monastery",
       "title": "Untitled",
       "emoji": "📍",
-      "season": [
-        "december",
-        "january",
-        "february",
-        "march"
-      ],
+      "season": ["december", "january", "february", "march"],
       "duration": "1 hour",
       "geo": {
         "lat": 43.0,
@@ -1597,9 +1362,7 @@
         "region": "abkhazia"
       },
       "links": {
-        "parent": [
-          "product-гастро-тур-вино-и-очаг"
-        ],
+        "parent": ["product-гастро-тур-вино-и-очаг"],
         "children": [],
         "siblings": [],
         "related": [
@@ -1610,12 +1373,7 @@
       "seo": {
         "title": "Untitled",
         "description": "Discover Untitled with ApsnyTravel",
-        "keywords": [
-          "Untitled",
-          "Abkhazia",
-          "Sochi",
-          "tourism"
-        ]
+        "keywords": ["Untitled", "Abkhazia", "Sochi", "tourism"]
       },
       "metadata": {
         "created": "2025-12-02",
@@ -1632,12 +1390,7 @@
       "slug": "place/лыхненский-храм-успения-богородицы",
       "title": "Лыхненский храм Успения Богородицы",
       "emoji": "🏛️",
-      "season": [
-        "december",
-        "january",
-        "february",
-        "march"
-      ],
+      "season": ["december", "january", "february", "march"],
       "duration": "1 hour",
       "geo": {
         "lat": 43.0,
@@ -1645,9 +1398,7 @@
         "region": "abkhazia"
       },
       "links": {
-        "parent": [
-          "product-гастро-тур-вино-и-очаг"
-        ],
+        "parent": ["product-гастро-тур-вино-и-очаг"],
         "children": [],
         "siblings": [],
         "related": [
@@ -1680,12 +1431,7 @@
       "slug": "place/заброшенная-гагра",
       "title": "Заброшенная Гагра",
       "emoji": "🏚️",
-      "season": [
-        "december",
-        "january",
-        "february",
-        "march"
-      ],
+      "season": ["december", "january", "february", "march"],
       "duration": "1 hour",
       "geo": {
         "lat": 43.0,
@@ -1693,9 +1439,7 @@
         "region": "abkhazia"
       },
       "links": {
-        "parent": [
-          "product-гастро-тур-вино-и-очаг"
-        ],
+        "parent": ["product-гастро-тур-вино-и-очаг"],
         "children": [],
         "siblings": [],
         "related": [
@@ -1706,12 +1450,7 @@
       "seo": {
         "title": "Заброшенная Гагра",
         "description": "Discover Заброшенная Гагра with ApsnyTravel",
-        "keywords": [
-          "Заброшенная Гагра",
-          "Abkhazia",
-          "Sochi",
-          "tourism"
-        ]
+        "keywords": ["Заброшенная Гагра", "Abkhazia", "Sochi", "tourism"]
       },
       "metadata": {
         "created": "2025-12-02",
@@ -1728,12 +1467,7 @@
       "slug": "place/заброшенная-станция-псырцха",
       "title": "Заброшенная станция Псырцха",
       "emoji": "🚂",
-      "season": [
-        "december",
-        "january",
-        "february",
-        "march"
-      ],
+      "season": ["december", "january", "february", "march"],
       "duration": "1 hour",
       "geo": {
         "lat": 43.0,
@@ -1741,9 +1475,7 @@
         "region": "abkhazia"
       },
       "links": {
-        "parent": [
-          "product-гастро-тур-вино-и-очаг"
-        ],
+        "parent": ["product-гастро-тур-вино-и-очаг"],
         "children": [],
         "siblings": [],
         "related": [
@@ -1776,12 +1508,7 @@
       "slug": "place/гагрская-колоннада",
       "title": "Гагрская колоннада",
       "emoji": "🏛️",
-      "season": [
-        "december",
-        "january",
-        "february",
-        "march"
-      ],
+      "season": ["december", "january", "february", "march"],
       "duration": "1 hour",
       "geo": {
         "lat": 43.0,
@@ -1789,9 +1516,7 @@
         "region": "abkhazia"
       },
       "links": {
-        "parent": [
-          "product-гастро-тур-вино-и-очаг"
-        ],
+        "parent": ["product-гастро-тур-вино-и-очаг"],
         "children": [],
         "siblings": [],
         "related": [
@@ -1802,12 +1527,7 @@
       "seo": {
         "title": "Гагрская колоннада",
         "description": "Discover Гагрская колоннада with ApsnyTravel",
-        "keywords": [
-          "Гагрская колоннада",
-          "Abkhazia",
-          "Sochi",
-          "tourism"
-        ]
+        "keywords": ["Гагрская колоннада", "Abkhazia", "Sochi", "tourism"]
       },
       "metadata": {
         "created": "2025-12-02",
@@ -1824,12 +1544,7 @@
       "slug": "place/sochi-seaport",
       "title": "Untitled",
       "emoji": "📍",
-      "season": [
-        "december",
-        "january",
-        "february",
-        "march"
-      ],
+      "season": ["december", "january", "february", "march"],
       "duration": "1 hour",
       "geo": {
         "lat": 43.0,
@@ -1837,9 +1552,7 @@
         "region": "abkhazia"
       },
       "links": {
-        "parent": [
-          "product-гастро-тур-вино-и-очаг"
-        ],
+        "parent": ["product-гастро-тур-вино-и-очаг"],
         "children": [],
         "siblings": [],
         "related": [
@@ -1850,12 +1563,7 @@
       "seo": {
         "title": "Untitled",
         "description": "Discover Untitled with ApsnyTravel",
-        "keywords": [
-          "Untitled",
-          "Abkhazia",
-          "Sochi",
-          "tourism"
-        ]
+        "keywords": ["Untitled", "Abkhazia", "Sochi", "tourism"]
       },
       "metadata": {
         "created": "2025-12-02",
@@ -1872,12 +1580,7 @@
       "slug": "place/казино-сочи-зимний-сезон-2025-2026",
       "title": "Казино Сочи Зимний Сезон 2025-2026",
       "emoji": "💎",
-      "season": [
-        "december",
-        "january",
-        "february",
-        "march"
-      ],
+      "season": ["december", "january", "february", "march"],
       "duration": "1 hour",
       "geo": {
         "lat": 43.0,
@@ -1885,9 +1588,7 @@
         "region": "abkhazia"
       },
       "links": {
-        "parent": [
-          "product-фото-охота-зимний-свет"
-        ],
+        "parent": ["product-фото-охота-зимний-свет"],
         "children": [],
         "siblings": [],
         "related": [
@@ -1920,12 +1621,7 @@
       "slug": "** place/new-athos-cave",
       "title": "Новоафонская пещера",
       "emoji": "🕳️",
-      "season": [
-        "december",
-        "january",
-        "february",
-        "march"
-      ],
+      "season": ["december", "january", "february", "march"],
       "duration": "1 hour",
       "geo": {
         "lat": 43.0,
@@ -1933,9 +1629,7 @@
         "region": "abkhazia"
       },
       "links": {
-        "parent": [
-          "product-гастро-тур-вино-и-очаг"
-        ],
+        "parent": ["product-гастро-тур-вино-и-очаг"],
         "children": [],
         "siblings": [],
         "related": [
@@ -1946,12 +1640,7 @@
       "seo": {
         "title": "Новоафонская пещера",
         "description": "Discover Новоафонская пещера with ApsnyTravel",
-        "keywords": [
-          "Новоафонская пещера",
-          "Abkhazia",
-          "Sochi",
-          "tourism"
-        ]
+        "keywords": ["Новоафонская пещера", "Abkhazia", "Sochi", "tourism"]
       },
       "metadata": {
         "created": "2025-12-02",
@@ -1967,12 +1656,7 @@
       "slug": "place/дача-сталина-новый-афон",
       "title": "Дача Сталина Новый Афон",
       "emoji": "🏠",
-      "season": [
-        "december",
-        "january",
-        "february",
-        "march"
-      ],
+      "season": ["december", "january", "february", "march"],
       "duration": "1 hour",
       "geo": {
         "lat": 43.0,
@@ -1980,9 +1664,7 @@
         "region": "abkhazia"
       },
       "links": {
-        "parent": [
-          "product-новый-афон-подземное-царство"
-        ],
+        "parent": ["product-новый-афон-подземное-царство"],
         "children": [],
         "siblings": [],
         "related": [
@@ -1993,12 +1675,7 @@
       "seo": {
         "title": "Дача Сталина Новый Афон",
         "description": "Discover Дача Сталина Новый Афон with ApsnyTravel",
-        "keywords": [
-          "Дача Сталина Новый Афон",
-          "Abkhazia",
-          "Sochi",
-          "tourism"
-        ]
+        "keywords": ["Дача Сталина Новый Афон", "Abkhazia", "Sochi", "tourism"]
       },
       "metadata": {
         "created": "2025-12-02",
@@ -2015,12 +1692,7 @@
       "slug": "place/башня-на-горе-ахун-зимний-обзор-2025-2026",
       "title": "Башня на горе Ахун Зимний Обзор 2025-2026",
       "emoji": "🗼",
-      "season": [
-        "december",
-        "january",
-        "february",
-        "march"
-      ],
+      "season": ["december", "january", "february", "march"],
       "duration": "1 hour",
       "geo": {
         "lat": 43.0,
@@ -2028,9 +1700,7 @@
         "region": "abkhazia"
       },
       "links": {
-        "parent": [
-          "product-фото-охота-зимний-свет"
-        ],
+        "parent": ["product-фото-охота-зимний-свет"],
         "children": [],
         "siblings": [],
         "related": [
@@ -2063,12 +1733,7 @@
       "slug": "place/секретные-качели-зимний-фото-спот-2025-2026",
       "title": "Секретные качели Зимний Фото-Спот 2025-2026",
       "emoji": "🎡",
-      "season": [
-        "december",
-        "january",
-        "february",
-        "march"
-      ],
+      "season": ["december", "january", "february", "march"],
       "duration": "1 hour",
       "geo": {
         "lat": 43.0,
@@ -2076,9 +1741,7 @@
         "region": "abkhazia"
       },
       "links": {
-        "parent": [
-          "product-фото-охота-зимний-свет"
-        ],
+        "parent": ["product-фото-охота-зимний-свет"],
         "children": [],
         "siblings": [],
         "related": [
@@ -2111,12 +1774,7 @@
       "slug": "place/пицундская-сосновая-роща",
       "title": "Пицундская сосновая роща",
       "emoji": "🌲",
-      "season": [
-        "december",
-        "january",
-        "february",
-        "march"
-      ],
+      "season": ["december", "january", "february", "march"],
       "duration": "1 hour",
       "geo": {
         "lat": 43.0,
@@ -2124,9 +1782,7 @@
         "region": "abkhazia"
       },
       "links": {
-        "parent": [
-          "product-гастро-тур-вино-и-очаг"
-        ],
+        "parent": ["product-гастро-тур-вино-и-очаг"],
         "children": [],
         "siblings": [],
         "related": [
@@ -2137,12 +1793,7 @@
       "seo": {
         "title": "Пицундская сосновая роща",
         "description": "Discover Пицундская сосновая роща with ApsnyTravel",
-        "keywords": [
-          "Пицундская сосновая роща",
-          "Abkhazia",
-          "Sochi",
-          "tourism"
-        ]
+        "keywords": ["Пицундская сосновая роща", "Abkhazia", "Sochi", "tourism"]
       },
       "metadata": {
         "created": "2025-12-02",
@@ -2159,12 +1810,7 @@
       "slug": "** place/yupshara-canyon",
       "title": "Юпшарский каньон Ледяной коридор к Рице",
       "emoji": "❄️",
-      "season": [
-        "december",
-        "january",
-        "february",
-        "march"
-      ],
+      "season": ["december", "january", "february", "march"],
       "duration": "1 hour",
       "geo": {
         "lat": 43.0,
@@ -2172,9 +1818,7 @@
         "region": "abkhazia"
       },
       "links": {
-        "parent": [
-          "product-гастро-тур-вино-и-очаг"
-        ],
+        "parent": ["product-гастро-тур-вино-и-очаг"],
         "children": [],
         "siblings": [],
         "related": [
@@ -2206,12 +1850,7 @@
       "slug": "place/lake-ritsa-winter",
       "title": "Озеро Рица зимой",
       "emoji": "🏞️",
-      "season": [
-        "december",
-        "january",
-        "february",
-        "march"
-      ],
+      "season": ["december", "january", "february", "march"],
       "duration": "1 hour",
       "geo": {
         "lat": 43.0,
@@ -2219,9 +1858,7 @@
         "region": "abkhazia"
       },
       "links": {
-        "parent": [
-          "product-зимняя-рица-термы-кындыг"
-        ],
+        "parent": ["product-зимняя-рица-термы-кындыг"],
         "children": [],
         "siblings": [],
         "related": [
@@ -2232,12 +1869,7 @@
       "seo": {
         "title": "Озеро Рица зимой",
         "description": "Discover Озеро Рица зимой with ApsnyTravel",
-        "keywords": [
-          "Озеро Рица зимой",
-          "Abkhazia",
-          "Sochi",
-          "tourism"
-        ]
+        "keywords": ["Озеро Рица зимой", "Abkhazia", "Sochi", "tourism"]
       },
       "metadata": {
         "created": "2025-12-02",
@@ -2254,12 +1886,7 @@
       "slug": "place/blue-lake",
       "title": "Untitled",
       "emoji": "📍",
-      "season": [
-        "december",
-        "january",
-        "february",
-        "march"
-      ],
+      "season": ["december", "january", "february", "march"],
       "duration": "1 hour",
       "geo": {
         "lat": 43.0,
@@ -2267,9 +1894,7 @@
         "region": "abkhazia"
       },
       "links": {
-        "parent": [
-          "product-гастро-тур-вино-и-очаг"
-        ],
+        "parent": ["product-гастро-тур-вино-и-очаг"],
         "children": [],
         "siblings": [],
         "related": [
@@ -2280,12 +1905,7 @@
       "seo": {
         "title": "Untitled",
         "description": "Discover Untitled with ApsnyTravel",
-        "keywords": [
-          "Untitled",
-          "Abkhazia",
-          "Sochi",
-          "tourism"
-        ]
+        "keywords": ["Untitled", "Abkhazia", "Sochi", "tourism"]
       },
       "metadata": {
         "created": "2025-12-02",
@@ -2302,12 +1922,7 @@
       "slug": "place/белые-скалы-цандрипш",
       "title": "Белые скалы Цандрипш",
       "emoji": "⚪",
-      "season": [
-        "december",
-        "january",
-        "february",
-        "march"
-      ],
+      "season": ["december", "january", "february", "march"],
       "duration": "1 hour",
       "geo": {
         "lat": 43.0,
@@ -2315,9 +1930,7 @@
         "region": "abkhazia"
       },
       "links": {
-        "parent": [
-          "product-гастро-тур-вино-и-очаг"
-        ],
+        "parent": ["product-гастро-тур-вино-и-очаг"],
         "children": [],
         "siblings": [],
         "related": [
@@ -2328,12 +1941,7 @@
       "seo": {
         "title": "Белые скалы Цандрипш",
         "description": "Discover Белые скалы Цандрипш with ApsnyTravel",
-        "keywords": [
-          "Белые скалы Цандрипш",
-          "Abkhazia",
-          "Sochi",
-          "tourism"
-        ]
+        "keywords": ["Белые скалы Цандрипш", "Abkhazia", "Sochi", "tourism"]
       },
       "metadata": {
         "created": "2025-12-02",
@@ -2350,12 +1958,7 @@
       "slug": "place/лебединое-озеро-в-новом-афоне",
       "title": "Лебединое озеро в Новом Афоне",
       "emoji": "🦢",
-      "season": [
-        "december",
-        "january",
-        "february",
-        "march"
-      ],
+      "season": ["december", "january", "february", "march"],
       "duration": "1 hour",
       "geo": {
         "lat": 43.0,
@@ -2363,9 +1966,7 @@
         "region": "abkhazia"
       },
       "links": {
-        "parent": [
-          "product-экспресс-в-абхазию"
-        ],
+        "parent": ["product-экспресс-в-абхазию"],
         "children": [],
         "siblings": [],
         "related": [
@@ -2398,12 +1999,7 @@
       "slug": "place/мандариновые-сады-золото-абхазской-зимы",
       "title": "Мандариновые сады Золото Абхазской Зимы",
       "emoji": "🍊",
-      "season": [
-        "december",
-        "january",
-        "february",
-        "march"
-      ],
+      "season": ["december", "january", "february", "march"],
       "duration": "1 hour",
       "geo": {
         "lat": 43.0,
@@ -2411,9 +2007,7 @@
         "region": "abkhazia"
       },
       "links": {
-        "parent": [
-          "product-гастро-тур-вино-и-очаг"
-        ],
+        "parent": ["product-гастро-тур-вино-и-очаг"],
         "children": [],
         "siblings": [],
         "related": [
@@ -2446,12 +2040,7 @@
       "slug": "place/сочинский-дендрарий-вечнозеленый-оазис-и-зимний-пикник",
       "title": "Сочинский дендрарий Вечнозеленый оазис и зимний пикник",
       "emoji": "🔥",
-      "season": [
-        "december",
-        "january",
-        "february",
-        "march"
-      ],
+      "season": ["december", "january", "february", "march"],
       "duration": "1 hour",
       "geo": {
         "lat": 43.0,
@@ -2459,9 +2048,7 @@
         "region": "abkhazia"
       },
       "links": {
-        "parent": [
-          "product-гастро-тур-вино-и-очаг"
-        ],
+        "parent": ["product-гастро-тур-вино-и-очаг"],
         "children": [],
         "siblings": [],
         "related": [
@@ -2493,12 +2080,7 @@
       "slug": "place/сухумский-рынок-зимний-урожай-и-атмосфера",
       "title": "Сухумский рынок Зимний Урожай и Атмосфера",
       "emoji": "🍊",
-      "season": [
-        "december",
-        "january",
-        "february",
-        "march"
-      ],
+      "season": ["december", "january", "february", "march"],
       "duration": "1 hour",
       "geo": {
         "lat": 43.0,
@@ -2506,9 +2088,7 @@
         "region": "abkhazia"
       },
       "links": {
-        "parent": [
-          "product-гастро-тур-вино-и-очаг"
-        ],
+        "parent": ["product-гастро-тур-вино-и-очаг"],
         "children": [],
         "siblings": [],
         "related": [
@@ -2541,12 +2121,7 @@
       "slug": "place/культура-апацхи-традиционная-абхазская-кухня",
       "title": "Культура апацхи Традиционная Абхазская Кухня",
       "emoji": "🍽️",
-      "season": [
-        "december",
-        "january",
-        "february",
-        "march"
-      ],
+      "season": ["december", "january", "february", "march"],
       "duration": "1 hour",
       "geo": {
         "lat": 43.0,
@@ -2554,9 +2129,7 @@
         "region": "abkhazia"
       },
       "links": {
-        "parent": [
-          "product-гастро-тур-вино-и-очаг"
-        ],
+        "parent": ["product-гастро-тур-вино-и-очаг"],
         "children": [],
         "siblings": [],
         "related": [
@@ -2588,12 +2161,7 @@
       "slug": "place/kyndyg-springs",
       "title": "Термальные источники Кындыг",
       "emoji": "♨️",
-      "season": [
-        "december",
-        "january",
-        "february",
-        "march"
-      ],
+      "season": ["december", "january", "february", "march"],
       "duration": "1 hour",
       "geo": {
         "lat": 43.0,
@@ -2601,9 +2169,7 @@
         "region": "abkhazia"
       },
       "links": {
-        "parent": [
-          "product-зимняя-рица-термы-кындыг"
-        ],
+        "parent": ["product-зимняя-рица-термы-кындыг"],
         "children": [],
         "siblings": [],
         "related": [
@@ -2636,12 +2202,7 @@
       "slug": "place/аквапарк-галактика-гтц-газпром",
       "title": "Аквапарк «Галактика» ГТЦ Газпром",
       "emoji": "🌊",
-      "season": [
-        "december",
-        "january",
-        "february",
-        "march"
-      ],
+      "season": ["december", "january", "february", "march"],
       "duration": "1 hour",
       "geo": {
         "lat": 43.0,
@@ -2649,9 +2210,7 @@
         "region": "abkhazia"
       },
       "links": {
-        "parent": [
-          "product-гастро-тур-вино-и-очаг"
-        ],
+        "parent": ["product-гастро-тур-вино-и-очаг"],
         "children": [],
         "siblings": [],
         "related": [

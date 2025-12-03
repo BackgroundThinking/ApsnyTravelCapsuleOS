@@ -71,10 +71,10 @@ The algorithm can be configured via environment variables.
 
 ### 5.1. Environment Variables
 
-| Variable | Description | Default |
-| :--- | :--- | :--- |
-| `APSNYTRAVEL_SOURCE_URL` | The URL of the live `capsules.json` file. | `https://apsnytravel.ru/capsules.json` |
-| `CAPSULEOS_OUTPUT_DIR` | The directory to write the generated JSON files to. | `client/public/` |
+| Variable                 | Description                                         | Default                                |
+| :----------------------- | :-------------------------------------------------- | :------------------------------------- |
+| `APSNYTRAVEL_SOURCE_URL` | The URL of the live `capsules.json` file.           | `https://apsnytravel.ru/capsules.json` |
+| `CAPSULEOS_OUTPUT_DIR`   | The directory to write the generated JSON files to. | `client/public/`                       |
 
 ### 5.2. `.env` File
 

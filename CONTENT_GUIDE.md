@@ -10,9 +10,9 @@ A capsule is a single Markdown file that describes a specific entity: a **Tour**
 
 ### File Location
 
--   **Tours**: `capsules/tier1-products/tour/`
--   **Places**: `capsules/tier2-deeplinks/places/{category}/`
--   **Guides**: `capsules/tier2-deeplinks/guides/`
+- **Tours**: `capsules/tier1-products/tour/`
+- **Places**: `capsules/tier2-deeplinks/places/{category}/`
+- **Guides**: `capsules/tier2-deeplinks/guides/`
 
 ---
 
@@ -37,36 +37,38 @@ Related Tours: #1, #4
 
 ## 📍 Information
 
-| Parameter | Value |
-|---|---|
-| **Location** | City or Region |
-| **Best Time** | Season or Time of Day |
-| **Duration** | Recommended visit time |
-| **Cost** | Price or "Free" |
-| **Coordinates** | 00.0000, 00.0000 |
+| Parameter       | Value                  |
+| --------------- | ---------------------- |
+| **Location**    | City or Region         |
+| **Best Time**   | Season or Time of Day  |
+| **Duration**    | Recommended visit time |
+| **Cost**        | Price or "Free"        |
+| **Coordinates** | 00.0000, 00.0000       |
 
 ---
 
 ## 💎 Unique Features
 
--   **Feature 1**: Description...
--   **Feature 2**: Description...
+- **Feature 1**: Description...
+- **Feature 2**: Description...
 
 ---
 
 ## 📸 Photo Tips
 
--   **Best Spot**: Where to stand...
--   **Lighting**: When to shoot...
+- **Best Spot**: Where to stand...
+- **Lighting**: When to shoot...
 
 ---
 
 ## 🔗 Related Capsules
 
 **Tours:**
+
 - [Tour Name](../../../tier1-products/tour/tour-file.md)
 
 **Nearby:**
+
 - [Place Name](../category/place-file.md)
 ```
 
@@ -77,8 +79,8 @@ Related Tours: #1, #4
 1.  **Slugs**: Must be unique. Format: `type/name` (e.g., `place/blue-lake`).
 2.  **Images**: Do not embed images directly in Markdown yet. We handle images via the frontend assets folder.
 3.  **Links**: Use relative paths for links.
-    -   ✅ `../nature/lake.md`
-    -   ❌ `/capsules/lake.md`
+    - ✅ `../nature/lake.md`
+    - ❌ `/capsules/lake.md`
 4.  **Tone**: Professional, inspiring, but factual. Avoid excessive exclamation marks.
 5.  **Verification**: If you are unsure about a fact (like coordinates), add `[RESEARCH_NEEDED]` next to it.
 

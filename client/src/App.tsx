@@ -8,33 +8,32 @@ import Home from "./pages/Home";
 import CapsulePage from "./pages/CapsulePage";
 import CategoryPage from "./pages/CategoryPage";
 
-
 function Router() {
   return (
     <Switch>
       <Route path={"/"} component={Home} />
-      
+
       {/* Category Routes */}
       <Route path="/tours">
-        <CategoryPage 
-          type="product" 
-          title="Curated Tours" 
+        <CategoryPage
+          type="product"
+          title="Curated Tours"
           description="Expertly crafted winter experiences in Abkhazia."
           heroImage="/images/hero-skitouring.jpg"
         />
       </Route>
       <Route path="/places">
-        <CategoryPage 
-          type="place" 
-          title="Destinations" 
+        <CategoryPage
+          type="place"
+          title="Destinations"
           description="Explore the hidden gems and iconic landmarks of the region."
           heroImage="/images/hero-gagra-colonnade.jpg"
         />
       </Route>
       <Route path="/guides">
-        <CategoryPage 
-          type="guide" 
-          title="Travel Guides" 
+        <CategoryPage
+          type="guide"
+          title="Travel Guides"
           description="Essential tips and advice for your winter journey."
           heroImage="/images/hero-winter-ritsa.jpg"
         />

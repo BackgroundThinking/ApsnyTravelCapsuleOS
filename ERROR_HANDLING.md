@@ -37,12 +37,12 @@ console.log(logs);
 
 ### 2.2. Log Levels
 
-| Level | Value | Description |
-| :--- | :--- | :--- |
-| `DEBUG` | 0 | Detailed information for debugging. |
-| `INFO` | 1 | General informational messages. |
-| `WARN` | 2 | Warning messages for potentially problematic situations. |
-| `ERROR` | 3 | Error messages for failures. |
+| Level   | Value | Description                                              |
+| :------ | :---- | :------------------------------------------------------- |
+| `DEBUG` | 0     | Detailed information for debugging.                      |
+| `INFO`  | 1     | General informational messages.                          |
+| `WARN`  | 2     | Warning messages for potentially problematic situations. |
+| `ERROR` | 3     | Error messages for failures.                             |
 
 By default, the application uses `DEBUG` level in development and `INFO` level in production.
 

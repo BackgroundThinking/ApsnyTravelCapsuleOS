@@ -23,14 +23,14 @@ Each `/autoupdate` command triggers a single **improvement cycle**. A cycle is a
 1.  **Task Identification:** The assigned AI agent scans the repository to identify a single, high-priority task based on its role (e.g., add a test, improve documentation, refactor a function).
 
 2.  **Deep Thinking:** The agent enters a "deep-thinking" mode to analyze the task and formulate a plan. This involves:
-    -   Understanding the context of the code or document.
-    -   Considering the impact of the change.
-    -   Formulating the exact code or text to be written.
+    - Understanding the context of the code or document.
+    - Considering the impact of the change.
+    - Formulating the exact code or text to be written.
 
 3.  **Action Execution:** The agent executes the planned action. This could be:
-    -   Writing a new file.
-    -   Editing an existing file.
-    -   Running a validation script.
+    - Writing a new file.
+    - Editing an existing file.
+    - Running a validation script.
 
 4.  **Committing the Change:** The agent commits the change to the repository with a descriptive commit message.
 
@@ -42,13 +42,13 @@ Each `/autoupdate` command triggers a single **improvement cycle**. A cycle is a
 >
 > **AI Agent:** "Understood! I will now perform one improvement cycle."
 >
-> *Agent identifies that the `get_capsule_by_id` function in `data.ts` is missing a docstring.*
+> _Agent identifies that the `get_capsule_by_id` function in `data.ts` is missing a docstring._
 >
-> *Agent enters deep-thinking mode and formulates the docstring.*
+> _Agent enters deep-thinking mode and formulates the docstring._
 >
-> *Agent edits `data.ts` to add the docstring.*
+> _Agent edits `data.ts` to add the docstring._
 >
-> *Agent commits the change with the message: `docs: add docstring for get_capsule_by_id`*
+> _Agent commits the change with the message: `docs: add docstring for get_capsule_by_id`_
 >
 > **AI Agent:** "✅ **Cycle Complete:** I have added a docstring to the `get_capsule_by_id` function in `client/src/lib/data.ts`. See commit `[commit_hash]`."
 

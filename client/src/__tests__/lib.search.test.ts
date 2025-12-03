@@ -29,7 +29,7 @@ describe("Search Module", () => {
   it("should filter by type", async () => {
     const places = capsuleSearch.getDocumentsByType("place");
     expect(places.length).toBeGreaterThan(0);
-    expect(places.every((p) => p.type === "place")).toBe(true);
+    expect(places.every(p => p.type === "place")).toBe(true);
   });
 
   it("should filter by region", async () => {

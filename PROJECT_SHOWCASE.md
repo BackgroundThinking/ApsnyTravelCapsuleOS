@@ -64,54 +64,58 @@ The project is designed to welcome contributions:
 
 ## 📊 Project Statistics
 
-| Metric | Value |
-|--------|-------|
-| **Total Capsules** | 53 |
-| **Relationship Edges** | 169 |
-| **Connectivity** | 100% |
-| **Documentation Files** | 15+ |
-| **Python Modules** | 7 |
-| **Test Cases** | 16+ |
-| **Bundle Size** | 670 KB |
-| **Data Files** | 421 KB |
-| **Lines of Code** | 10,000+ |
-| **Commits** | 5+ |
+| Metric                  | Value   |
+| ----------------------- | ------- |
+| **Total Capsules**      | 53      |
+| **Relationship Edges**  | 169     |
+| **Connectivity**        | 100%    |
+| **Documentation Files** | 15+     |
+| **Python Modules**      | 7       |
+| **Test Cases**          | 16+     |
+| **Bundle Size**         | 670 KB  |
+| **Data Files**          | 421 KB  |
+| **Lines of Code**       | 10,000+ |
+| **Commits**             | 5+      |
 
 ---
 
 ## 🛠️ Technology Stack
 
-| Layer | Technology |
-|-------|-----------|
-| **Frontend** | React 19, TypeScript 5.6, Vite 7, TailwindCSS |
-| **Algorithm** | Python 3.11, Pydantic, Requests |
-| **DevOps** | Docker, GitHub Actions, Nginx |
-| **Testing** | Vitest, Pydantic validation |
-| **Documentation** | Markdown |
+| Layer             | Technology                                    |
+| ----------------- | --------------------------------------------- |
+| **Frontend**      | React 19, TypeScript 5.6, Vite 7, TailwindCSS |
+| **Algorithm**     | Python 3.11, Pydantic, Requests               |
+| **DevOps**        | Docker, GitHub Actions, Nginx                 |
+| **Testing**       | Vitest, Pydantic validation                   |
+| **Documentation** | Markdown                                      |
 
 ---
 
 ## 🎯 Key Features
 
 ### Content Management
+
 - Automatic synchronization with ApsnyTravel.ru
 - Intelligent content enrichment with SEO metadata
 - Relationship discovery and knowledge graph building
 - Full-text search capability
 
 ### Performance
+
 - Optimized bundle size (670 KB)
 - Code splitting for faster load times
 - Gzip compression support
 - Efficient caching strategies
 
 ### Security
+
 - Content Security Policy (CSP)
 - HTTPS/TLS configuration
 - Security headers implementation
 - Dependency vulnerability auditing
 
 ### Operations
+
 - Comprehensive logging and monitoring
 - Error handling and recovery
 - Automated deployment pipeline

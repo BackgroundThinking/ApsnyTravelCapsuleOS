@@ -176,10 +176,10 @@ Use the React DevTools and Redux DevTools browser extensions for debugging.
 Use the logger utility for structured logging:
 
 ```typescript
-import { logger } from '@/lib/logger';
+import { logger } from "@/lib/logger";
 
-logger.info('Message', { context: 'value' });
-logger.error('Error occurred', { error: err });
+logger.info("Message", { context: "value" });
+logger.error("Error occurred", { error: err });
 ```
 
 ### Python Debugging

@@ -56,13 +56,13 @@ add_header Strict-Transport-Security "max-age=31536000; includeSubDomains" alway
 
 Implement the following HTTP security headers:
 
-| Header | Value | Purpose |
-| :--- | :--- | :--- |
-| `X-Content-Type-Options` | `nosniff` | Prevents MIME type sniffing |
-| `X-Frame-Options` | `DENY` | Prevents clickjacking |
-| `X-XSS-Protection` | `1; mode=block` | Enables XSS protection |
-| `Referrer-Policy` | `strict-origin-when-cross-origin` | Controls referrer information |
-| `Permissions-Policy` | `geolocation=(), microphone=(), camera=()` | Restricts browser features |
+| Header                   | Value                                      | Purpose                       |
+| :----------------------- | :----------------------------------------- | :---------------------------- |
+| `X-Content-Type-Options` | `nosniff`                                  | Prevents MIME type sniffing   |
+| `X-Frame-Options`        | `DENY`                                     | Prevents clickjacking         |
+| `X-XSS-Protection`       | `1; mode=block`                            | Enables XSS protection        |
+| `Referrer-Policy`        | `strict-origin-when-cross-origin`          | Controls referrer information |
+| `Permissions-Policy`     | `geolocation=(), microphone=(), camera=()` | Restricts browser features    |
 
 ### 4.1. Nginx Configuration Example
 

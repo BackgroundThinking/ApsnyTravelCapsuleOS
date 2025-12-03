@@ -25,13 +25,13 @@ describe("Data Layer - Capsule Fetching", () => {
   });
 
   it("should have unique slugs", async () => {
-    const slugs = capsules.map((c) => c.slug);
+    const slugs = capsules.map(c => c.slug);
     const uniqueSlugs = new Set(slugs);
     expect(uniqueSlugs.size).toBe(slugs.length);
   });
 
   it("should have unique IDs", async () => {
-    const ids = capsules.map((c) => c.id);
+    const ids = capsules.map(c => c.id);
     const uniqueIds = new Set(ids);
     expect(uniqueIds.size).toBe(ids.length);
   });

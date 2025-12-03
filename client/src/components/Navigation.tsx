@@ -22,7 +22,7 @@ export function Navigation() {
         </Link>
 
         <div className="hidden md:flex items-center gap-8">
-          {links.map((link) => (
+          {links.map(link => (
             <Link key={link.href} href={link.href}>
               <a
                 className={cn(

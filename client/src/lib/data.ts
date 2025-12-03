@@ -44,14 +44,20 @@ export async function fetchCapsules(): Promise<Capsule[]> {
   return z.array(CapsuleSchema).parse(data.capsules);
 }
 
-export async function fetchCapsuleBySlug(slug: string): Promise<Capsule | undefined> {
+export async function fetchCapsuleBySlug(
+  slug: string
+): Promise<Capsule | undefined> {
   const capsules = await fetchCapsules();
-  return capsules.find((c) => c.slug === slug);
+  return capsules.find(c => c.slug === slug);
 }
 
-export async function fetchCapsulesByCategory(category: string): Promise<Capsule[]> {
+export async function fetchCapsulesByCategory(
+  category: string
+): Promise<Capsule[]> {
   const capsules = await fetchCapsules();
   // Note: Category logic might need adjustment based on actual data structure
   // For now, we filter by type or check if category is in keywords
-  return capsules.filter((c) => c.type === category || c.seo.keywords.includes(category));
+  return capsules.filter(
+    c => c.type === category || c.seo.keywords.includes(category)
+  );
 }

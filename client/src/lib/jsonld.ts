@@ -5,7 +5,12 @@ import { Capsule } from "./data";
  * This helps search engines understand the content better
  */
 export function generateCapsuleSchema(capsule: Capsule): object {
-  const schemaType = capsule.type === "product" ? "Product" : capsule.type === "place" ? "Place" : "Article";
+  const schemaType =
+    capsule.type === "product"
+      ? "Product"
+      : capsule.type === "place"
+        ? "Place"
+        : "Article";
 
   const schema: any = {
     "@context": "https://schema.org",
@@ -76,7 +81,9 @@ export function generateOrganizationSchema(): object {
 /**
  * Generate BreadcrumbList schema for navigation
  */
-export function generateBreadcrumbSchema(items: { name: string; url: string }[]): object {
+export function generateBreadcrumbSchema(
+  items: { name: string; url: string }[]
+): object {
   return {
     "@context": "https://schema.org",
     "@type": "BreadcrumbList",

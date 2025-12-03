@@ -21,13 +21,13 @@ The core philosophy behind the AI agents is to enable **continuous, iterative im
 
 There are several types of AI agents, each with a specific role:
 
-| Agent Type | Role | Responsibilities |
-| :--- | :--- | :--- |
-| **Architect** | System Design & Architecture | - Analyze and improve the overall architecture<br>- Identify and refactor code smells<br>- Propose and implement performance optimizations |
-| **Documenter** | Documentation & Content | - Write and update documentation<br>- Improve code comments and docstrings<br>- Ensure all documentation is up-to-date and accurate |
-| **Tester** | Quality Assurance & Testing | - Write and update unit and integration tests<br>- Identify and report bugs<br>- Ensure all code is tested and validated |
-| **Security** | Security & Compliance | - Identify and patch security vulnerabilities<br>- Ensure compliance with security best practices<br>- Monitor dependencies for security issues |
-| **Janitor** | Code & Repository Hygiene | - Clean up unused code and files<br>- Organize the repository structure<br>- Ensure consistent code formatting |
+| Agent Type     | Role                         | Responsibilities                                                                                                                                |
+| :------------- | :--------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Architect**  | System Design & Architecture | - Analyze and improve the overall architecture<br>- Identify and refactor code smells<br>- Propose and implement performance optimizations      |
+| **Documenter** | Documentation & Content      | - Write and update documentation<br>- Improve code comments and docstrings<br>- Ensure all documentation is up-to-date and accurate             |
+| **Tester**     | Quality Assurance & Testing  | - Write and update unit and integration tests<br>- Identify and report bugs<br>- Ensure all code is tested and validated                        |
+| **Security**   | Security & Compliance        | - Identify and patch security vulnerabilities<br>- Ensure compliance with security best practices<br>- Monitor dependencies for security issues |
+| **Janitor**    | Code & Repository Hygiene    | - Clean up unused code and files<br>- Organize the repository structure<br>- Ensure consistent code formatting                                  |
 
 ---
 
@@ -40,10 +40,10 @@ The agents operate in a continuous cycle of **Observe → Think → Act**:
 2.  **Think:** The agent analyzes the observation and formulates a plan of action. This involves a "deep-thinking" process where the agent considers the impact of the change, potential side effects, and the best way to implement it.
 
 3.  **Act:** The agent executes the planned action. This could be:
-    -   Creating a new file (e.g., a test file or documentation)
-    -   Editing an existing file (e.g., refactoring code or adding comments)
-    -   Creating a pull request for larger changes
-    -   Logging the action and its outcome
+    - Creating a new file (e.g., a test file or documentation)
+    - Editing an existing file (e.g., refactoring code or adding comments)
+    - Creating a pull request for larger changes
+    - Logging the action and its outcome
 
 ---
 

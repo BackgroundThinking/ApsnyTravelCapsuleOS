@@ -20,18 +20,42 @@ export function Footer() {
         <div>
           <h4 className="font-bold uppercase mb-4 text-sm">Explore</h4>
           <ul className="space-y-2 text-sm text-muted-foreground">
-            <li><Link href="/tours"><a className="hover:text-primary">Tours</a></Link></li>
-            <li><Link href="/places"><a className="hover:text-primary">Places</a></Link></li>
-            <li><Link href="/guides"><a className="hover:text-primary">Guides</a></Link></li>
+            <li>
+              <Link href="/tours">
+                <a className="hover:text-primary">Tours</a>
+              </Link>
+            </li>
+            <li>
+              <Link href="/places">
+                <a className="hover:text-primary">Places</a>
+              </Link>
+            </li>
+            <li>
+              <Link href="/guides">
+                <a className="hover:text-primary">Guides</a>
+              </Link>
+            </li>
           </ul>
         </div>
 
         <div>
           <h4 className="font-bold uppercase mb-4 text-sm">Company</h4>
           <ul className="space-y-2 text-sm text-muted-foreground">
-            <li><Link href="/about"><a className="hover:text-primary">About Us</a></Link></li>
-            <li><Link href="/contact"><a className="hover:text-primary">Contact</a></Link></li>
-            <li><Link href="/privacy"><a className="hover:text-primary">Privacy Policy</a></Link></li>
+            <li>
+              <Link href="/about">
+                <a className="hover:text-primary">About Us</a>
+              </Link>
+            </li>
+            <li>
+              <Link href="/contact">
+                <a className="hover:text-primary">Contact</a>
+              </Link>
+            </li>
+            <li>
+              <Link href="/privacy">
+                <a className="hover:text-primary">Privacy Policy</a>
+              </Link>
+            </li>
           </ul>
         </div>
 

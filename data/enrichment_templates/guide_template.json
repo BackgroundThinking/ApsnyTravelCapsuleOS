@@ -15,21 +15,9 @@
     "Budget or cost-saving tip"
   ],
   "rating": 4.8,
-  "category_tags": [
-    "travel-guide",
-    "tips",
-    "planning",
-    "practical-advice"
-  ],
+  "category_tags": ["travel-guide", "tips", "planning", "practical-advice"],
   "related_capsules": {
-    "places": [
-      "place-id-1",
-      "place-id-2",
-      "place-id-3"
-    ],
-    "products": [
-      "product-id-1",
-      "product-id-2"
-    ]
+    "places": ["place-id-1", "place-id-2", "place-id-3"],
+    "products": ["product-id-1", "product-id-2"]
   }
 }

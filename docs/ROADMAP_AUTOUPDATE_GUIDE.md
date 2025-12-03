@@ -2,7 +2,7 @@
 
 **Version:** 1.0  
 **Created:** December 2, 2025  
-**Status:** Ready for Use  
+**Status:** Ready for Use
 
 ---
 
@@ -29,6 +29,7 @@ python3 scripts/autoupdate_roadmap.py --status
 ```
 
 Output shows:
+
 - All phases and milestones
 - Progress percentage for each milestone
 - Current completion status
@@ -40,6 +41,7 @@ python3 scripts/autoupdate_roadmap.py --next
 ```
 
 Output shows:
+
 - Current phase
 - Next milestone
 - Next task to execute
@@ -47,11 +49,13 @@ Output shows:
 ### Execute Next Iteration
 
 Type in your message:
+
 ```
 /autoupdate
 ```
 
 The system will:
+
 1. Read ROADMAP.md
 2. Identify next incomplete task
 3. Execute one iteration cycle
@@ -130,18 +134,21 @@ Iteration 5: M1.2 Task 2 ✓
 **Effort:** 40-60 hours
 
 #### M1.1: Image Generation (Week 1-2)
+
 - Generate 165 place images
 - Generate 20 guide images
 - Validate and optimize
 - Organize in directories
 
 #### M1.2: Data Enrichment (Week 2-3)
+
 - Write descriptions (43 capsules)
 - Create highlights (43 capsules)
 - Assign ratings
 - Add practical information
 
 #### M1.3: Website Components (Week 3-4)
+
 - Create CapsuleGallery component
 - Create HighlightsBadges component
 - Create RatingStars component
@@ -153,11 +160,13 @@ Iteration 5: M1.2 Task 2 ✓
 **Status:** Coming soon
 
 #### M2.1: Search & Filtering
+
 - Implement full-text search
 - Create advanced filter component
 - Add autocomplete
 
 #### M2.2: Recommendations Engine
+
 - Implement "similar places" algorithm
 - Create recommendation component
 - Add favorites system
@@ -176,17 +185,20 @@ Iteration 5: M1.2 Task 2 ✓
 ### Basic Usage
 
 **Step 1: Check Status**
+
 ```bash
 python3 scripts/autoupdate_roadmap.py --status
 ```
 
 **Step 2: View Next Task**
+
 ```bash
 python3 scripts/autoupdate_roadmap.py --next
 ```
 
 **Step 3: Execute Iteration**
 Type in your message:
+
 ```
 /autoupdate
 ```
@@ -239,6 +251,7 @@ Each major task (milestone) is broken into:
 **Main Task:** Generate 185 images
 
 **Subtasks:**
+
 1. Generate 165 place images (5 per place)
 2. Generate 20 guide images (2 per guide)
 3. Validate image quality
@@ -247,6 +260,7 @@ Each major task (milestone) is broken into:
 6. Create inventory report
 
 **Each Iteration:**
+
 - Completes 1-2 subtasks
 - Takes 20-60 minutes
 - Produces concrete outputs
@@ -416,7 +430,8 @@ To change task priority:
 ### "Next task not found"
 
 **Cause:** All tasks are completed or ROADMAP is malformed  
-**Solution:** 
+**Solution:**
+
 1. Check ROADMAP.md syntax
 2. Verify task checkboxes are formatted correctly
 3. Run `python3 scripts/autoupdate_roadmap.py --status`
@@ -425,6 +440,7 @@ To change task priority:
 
 **Cause:** Task depends on incomplete prerequisites  
 **Solution:**
+
 1. Mark task with `[!]` status
 2. Note blocker in ROADMAP
 3. Complete prerequisite tasks first
@@ -434,6 +450,7 @@ To change task priority:
 
 **Cause:** ROADMAP.md not being saved correctly  
 **Solution:**
+
 1. Verify file permissions
 2. Check file is not locked
 3. Manually update ROADMAP if needed
@@ -474,14 +491,14 @@ To change task priority:
 
 ## Timeline
 
-| Phase | Duration | Start | End | Status |
-|-------|----------|-------|-----|--------|
-| 1 | 4 weeks | Dec 2 | Dec 30 | Ready |
-| 2 | 2 weeks | Dec 30 | Jan 13 | Coming |
-| 3 | 1 week | Jan 13 | Jan 20 | Coming |
-| 4 | 1 week | Jan 20 | Jan 27 | Coming |
-| 5 | 1 week | Jan 27 | Feb 3 | Coming |
-| 6 | Ongoing | Feb 3 | TBD | Coming |
+| Phase | Duration | Start  | End    | Status |
+| ----- | -------- | ------ | ------ | ------ |
+| 1     | 4 weeks  | Dec 2  | Dec 30 | Ready  |
+| 2     | 2 weeks  | Dec 30 | Jan 13 | Coming |
+| 3     | 1 week   | Jan 13 | Jan 20 | Coming |
+| 4     | 1 week   | Jan 20 | Jan 27 | Coming |
+| 5     | 1 week   | Jan 27 | Feb 3  | Coming |
+| 6     | Ongoing  | Feb 3  | TBD    | Coming |
 
 **Total:** 9-10 weeks, 150-200 hours
 

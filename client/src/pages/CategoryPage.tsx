@@ -12,18 +12,23 @@ interface CategoryPageProps {
   heroImage: string;
 }
 
-export default function CategoryPage({ type, title, description, heroImage }: CategoryPageProps) {
+export default function CategoryPage({
+  type,
+  title,
+  description,
+  heroImage,
+}: CategoryPageProps) {
   const [capsules, setCapsules] = useState<Capsule[]>([]);
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
-    fetchCapsules().then((data) => {
+    fetchCapsules().then(data => {
       // Filter capsules by type
       // Note: 'product' covers tours/transfers, 'place' covers places, 'guide' covers guides
       const filtered = data.filter(c => {
-        if (type === 'product') return c.tier === 1; // Tier 1 are products/tours
-        if (type === 'place') return c.tier === 2 && c.type === 'place';
-        if (type === 'guide') return c.tier === 2 && c.type === 'guide';
+        if (type === "product") return c.tier === 1; // Tier 1 are products/tours
+        if (type === "place") return c.tier === 2 && c.type === "place";
+        if (type === "guide") return c.tier === 2 && c.type === "guide";
         return false;
       });
       setCapsules(filtered);
@@ -45,7 +50,7 @@ export default function CategoryPage({ type, title, description, heroImage }: Ca
           />
           <div className="absolute inset-0 bg-black/50" />
         </div>
-        
+
         <div className="relative container h-full flex flex-col justify-center z-10 text-white">
           <div className="max-w-4xl space-y-4">
             <h1 className="text-5xl md:text-6xl font-bold tracking-tighter leading-none uppercase animate-in fade-in slide-in-from-bottom-4 duration-700">
@@ -62,13 +67,13 @@ export default function CategoryPage({ type, title, description, heroImage }: Ca
       <main className="flex-1 container py-16">
         {loading ? (
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
-            {[1, 2, 3, 4, 5, 6].map((i) => (
+            {[1, 2, 3, 4, 5, 6].map(i => (
               <div key={i} className="aspect-[4/3] bg-muted animate-pulse" />
             ))}
           </div>
         ) : (
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-            {capsules.map((capsule) => (
+            {capsules.map(capsule => (
               <Link key={capsule.id} href={`/capsule/${capsule.slug}`}>
                 <a className="group block bg-background border border-border hover:border-primary transition-all hover:-translate-y-1">
                   <div className="aspect-video overflow-hidden bg-muted relative">
@@ -88,7 +93,7 @@ export default function CategoryPage({ type, title, description, heroImage }: Ca
                         </span>
                       )}
                     </div>
-                    
+
                     <div>
                       <h3 className="text-xl font-bold uppercase leading-tight mb-2 group-hover:text-primary transition-colors">
                         {capsule.title}
@@ -99,7 +104,9 @@ export default function CategoryPage({ type, title, description, heroImage }: Ca
                     </div>
 
                     <div className="pt-4 border-t border-border flex justify-between items-center">
-                      <span className="text-xs font-bold uppercase text-muted-foreground">View Details</span>
+                      <span className="text-xs font-bold uppercase text-muted-foreground">
+                        View Details
+                      </span>
                       <ArrowRight className="w-4 h-4 text-muted-foreground group-hover:text-primary transition-colors" />
                     </div>
                   </div>

@@ -32,52 +32,52 @@ This is the primary data source for the entire application. It contains an array
 
 Each object in the `capsules` array represents a single content capsule and follows this schema:
 
-| Field | Type | Description |
-| :--- | :--- | :--- |
-| `id` | `string` | A unique identifier for the capsule (e.g., `place-lake-ritsa-winter`). |
-| `type` | `string` | The type of capsule. Can be `product`, `place`, or `guide`. |
-| `tier` | `number` | The content hierarchy tier. `1` for top-level (products), `2` for nested (places, guides). |
-| `slug` | `string` | The URL-friendly slug (e.g., `place/lake-ritsa-winter`). |
-| `title` | `string` | The main title of the capsule. |
-| `emoji` | `string` | An emoji representing the capsule. |
-| `geo` | `Geo` | An object containing geospatial information. |
-| `links` | `Links` | An object containing relationships to other capsules. |
-| `seo` | `SEO` | An object containing SEO metadata. |
-| `content` | `string` | The full Markdown content of the capsule. |
-| `metadata` | `Metadata` | An object containing creation and update timestamps. |
+| Field      | Type       | Description                                                                                |
+| :--------- | :--------- | :----------------------------------------------------------------------------------------- |
+| `id`       | `string`   | A unique identifier for the capsule (e.g., `place-lake-ritsa-winter`).                     |
+| `type`     | `string`   | The type of capsule. Can be `product`, `place`, or `guide`.                                |
+| `tier`     | `number`   | The content hierarchy tier. `1` for top-level (products), `2` for nested (places, guides). |
+| `slug`     | `string`   | The URL-friendly slug (e.g., `place/lake-ritsa-winter`).                                   |
+| `title`    | `string`   | The main title of the capsule.                                                             |
+| `emoji`    | `string`   | An emoji representing the capsule.                                                         |
+| `geo`      | `Geo`      | An object containing geospatial information.                                               |
+| `links`    | `Links`    | An object containing relationships to other capsules.                                      |
+| `seo`      | `SEO`      | An object containing SEO metadata.                                                         |
+| `content`  | `string`   | The full Markdown content of the capsule.                                                  |
+| `metadata` | `Metadata` | An object containing creation and update timestamps.                                       |
 
 ### 2.3. Sub-Object Schemas
 
 #### `Geo` Object
 
-| Field | Type | Description |
-| :--- | :--- | :--- |
-| `lat` | `number` | Latitude coordinate. |
-| `lng` | `number` | Longitude coordinate. |
+| Field    | Type     | Description                                 |
+| :------- | :------- | :------------------------------------------ |
+| `lat`    | `number` | Latitude coordinate.                        |
+| `lng`    | `number` | Longitude coordinate.                       |
 | `region` | `string` | The geographical region (e.g., `abkhazia`). |
 
 #### `Links` Object
 
-| Field | Type | Description |
-| :--- | :--- | :--- |
-| `parent` | `string[]` | An array of IDs of parent capsules. |
-| `children` | `string[]` | An array of IDs of child capsules. |
-| `related` | `string[]` | An array of IDs of related capsules. |
+| Field      | Type       | Description                          |
+| :--------- | :--------- | :----------------------------------- |
+| `parent`   | `string[]` | An array of IDs of parent capsules.  |
+| `children` | `string[]` | An array of IDs of child capsules.   |
+| `related`  | `string[]` | An array of IDs of related capsules. |
 | `siblings` | `string[]` | An array of IDs of sibling capsules. |
 
 #### `SEO` Object
 
-| Field | Type | Description |
-| :--- | :--- | :--- |
-| `title` | `string` | The SEO-optimized title. |
-| `description` | `string` | The meta description for search engines. |
-| `keywords` | `string[]` | An array of relevant keywords. |
+| Field         | Type       | Description                              |
+| :------------ | :--------- | :--------------------------------------- |
+| `title`       | `string`   | The SEO-optimized title.                 |
+| `description` | `string`   | The meta description for search engines. |
+| `keywords`    | `string[]` | An array of relevant keywords.           |
 
 #### `Metadata` Object
 
-| Field | Type | Description |
-| :--- | :--- | :--- |
-| `created` | `string` | The creation date in `YYYY-MM-DD` format. |
+| Field     | Type     | Description                                   |
+| :-------- | :------- | :-------------------------------------------- |
+| `created` | `string` | The creation date in `YYYY-MM-DD` format.     |
 | `updated` | `string` | The last updated date in `YYYY-MM-DD` format. |
 
 ---
@@ -93,17 +93,17 @@ This file provides a pre-built index for the client-side search functionality.
 
 The file contains an array of `SearchDocument` objects, each with the following structure:
 
-| Field | Type | Description |
-| :--- | :--- | :--- |
-| `id` | `string` | The unique ID of the capsule. |
-| `slug` | `string` | The URL slug of the capsule. |
-| `title` | `string` | The title of the capsule. |
-| `type` | `string` | The type of capsule (`product`, `place`, `guide`). |
-| `description` | `string` | The SEO description. |
-| `keywords` | `string[]` | An array of keywords for searching. |
-| `content` | `string` | A truncated preview of the content (first 500 chars). |
-| `region` | `string` | The geographical region. |
-| `emoji` | `string` | The representative emoji. |
+| Field         | Type       | Description                                           |
+| :------------ | :--------- | :---------------------------------------------------- |
+| `id`          | `string`   | The unique ID of the capsule.                         |
+| `slug`        | `string`   | The URL slug of the capsule.                          |
+| `title`       | `string`   | The title of the capsule.                             |
+| `type`        | `string`   | The type of capsule (`product`, `place`, `guide`).    |
+| `description` | `string`   | The SEO description.                                  |
+| `keywords`    | `string[]` | An array of keywords for searching.                   |
+| `content`     | `string`   | A truncated preview of the content (first 500 chars). |
+| `region`      | `string`   | The geographical region.                              |
+| `emoji`       | `string`   | The representative emoji.                             |
 
 ---
 
