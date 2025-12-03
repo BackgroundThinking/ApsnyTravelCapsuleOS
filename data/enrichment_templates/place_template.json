@@ -1,0 +1,46 @@
+{
+  "place_id": "place-example-location",
+  "gallery_images": [
+    "/images/capsules/place/example-primary.jpg",
+    "/images/capsules/place/example-detail.jpg",
+    "/images/capsules/place/example-visitor.jpg",
+    "/images/capsules/place/example-seasonal.jpg",
+    "/images/capsules/place/example-context.jpg"
+  ],
+  "description": "Comprehensive description of the place (200-300 words). Include what makes it special, historical/cultural significance, best time to visit, activities available, and practical information. Make it engaging and informative for tourists.",
+  "highlights": [
+    "Key attraction or feature 1",
+    "Key attraction or feature 2",
+    "Unique characteristic or experience",
+    "Visitor benefit or activity",
+    "Photo opportunity or scenic element",
+    "Cultural or historical significance",
+    "Seasonal highlight or special feature"
+  ],
+  "rating": 4.5,
+  "practical_info": {
+    "entry_fee": "Free or price in local currency",
+    "hours": "Opening hours (e.g., 9:00 AM - 6:00 PM)",
+    "best_season": ["december", "january", "february", "march"],
+    "duration": "Recommended visit duration (e.g., 2-3 hours)",
+    "parking": "Parking availability",
+    "restrooms": "Restroom availability",
+    "food_available": "Food/drink availability",
+    "difficulty_level": "easy",
+    "family_friendly": true,
+    "pet_friendly": false
+  },
+  "accessibility": {
+    "wheelchair_accessible": true,
+    "parking": true,
+    "restrooms": true,
+    "food_available": true
+  },
+  "category_tags": [
+    "nature",
+    "outdoor",
+    "scenic",
+    "photography",
+    "family-friendly"
+  ]
+}

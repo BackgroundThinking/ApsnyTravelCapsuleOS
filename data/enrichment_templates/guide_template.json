@@ -1,0 +1,35 @@
+{
+  "guide_id": "guide-example-topic",
+  "gallery_images": [
+    "/images/capsules/guide/example-featured.jpg",
+    "/images/capsules/guide/example-supporting.jpg"
+  ],
+  "description": "Comprehensive guide content (500+ words). Include detailed information, practical tips, best practices, common mistakes to avoid, and resources. Make it helpful and actionable for travelers.",
+  "highlights": [
+    "Essential tip or information 1",
+    "Essential tip or information 2",
+    "Best practice or recommendation",
+    "Important consideration or warning",
+    "Useful resource or contact",
+    "Seasonal consideration",
+    "Budget or cost-saving tip"
+  ],
+  "rating": 4.8,
+  "category_tags": [
+    "travel-guide",
+    "tips",
+    "planning",
+    "practical-advice"
+  ],
+  "related_capsules": {
+    "places": [
+      "place-id-1",
+      "place-id-2",
+      "place-id-3"
+    ],
+    "products": [
+      "product-id-1",
+      "product-id-2"
+    ]
+  }
+}

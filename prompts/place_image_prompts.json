@@ -1,0 +1,1223 @@
+[
+  {
+    "id": "place-курорт-красная-поляна",
+    "title": "Курорт Красная Поляна",
+    "type": "place",
+    "image_prompts": [
+      {
+        "number": 1,
+        "type": "primary_attraction",
+        "prompt": "Professional landscape photography of Курорт Красная Поляна, Abkhazia. Wide-angle shot showing the main attraction and surrounding landscape. Golden hour lighting, cinematic composition, high resolution, 4K quality. Winter season with snow or frost visible. Beautiful natural lighting.",
+        "style": "landscape photography"
+      },
+      {
+        "number": 2,
+        "type": "detail_shot",
+        "prompt": "Close-up detail photography of Курорт Красная Поляна. Macro or medium close-up showing intricate details, textures, and features. Professional photography, sharp focus, beautiful lighting. Emphasize unique characteristics and beauty.",
+        "style": "detail photography"
+      },
+      {
+        "number": 3,
+        "type": "visitor_experience",
+        "prompt": "Atmospheric photograph of visitors or people experiencing Курорт Красная Поляна. Show human interaction with the location. Natural lighting, candid moment, warm and inviting. Winter season context.",
+        "style": "lifestyle photography"
+      },
+      {
+        "number": 4,
+        "type": "seasonal_variant",
+        "prompt": "Seasonal variation of Курорт Красная Поляна showing winter or spring characteristics. Different lighting condition from other images. Professional photography, high quality, cinematic.",
+        "style": "seasonal photography"
+      },
+      {
+        "number": 5,
+        "type": "context_shot",
+        "prompt": "Wide context shot of Курорт Красная Поляна showing geographical context and surroundings. Aerial or elevated perspective. Mountains, landscape, regional context visible. Winter Abkhazia setting.",
+        "style": "landscape photography"
+      }
+    ]
+  },
+  {
+    "id": "place-rosa-khutor-village",
+    "title": "Деревня Роза Хутор Сердце Зимнего Отдыха",
+    "type": "place",
+    "image_prompts": [
+      {
+        "number": 1,
+        "type": "primary_attraction",
+        "prompt": "Professional landscape photography of Деревня Роза Хутор Сердце Зимнего Отдыха, Abkhazia. Wide-angle shot showing the main attraction and surrounding landscape. Golden hour lighting, cinematic composition, high resolution, 4K quality. Winter season with snow or frost visible. Beautiful natural lighting.",
+        "style": "landscape photography"
+      },
+      {
+        "number": 2,
+        "type": "detail_shot",
+        "prompt": "Close-up detail photography of Деревня Роза Хутор Сердце Зимнего Отдыха. Macro or medium close-up showing intricate details, textures, and features. Professional photography, sharp focus, beautiful lighting. Emphasize unique characteristics and beauty.",
+        "style": "detail photography"
+      },
+      {
+        "number": 3,
+        "type": "visitor_experience",
+        "prompt": "Atmospheric photograph of visitors or people experiencing Деревня Роза Хутор Сердце Зимнего Отдыха. Show human interaction with the location. Natural lighting, candid moment, warm and inviting. Winter season context.",
+        "style": "lifestyle photography"
+      },
+      {
+        "number": 4,
+        "type": "seasonal_variant",
+        "prompt": "Seasonal variation of Деревня Роза Хутор Сердце Зимнего Отдыха showing winter or spring characteristics. Different lighting condition from other images. Professional photography, high quality, cinematic.",
+        "style": "seasonal photography"
+      },
+      {
+        "number": 5,
+        "type": "context_shot",
+        "prompt": "Wide context shot of Деревня Роза Хутор Сердце Зимнего Отдыха showing geographical context and surroundings. Aerial or elevated perspective. Mountains, landscape, regional context visible. Winter Abkhazia setting.",
+        "style": "landscape photography"
+      }
+    ]
+  },
+  {
+    "id": "place-rosa-peak",
+    "title": "Untitled",
+    "type": "place",
+    "image_prompts": [
+      {
+        "number": 1,
+        "type": "primary_attraction",
+        "prompt": "Professional landscape photography of Untitled, Abkhazia. Wide-angle shot showing the main attraction and surrounding landscape. Golden hour lighting, cinematic composition, high resolution, 4K quality. Winter season with snow or frost visible. Beautiful natural lighting.",
+        "style": "landscape photography"
+      },
+      {
+        "number": 2,
+        "type": "detail_shot",
+        "prompt": "Close-up detail photography of Untitled. Macro or medium close-up showing intricate details, textures, and features. Professional photography, sharp focus, beautiful lighting. Emphasize unique characteristics and beauty.",
+        "style": "detail photography"
+      },
+      {
+        "number": 3,
+        "type": "visitor_experience",
+        "prompt": "Atmospheric photograph of visitors or people experiencing Untitled. Show human interaction with the location. Natural lighting, candid moment, warm and inviting. Winter season context.",
+        "style": "lifestyle photography"
+      },
+      {
+        "number": 4,
+        "type": "seasonal_variant",
+        "prompt": "Seasonal variation of Untitled showing winter or spring characteristics. Different lighting condition from other images. Professional photography, high quality, cinematic.",
+        "style": "seasonal photography"
+      },
+      {
+        "number": 5,
+        "type": "context_shot",
+        "prompt": "Wide context shot of Untitled showing geographical context and surroundings. Aerial or elevated perspective. Mountains, landscape, regional context visible. Winter Abkhazia setting.",
+        "style": "landscape photography"
+      }
+    ]
+  },
+  {
+    "id": "place-гтц-газпром-галактика",
+    "title": "ГТЦ Газпром  Галактика",
+    "type": "place",
+    "image_prompts": [
+      {
+        "number": 1,
+        "type": "primary_attraction",
+        "prompt": "Professional landscape photography of ГТЦ Газпром  Галактика, Abkhazia. Wide-angle shot showing the main attraction and surrounding landscape. Golden hour lighting, cinematic composition, high resolution, 4K quality. Winter season with snow or frost visible. Beautiful natural lighting.",
+        "style": "landscape photography"
+      },
+      {
+        "number": 2,
+        "type": "detail_shot",
+        "prompt": "Close-up detail photography of ГТЦ Газпром  Галактика. Macro or medium close-up showing intricate details, textures, and features. Professional photography, sharp focus, beautiful lighting. Emphasize unique characteristics and beauty.",
+        "style": "detail photography"
+      },
+      {
+        "number": 3,
+        "type": "visitor_experience",
+        "prompt": "Atmospheric photograph of visitors or people experiencing ГТЦ Газпром  Галактика. Show human interaction with the location. Natural lighting, candid moment, warm and inviting. Winter season context.",
+        "style": "lifestyle photography"
+      },
+      {
+        "number": 4,
+        "type": "seasonal_variant",
+        "prompt": "Seasonal variation of ГТЦ Газпром  Галактика showing winter or spring characteristics. Different lighting condition from other images. Professional photography, high quality, cinematic.",
+        "style": "seasonal photography"
+      },
+      {
+        "number": 5,
+        "type": "context_shot",
+        "prompt": "Wide context shot of ГТЦ Газпром  Галактика showing geographical context and surroundings. Aerial or elevated perspective. Mountains, landscape, regional context visible. Winter Abkhazia setting.",
+        "style": "landscape photography"
+      }
+    ]
+  },
+  {
+    "id": "place-панорама-цирк-2",
+    "title": "Панорама Цирк-2",
+    "type": "place",
+    "image_prompts": [
+      {
+        "number": 1,
+        "type": "primary_attraction",
+        "prompt": "Professional landscape photography of Панорама Цирк-2, Abkhazia. Wide-angle shot showing the main attraction and surrounding landscape. Golden hour lighting, cinematic composition, high resolution, 4K quality. Winter season with snow or frost visible. Beautiful natural lighting.",
+        "style": "landscape photography"
+      },
+      {
+        "number": 2,
+        "type": "detail_shot",
+        "prompt": "Close-up detail photography of Панорама Цирк-2. Macro or medium close-up showing intricate details, textures, and features. Professional photography, sharp focus, beautiful lighting. Emphasize unique characteristics and beauty.",
+        "style": "detail photography"
+      },
+      {
+        "number": 3,
+        "type": "visitor_experience",
+        "prompt": "Atmospheric photograph of visitors or people experiencing Панорама Цирк-2. Show human interaction with the location. Natural lighting, candid moment, warm and inviting. Winter season context.",
+        "style": "lifestyle photography"
+      },
+      {
+        "number": 4,
+        "type": "seasonal_variant",
+        "prompt": "Seasonal variation of Панорама Цирк-2 showing winter or spring characteristics. Different lighting condition from other images. Professional photography, high quality, cinematic.",
+        "style": "seasonal photography"
+      },
+      {
+        "number": 5,
+        "type": "context_shot",
+        "prompt": "Wide context shot of Панорама Цирк-2 showing geographical context and surroundings. Aerial or elevated perspective. Mountains, landscape, regional context visible. Winter Abkhazia setting.",
+        "style": "landscape photography"
+      }
+    ]
+  },
+  {
+    "id": "place-fisht-stadium",
+    "title": "Стадион «Фишт» Зимний Сезон 2025-2026",
+    "type": "place",
+    "image_prompts": [
+      {
+        "number": 1,
+        "type": "primary_attraction",
+        "prompt": "Professional landscape photography of Стадион «Фишт» Зимний Сезон 2025-2026, Abkhazia. Wide-angle shot showing the main attraction and surrounding landscape. Golden hour lighting, cinematic composition, high resolution, 4K quality. Winter season with snow or frost visible. Beautiful natural lighting.",
+        "style": "landscape photography"
+      },
+      {
+        "number": 2,
+        "type": "detail_shot",
+        "prompt": "Close-up detail photography of Стадион «Фишт» Зимний Сезон 2025-2026. Macro or medium close-up showing intricate details, textures, and features. Professional photography, sharp focus, beautiful lighting. Emphasize unique characteristics and beauty.",
+        "style": "detail photography"
+      },
+      {
+        "number": 3,
+        "type": "visitor_experience",
+        "prompt": "Atmospheric photograph of visitors or people experiencing Стадион «Фишт» Зимний Сезон 2025-2026. Show human interaction with the location. Natural lighting, candid moment, warm and inviting. Winter season context.",
+        "style": "lifestyle photography"
+      },
+      {
+        "number": 4,
+        "type": "seasonal_variant",
+        "prompt": "Seasonal variation of Стадион «Фишт» Зимний Сезон 2025-2026 showing winter or spring characteristics. Different lighting condition from other images. Professional photography, high quality, cinematic.",
+        "style": "seasonal photography"
+      },
+      {
+        "number": 5,
+        "type": "context_shot",
+        "prompt": "Wide context shot of Стадион «Фишт» Зимний Сезон 2025-2026 showing geographical context and surroundings. Aerial or elevated perspective. Mountains, landscape, regional context visible. Winter Abkhazia setting.",
+        "style": "landscape photography"
+      }
+    ]
+  },
+  {
+    "id": "place-олимпийский-парк",
+    "title": "Олимпийский парк",
+    "type": "place",
+    "image_prompts": [
+      {
+        "number": 1,
+        "type": "primary_attraction",
+        "prompt": "Professional landscape photography of Олимпийский парк, Abkhazia. Wide-angle shot showing the main attraction and surrounding landscape. Golden hour lighting, cinematic composition, high resolution, 4K quality. Winter season with snow or frost visible. Beautiful natural lighting.",
+        "style": "landscape photography"
+      },
+      {
+        "number": 2,
+        "type": "detail_shot",
+        "prompt": "Close-up detail photography of Олимпийский парк. Macro or medium close-up showing intricate details, textures, and features. Professional photography, sharp focus, beautiful lighting. Emphasize unique characteristics and beauty.",
+        "style": "detail photography"
+      },
+      {
+        "number": 3,
+        "type": "visitor_experience",
+        "prompt": "Atmospheric photograph of visitors or people experiencing Олимпийский парк. Show human interaction with the location. Natural lighting, candid moment, warm and inviting. Winter season context.",
+        "style": "lifestyle photography"
+      },
+      {
+        "number": 4,
+        "type": "seasonal_variant",
+        "prompt": "Seasonal variation of Олимпийский парк showing winter or spring characteristics. Different lighting condition from other images. Professional photography, high quality, cinematic.",
+        "style": "seasonal photography"
+      },
+      {
+        "number": 5,
+        "type": "context_shot",
+        "prompt": "Wide context shot of Олимпийский парк showing geographical context and surroundings. Aerial or elevated perspective. Mountains, landscape, regional context visible. Winter Abkhazia setting.",
+        "style": "landscape photography"
+      }
+    ]
+  },
+  {
+    "id": "place-singing-fountains",
+    "title": "Untitled",
+    "type": "place",
+    "image_prompts": [
+      {
+        "number": 1,
+        "type": "primary_attraction",
+        "prompt": "Professional landscape photography of Untitled, Abkhazia. Wide-angle shot showing the main attraction and surrounding landscape. Golden hour lighting, cinematic composition, high resolution, 4K quality. Winter season with snow or frost visible. Beautiful natural lighting.",
+        "style": "landscape photography"
+      },
+      {
+        "number": 2,
+        "type": "detail_shot",
+        "prompt": "Close-up detail photography of Untitled. Macro or medium close-up showing intricate details, textures, and features. Professional photography, sharp focus, beautiful lighting. Emphasize unique characteristics and beauty.",
+        "style": "detail photography"
+      },
+      {
+        "number": 3,
+        "type": "visitor_experience",
+        "prompt": "Atmospheric photograph of visitors or people experiencing Untitled. Show human interaction with the location. Natural lighting, candid moment, warm and inviting. Winter season context.",
+        "style": "lifestyle photography"
+      },
+      {
+        "number": 4,
+        "type": "seasonal_variant",
+        "prompt": "Seasonal variation of Untitled showing winter or spring characteristics. Different lighting condition from other images. Professional photography, high quality, cinematic.",
+        "style": "seasonal photography"
+      },
+      {
+        "number": 5,
+        "type": "context_shot",
+        "prompt": "Wide context shot of Untitled showing geographical context and surroundings. Aerial or elevated perspective. Mountains, landscape, regional context visible. Winter Abkhazia setting.",
+        "style": "landscape photography"
+      }
+    ]
+  },
+  {
+    "id": "place-olympic-flame",
+    "title": "Untitled",
+    "type": "place",
+    "image_prompts": [
+      {
+        "number": 1,
+        "type": "primary_attraction",
+        "prompt": "Professional landscape photography of Untitled, Abkhazia. Wide-angle shot showing the main attraction and surrounding landscape. Golden hour lighting, cinematic composition, high resolution, 4K quality. Winter season with snow or frost visible. Beautiful natural lighting.",
+        "style": "landscape photography"
+      },
+      {
+        "number": 2,
+        "type": "detail_shot",
+        "prompt": "Close-up detail photography of Untitled. Macro or medium close-up showing intricate details, textures, and features. Professional photography, sharp focus, beautiful lighting. Emphasize unique characteristics and beauty.",
+        "style": "detail photography"
+      },
+      {
+        "number": 3,
+        "type": "visitor_experience",
+        "prompt": "Atmospheric photograph of visitors or people experiencing Untitled. Show human interaction with the location. Natural lighting, candid moment, warm and inviting. Winter season context.",
+        "style": "lifestyle photography"
+      },
+      {
+        "number": 4,
+        "type": "seasonal_variant",
+        "prompt": "Seasonal variation of Untitled showing winter or spring characteristics. Different lighting condition from other images. Professional photography, high quality, cinematic.",
+        "style": "seasonal photography"
+      },
+      {
+        "number": 5,
+        "type": "context_shot",
+        "prompt": "Wide context shot of Untitled showing geographical context and surroundings. Aerial or elevated perspective. Mountains, landscape, regional context visible. Winter Abkhazia setting.",
+        "style": "landscape photography"
+      }
+    ]
+  },
+  {
+    "id": "place-sochi-autodrom",
+    "title": "Untitled",
+    "type": "place",
+    "image_prompts": [
+      {
+        "number": 1,
+        "type": "primary_attraction",
+        "prompt": "Professional landscape photography of Untitled, Abkhazia. Wide-angle shot showing the main attraction and surrounding landscape. Golden hour lighting, cinematic composition, high resolution, 4K quality. Winter season with snow or frost visible. Beautiful natural lighting.",
+        "style": "landscape photography"
+      },
+      {
+        "number": 2,
+        "type": "detail_shot",
+        "prompt": "Close-up detail photography of Untitled. Macro or medium close-up showing intricate details, textures, and features. Professional photography, sharp focus, beautiful lighting. Emphasize unique characteristics and beauty.",
+        "style": "detail photography"
+      },
+      {
+        "number": 3,
+        "type": "visitor_experience",
+        "prompt": "Atmospheric photograph of visitors or people experiencing Untitled. Show human interaction with the location. Natural lighting, candid moment, warm and inviting. Winter season context.",
+        "style": "lifestyle photography"
+      },
+      {
+        "number": 4,
+        "type": "seasonal_variant",
+        "prompt": "Seasonal variation of Untitled showing winter or spring characteristics. Different lighting condition from other images. Professional photography, high quality, cinematic.",
+        "style": "seasonal photography"
+      },
+      {
+        "number": 5,
+        "type": "context_shot",
+        "prompt": "Wide context shot of Untitled showing geographical context and surroundings. Aerial or elevated perspective. Mountains, landscape, regional context visible. Winter Abkhazia setting.",
+        "style": "landscape photography"
+      }
+    ]
+  },
+  {
+    "id": "place-new-athos-monastery",
+    "title": "Untitled",
+    "type": "place",
+    "image_prompts": [
+      {
+        "number": 1,
+        "type": "primary_attraction",
+        "prompt": "Professional landscape photography of Untitled, Abkhazia. Wide-angle shot showing the main attraction and surrounding landscape. Golden hour lighting, cinematic composition, high resolution, 4K quality. Winter season with snow or frost visible. Beautiful natural lighting.",
+        "style": "landscape photography"
+      },
+      {
+        "number": 2,
+        "type": "detail_shot",
+        "prompt": "Close-up detail photography of Untitled. Macro or medium close-up showing intricate details, textures, and features. Professional photography, sharp focus, beautiful lighting. Emphasize unique characteristics and beauty.",
+        "style": "detail photography"
+      },
+      {
+        "number": 3,
+        "type": "visitor_experience",
+        "prompt": "Atmospheric photograph of visitors or people experiencing Untitled. Show human interaction with the location. Natural lighting, candid moment, warm and inviting. Winter season context.",
+        "style": "lifestyle photography"
+      },
+      {
+        "number": 4,
+        "type": "seasonal_variant",
+        "prompt": "Seasonal variation of Untitled showing winter or spring characteristics. Different lighting condition from other images. Professional photography, high quality, cinematic.",
+        "style": "seasonal photography"
+      },
+      {
+        "number": 5,
+        "type": "context_shot",
+        "prompt": "Wide context shot of Untitled showing geographical context and surroundings. Aerial or elevated perspective. Mountains, landscape, regional context visible. Winter Abkhazia setting.",
+        "style": "landscape photography"
+      }
+    ]
+  },
+  {
+    "id": "place-лыхненский-храм-успения-богородицы",
+    "title": "Лыхненский храм Успения Богородицы",
+    "type": "place",
+    "image_prompts": [
+      {
+        "number": 1,
+        "type": "primary_attraction",
+        "prompt": "Professional landscape photography of Лыхненский храм Успения Богородицы, Abkhazia. Wide-angle shot showing the main attraction and surrounding landscape. Golden hour lighting, cinematic composition, high resolution, 4K quality. Winter season with snow or frost visible. Beautiful natural lighting.",
+        "style": "landscape photography"
+      },
+      {
+        "number": 2,
+        "type": "detail_shot",
+        "prompt": "Close-up detail photography of Лыхненский храм Успения Богородицы. Macro or medium close-up showing intricate details, textures, and features. Professional photography, sharp focus, beautiful lighting. Emphasize unique characteristics and beauty.",
+        "style": "detail photography"
+      },
+      {
+        "number": 3,
+        "type": "visitor_experience",
+        "prompt": "Atmospheric photograph of visitors or people experiencing Лыхненский храм Успения Богородицы. Show human interaction with the location. Natural lighting, candid moment, warm and inviting. Winter season context.",
+        "style": "lifestyle photography"
+      },
+      {
+        "number": 4,
+        "type": "seasonal_variant",
+        "prompt": "Seasonal variation of Лыхненский храм Успения Богородицы showing winter or spring characteristics. Different lighting condition from other images. Professional photography, high quality, cinematic.",
+        "style": "seasonal photography"
+      },
+      {
+        "number": 5,
+        "type": "context_shot",
+        "prompt": "Wide context shot of Лыхненский храм Успения Богородицы showing geographical context and surroundings. Aerial or elevated perspective. Mountains, landscape, regional context visible. Winter Abkhazia setting.",
+        "style": "landscape photography"
+      }
+    ]
+  },
+  {
+    "id": "place-заброшенная-гагра",
+    "title": "Заброшенная Гагра",
+    "type": "place",
+    "image_prompts": [
+      {
+        "number": 1,
+        "type": "primary_attraction",
+        "prompt": "Professional landscape photography of Заброшенная Гагра, Abkhazia. Wide-angle shot showing the main attraction and surrounding landscape. Golden hour lighting, cinematic composition, high resolution, 4K quality. Winter season with snow or frost visible. Beautiful natural lighting.",
+        "style": "landscape photography"
+      },
+      {
+        "number": 2,
+        "type": "detail_shot",
+        "prompt": "Close-up detail photography of Заброшенная Гагра. Macro or medium close-up showing intricate details, textures, and features. Professional photography, sharp focus, beautiful lighting. Emphasize unique characteristics and beauty.",
+        "style": "detail photography"
+      },
+      {
+        "number": 3,
+        "type": "visitor_experience",
+        "prompt": "Atmospheric photograph of visitors or people experiencing Заброшенная Гагра. Show human interaction with the location. Natural lighting, candid moment, warm and inviting. Winter season context.",
+        "style": "lifestyle photography"
+      },
+      {
+        "number": 4,
+        "type": "seasonal_variant",
+        "prompt": "Seasonal variation of Заброшенная Гагра showing winter or spring characteristics. Different lighting condition from other images. Professional photography, high quality, cinematic.",
+        "style": "seasonal photography"
+      },
+      {
+        "number": 5,
+        "type": "context_shot",
+        "prompt": "Wide context shot of Заброшенная Гагра showing geographical context and surroundings. Aerial or elevated perspective. Mountains, landscape, regional context visible. Winter Abkhazia setting.",
+        "style": "landscape photography"
+      }
+    ]
+  },
+  {
+    "id": "place-заброшенная-станция-псырцха",
+    "title": "Заброшенная станция Псырцха",
+    "type": "place",
+    "image_prompts": [
+      {
+        "number": 1,
+        "type": "primary_attraction",
+        "prompt": "Professional landscape photography of Заброшенная станция Псырцха, Abkhazia. Wide-angle shot showing the main attraction and surrounding landscape. Golden hour lighting, cinematic composition, high resolution, 4K quality. Winter season with snow or frost visible. Beautiful natural lighting.",
+        "style": "landscape photography"
+      },
+      {
+        "number": 2,
+        "type": "detail_shot",
+        "prompt": "Close-up detail photography of Заброшенная станция Псырцха. Macro or medium close-up showing intricate details, textures, and features. Professional photography, sharp focus, beautiful lighting. Emphasize unique characteristics and beauty.",
+        "style": "detail photography"
+      },
+      {
+        "number": 3,
+        "type": "visitor_experience",
+        "prompt": "Atmospheric photograph of visitors or people experiencing Заброшенная станция Псырцха. Show human interaction with the location. Natural lighting, candid moment, warm and inviting. Winter season context.",
+        "style": "lifestyle photography"
+      },
+      {
+        "number": 4,
+        "type": "seasonal_variant",
+        "prompt": "Seasonal variation of Заброшенная станция Псырцха showing winter or spring characteristics. Different lighting condition from other images. Professional photography, high quality, cinematic.",
+        "style": "seasonal photography"
+      },
+      {
+        "number": 5,
+        "type": "context_shot",
+        "prompt": "Wide context shot of Заброшенная станция Псырцха showing geographical context and surroundings. Aerial or elevated perspective. Mountains, landscape, regional context visible. Winter Abkhazia setting.",
+        "style": "landscape photography"
+      }
+    ]
+  },
+  {
+    "id": "place-гагрская-колоннада",
+    "title": "Гагрская колоннада",
+    "type": "place",
+    "image_prompts": [
+      {
+        "number": 1,
+        "type": "primary_attraction",
+        "prompt": "Professional landscape photography of Гагрская колоннада, Abkhazia. Wide-angle shot showing the main attraction and surrounding landscape. Golden hour lighting, cinematic composition, high resolution, 4K quality. Winter season with snow or frost visible. Beautiful natural lighting.",
+        "style": "landscape photography"
+      },
+      {
+        "number": 2,
+        "type": "detail_shot",
+        "prompt": "Close-up detail photography of Гагрская колоннада. Macro or medium close-up showing intricate details, textures, and features. Professional photography, sharp focus, beautiful lighting. Emphasize unique characteristics and beauty.",
+        "style": "detail photography"
+      },
+      {
+        "number": 3,
+        "type": "visitor_experience",
+        "prompt": "Atmospheric photograph of visitors or people experiencing Гагрская колоннада. Show human interaction with the location. Natural lighting, candid moment, warm and inviting. Winter season context.",
+        "style": "lifestyle photography"
+      },
+      {
+        "number": 4,
+        "type": "seasonal_variant",
+        "prompt": "Seasonal variation of Гагрская колоннада showing winter or spring characteristics. Different lighting condition from other images. Professional photography, high quality, cinematic.",
+        "style": "seasonal photography"
+      },
+      {
+        "number": 5,
+        "type": "context_shot",
+        "prompt": "Wide context shot of Гагрская колоннада showing geographical context and surroundings. Aerial or elevated perspective. Mountains, landscape, regional context visible. Winter Abkhazia setting.",
+        "style": "landscape photography"
+      }
+    ]
+  },
+  {
+    "id": "place-sochi-seaport",
+    "title": "Untitled",
+    "type": "place",
+    "image_prompts": [
+      {
+        "number": 1,
+        "type": "primary_attraction",
+        "prompt": "Professional landscape photography of Untitled, Abkhazia. Wide-angle shot showing the main attraction and surrounding landscape. Golden hour lighting, cinematic composition, high resolution, 4K quality. Winter season with snow or frost visible. Beautiful natural lighting.",
+        "style": "landscape photography"
+      },
+      {
+        "number": 2,
+        "type": "detail_shot",
+        "prompt": "Close-up detail photography of Untitled. Macro or medium close-up showing intricate details, textures, and features. Professional photography, sharp focus, beautiful lighting. Emphasize unique characteristics and beauty.",
+        "style": "detail photography"
+      },
+      {
+        "number": 3,
+        "type": "visitor_experience",
+        "prompt": "Atmospheric photograph of visitors or people experiencing Untitled. Show human interaction with the location. Natural lighting, candid moment, warm and inviting. Winter season context.",
+        "style": "lifestyle photography"
+      },
+      {
+        "number": 4,
+        "type": "seasonal_variant",
+        "prompt": "Seasonal variation of Untitled showing winter or spring characteristics. Different lighting condition from other images. Professional photography, high quality, cinematic.",
+        "style": "seasonal photography"
+      },
+      {
+        "number": 5,
+        "type": "context_shot",
+        "prompt": "Wide context shot of Untitled showing geographical context and surroundings. Aerial or elevated perspective. Mountains, landscape, regional context visible. Winter Abkhazia setting.",
+        "style": "landscape photography"
+      }
+    ]
+  },
+  {
+    "id": "place-казино-сочи-зимний-сезон-2025-2026",
+    "title": "Казино Сочи Зимний Сезон 2025-2026",
+    "type": "place",
+    "image_prompts": [
+      {
+        "number": 1,
+        "type": "primary_attraction",
+        "prompt": "Professional landscape photography of Казино Сочи Зимний Сезон 2025-2026, Abkhazia. Wide-angle shot showing the main attraction and surrounding landscape. Golden hour lighting, cinematic composition, high resolution, 4K quality. Winter season with snow or frost visible. Beautiful natural lighting.",
+        "style": "landscape photography"
+      },
+      {
+        "number": 2,
+        "type": "detail_shot",
+        "prompt": "Close-up detail photography of Казино Сочи Зимний Сезон 2025-2026. Macro or medium close-up showing intricate details, textures, and features. Professional photography, sharp focus, beautiful lighting. Emphasize unique characteristics and beauty.",
+        "style": "detail photography"
+      },
+      {
+        "number": 3,
+        "type": "visitor_experience",
+        "prompt": "Atmospheric photograph of visitors or people experiencing Казино Сочи Зимний Сезон 2025-2026. Show human interaction with the location. Natural lighting, candid moment, warm and inviting. Winter season context.",
+        "style": "lifestyle photography"
+      },
+      {
+        "number": 4,
+        "type": "seasonal_variant",
+        "prompt": "Seasonal variation of Казино Сочи Зимний Сезон 2025-2026 showing winter or spring characteristics. Different lighting condition from other images. Professional photography, high quality, cinematic.",
+        "style": "seasonal photography"
+      },
+      {
+        "number": 5,
+        "type": "context_shot",
+        "prompt": "Wide context shot of Казино Сочи Зимний Сезон 2025-2026 showing geographical context and surroundings. Aerial or elevated perspective. Mountains, landscape, regional context visible. Winter Abkhazia setting.",
+        "style": "landscape photography"
+      }
+    ]
+  },
+  {
+    "id": "** place-new-athos-cave",
+    "title": "Новоафонская пещера",
+    "type": "place",
+    "image_prompts": [
+      {
+        "number": 1,
+        "type": "primary_attraction",
+        "prompt": "Professional landscape photography of Новоафонская пещера, Abkhazia. Wide-angle shot showing the main attraction and surrounding landscape. Golden hour lighting, cinematic composition, high resolution, 4K quality. Winter season with snow or frost visible. Beautiful natural lighting.",
+        "style": "landscape photography"
+      },
+      {
+        "number": 2,
+        "type": "detail_shot",
+        "prompt": "Close-up detail photography of Новоафонская пещера. Macro or medium close-up showing intricate details, textures, and features. Professional photography, sharp focus, beautiful lighting. Emphasize unique characteristics and beauty.",
+        "style": "detail photography"
+      },
+      {
+        "number": 3,
+        "type": "visitor_experience",
+        "prompt": "Atmospheric photograph of visitors or people experiencing Новоафонская пещера. Show human interaction with the location. Natural lighting, candid moment, warm and inviting. Winter season context.",
+        "style": "lifestyle photography"
+      },
+      {
+        "number": 4,
+        "type": "seasonal_variant",
+        "prompt": "Seasonal variation of Новоафонская пещера showing winter or spring characteristics. Different lighting condition from other images. Professional photography, high quality, cinematic.",
+        "style": "seasonal photography"
+      },
+      {
+        "number": 5,
+        "type": "context_shot",
+        "prompt": "Wide context shot of Новоафонская пещера showing geographical context and surroundings. Aerial or elevated perspective. Mountains, landscape, regional context visible. Winter Abkhazia setting.",
+        "style": "landscape photography"
+      }
+    ]
+  },
+  {
+    "id": "place-дача-сталина-новый-афон",
+    "title": "Дача Сталина Новый Афон",
+    "type": "place",
+    "image_prompts": [
+      {
+        "number": 1,
+        "type": "primary_attraction",
+        "prompt": "Professional landscape photography of Дача Сталина Новый Афон, Abkhazia. Wide-angle shot showing the main attraction and surrounding landscape. Golden hour lighting, cinematic composition, high resolution, 4K quality. Winter season with snow or frost visible. Beautiful natural lighting.",
+        "style": "landscape photography"
+      },
+      {
+        "number": 2,
+        "type": "detail_shot",
+        "prompt": "Close-up detail photography of Дача Сталина Новый Афон. Macro or medium close-up showing intricate details, textures, and features. Professional photography, sharp focus, beautiful lighting. Emphasize unique characteristics and beauty.",
+        "style": "detail photography"
+      },
+      {
+        "number": 3,
+        "type": "visitor_experience",
+        "prompt": "Atmospheric photograph of visitors or people experiencing Дача Сталина Новый Афон. Show human interaction with the location. Natural lighting, candid moment, warm and inviting. Winter season context.",
+        "style": "lifestyle photography"
+      },
+      {
+        "number": 4,
+        "type": "seasonal_variant",
+        "prompt": "Seasonal variation of Дача Сталина Новый Афон showing winter or spring characteristics. Different lighting condition from other images. Professional photography, high quality, cinematic.",
+        "style": "seasonal photography"
+      },
+      {
+        "number": 5,
+        "type": "context_shot",
+        "prompt": "Wide context shot of Дача Сталина Новый Афон showing geographical context and surroundings. Aerial or elevated perspective. Mountains, landscape, regional context visible. Winter Abkhazia setting.",
+        "style": "landscape photography"
+      }
+    ]
+  },
+  {
+    "id": "place-башня-на-горе-ахун-зимний-обзор-2025-2026",
+    "title": "Башня на горе Ахун Зимний Обзор 2025-2026",
+    "type": "place",
+    "image_prompts": [
+      {
+        "number": 1,
+        "type": "primary_attraction",
+        "prompt": "Professional landscape photography of Башня на горе Ахун Зимний Обзор 2025-2026, Abkhazia. Wide-angle shot showing the main attraction and surrounding landscape. Golden hour lighting, cinematic composition, high resolution, 4K quality. Winter season with snow or frost visible. Beautiful natural lighting.",
+        "style": "landscape photography"
+      },
+      {
+        "number": 2,
+        "type": "detail_shot",
+        "prompt": "Close-up detail photography of Башня на горе Ахун Зимний Обзор 2025-2026. Macro or medium close-up showing intricate details, textures, and features. Professional photography, sharp focus, beautiful lighting. Emphasize unique characteristics and beauty.",
+        "style": "detail photography"
+      },
+      {
+        "number": 3,
+        "type": "visitor_experience",
+        "prompt": "Atmospheric photograph of visitors or people experiencing Башня на горе Ахун Зимний Обзор 2025-2026. Show human interaction with the location. Natural lighting, candid moment, warm and inviting. Winter season context.",
+        "style": "lifestyle photography"
+      },
+      {
+        "number": 4,
+        "type": "seasonal_variant",
+        "prompt": "Seasonal variation of Башня на горе Ахун Зимний Обзор 2025-2026 showing winter or spring characteristics. Different lighting condition from other images. Professional photography, high quality, cinematic.",
+        "style": "seasonal photography"
+      },
+      {
+        "number": 5,
+        "type": "context_shot",
+        "prompt": "Wide context shot of Башня на горе Ахун Зимний Обзор 2025-2026 showing geographical context and surroundings. Aerial or elevated perspective. Mountains, landscape, regional context visible. Winter Abkhazia setting.",
+        "style": "landscape photography"
+      }
+    ]
+  },
+  {
+    "id": "place-секретные-качели-зимний-фото-спот-2025-2026",
+    "title": "Секретные качели Зимний Фото-Спот 2025-2026",
+    "type": "place",
+    "image_prompts": [
+      {
+        "number": 1,
+        "type": "primary_attraction",
+        "prompt": "Professional landscape photography of Секретные качели Зимний Фото-Спот 2025-2026, Abkhazia. Wide-angle shot showing the main attraction and surrounding landscape. Golden hour lighting, cinematic composition, high resolution, 4K quality. Winter season with snow or frost visible. Beautiful natural lighting.",
+        "style": "landscape photography"
+      },
+      {
+        "number": 2,
+        "type": "detail_shot",
+        "prompt": "Close-up detail photography of Секретные качели Зимний Фото-Спот 2025-2026. Macro or medium close-up showing intricate details, textures, and features. Professional photography, sharp focus, beautiful lighting. Emphasize unique characteristics and beauty.",
+        "style": "detail photography"
+      },
+      {
+        "number": 3,
+        "type": "visitor_experience",
+        "prompt": "Atmospheric photograph of visitors or people experiencing Секретные качели Зимний Фото-Спот 2025-2026. Show human interaction with the location. Natural lighting, candid moment, warm and inviting. Winter season context.",
+        "style": "lifestyle photography"
+      },
+      {
+        "number": 4,
+        "type": "seasonal_variant",
+        "prompt": "Seasonal variation of Секретные качели Зимний Фото-Спот 2025-2026 showing winter or spring characteristics. Different lighting condition from other images. Professional photography, high quality, cinematic.",
+        "style": "seasonal photography"
+      },
+      {
+        "number": 5,
+        "type": "context_shot",
+        "prompt": "Wide context shot of Секретные качели Зимний Фото-Спот 2025-2026 showing geographical context and surroundings. Aerial or elevated perspective. Mountains, landscape, regional context visible. Winter Abkhazia setting.",
+        "style": "landscape photography"
+      }
+    ]
+  },
+  {
+    "id": "place-пицундская-сосновая-роща",
+    "title": "Пицундская сосновая роща",
+    "type": "place",
+    "image_prompts": [
+      {
+        "number": 1,
+        "type": "primary_attraction",
+        "prompt": "Professional landscape photography of Пицундская сосновая роща, Abkhazia. Wide-angle shot showing the main attraction and surrounding landscape. Golden hour lighting, cinematic composition, high resolution, 4K quality. Winter season with snow or frost visible. Beautiful natural lighting.",
+        "style": "landscape photography"
+      },
+      {
+        "number": 2,
+        "type": "detail_shot",
+        "prompt": "Close-up detail photography of Пицундская сосновая роща. Macro or medium close-up showing intricate details, textures, and features. Professional photography, sharp focus, beautiful lighting. Emphasize unique characteristics and beauty.",
+        "style": "detail photography"
+      },
+      {
+        "number": 3,
+        "type": "visitor_experience",
+        "prompt": "Atmospheric photograph of visitors or people experiencing Пицундская сосновая роща. Show human interaction with the location. Natural lighting, candid moment, warm and inviting. Winter season context.",
+        "style": "lifestyle photography"
+      },
+      {
+        "number": 4,
+        "type": "seasonal_variant",
+        "prompt": "Seasonal variation of Пицундская сосновая роща showing winter or spring characteristics. Different lighting condition from other images. Professional photography, high quality, cinematic.",
+        "style": "seasonal photography"
+      },
+      {
+        "number": 5,
+        "type": "context_shot",
+        "prompt": "Wide context shot of Пицундская сосновая роща showing geographical context and surroundings. Aerial or elevated perspective. Mountains, landscape, regional context visible. Winter Abkhazia setting.",
+        "style": "landscape photography"
+      }
+    ]
+  },
+  {
+    "id": "** place-yupshara-canyon",
+    "title": "Юпшарский каньон Ледяной коридор к Рице",
+    "type": "place",
+    "image_prompts": [
+      {
+        "number": 1,
+        "type": "primary_attraction",
+        "prompt": "Professional landscape photography of Юпшарский каньон Ледяной коридор к Рице, Abkhazia. Wide-angle shot showing the main attraction and surrounding landscape. Golden hour lighting, cinematic composition, high resolution, 4K quality. Winter season with snow or frost visible. Beautiful natural lighting.",
+        "style": "landscape photography"
+      },
+      {
+        "number": 2,
+        "type": "detail_shot",
+        "prompt": "Close-up detail photography of Юпшарский каньон Ледяной коридор к Рице. Macro or medium close-up showing intricate details, textures, and features. Professional photography, sharp focus, beautiful lighting. Emphasize unique characteristics and beauty.",
+        "style": "detail photography"
+      },
+      {
+        "number": 3,
+        "type": "visitor_experience",
+        "prompt": "Atmospheric photograph of visitors or people experiencing Юпшарский каньон Ледяной коридор к Рице. Show human interaction with the location. Natural lighting, candid moment, warm and inviting. Winter season context.",
+        "style": "lifestyle photography"
+      },
+      {
+        "number": 4,
+        "type": "seasonal_variant",
+        "prompt": "Seasonal variation of Юпшарский каньон Ледяной коридор к Рице showing winter or spring characteristics. Different lighting condition from other images. Professional photography, high quality, cinematic.",
+        "style": "seasonal photography"
+      },
+      {
+        "number": 5,
+        "type": "context_shot",
+        "prompt": "Wide context shot of Юпшарский каньон Ледяной коридор к Рице showing geographical context and surroundings. Aerial or elevated perspective. Mountains, landscape, regional context visible. Winter Abkhazia setting.",
+        "style": "landscape photography"
+      }
+    ]
+  },
+  {
+    "id": "place-lake-ritsa-winter",
+    "title": "Озеро Рица зимой",
+    "type": "place",
+    "image_prompts": [
+      {
+        "number": 1,
+        "type": "primary_attraction",
+        "prompt": "Professional landscape photography of Озеро Рица зимой, Abkhazia. Wide-angle shot showing the main attraction and surrounding landscape. Golden hour lighting, cinematic composition, high resolution, 4K quality. Winter season with snow or frost visible. Beautiful natural lighting.",
+        "style": "landscape photography"
+      },
+      {
+        "number": 2,
+        "type": "detail_shot",
+        "prompt": "Close-up detail photography of Озеро Рица зимой. Macro or medium close-up showing intricate details, textures, and features. Professional photography, sharp focus, beautiful lighting. Emphasize unique characteristics and beauty.",
+        "style": "detail photography"
+      },
+      {
+        "number": 3,
+        "type": "visitor_experience",
+        "prompt": "Atmospheric photograph of visitors or people experiencing Озеро Рица зимой. Show human interaction with the location. Natural lighting, candid moment, warm and inviting. Winter season context.",
+        "style": "lifestyle photography"
+      },
+      {
+        "number": 4,
+        "type": "seasonal_variant",
+        "prompt": "Seasonal variation of Озеро Рица зимой showing winter or spring characteristics. Different lighting condition from other images. Professional photography, high quality, cinematic.",
+        "style": "seasonal photography"
+      },
+      {
+        "number": 5,
+        "type": "context_shot",
+        "prompt": "Wide context shot of Озеро Рица зимой showing geographical context and surroundings. Aerial or elevated perspective. Mountains, landscape, regional context visible. Winter Abkhazia setting.",
+        "style": "landscape photography"
+      }
+    ]
+  },
+  {
+    "id": "place-blue-lake",
+    "title": "Untitled",
+    "type": "place",
+    "image_prompts": [
+      {
+        "number": 1,
+        "type": "primary_attraction",
+        "prompt": "Professional landscape photography of Untitled, Abkhazia. Wide-angle shot showing the main attraction and surrounding landscape. Golden hour lighting, cinematic composition, high resolution, 4K quality. Winter season with snow or frost visible. Beautiful natural lighting.",
+        "style": "landscape photography"
+      },
+      {
+        "number": 2,
+        "type": "detail_shot",
+        "prompt": "Close-up detail photography of Untitled. Macro or medium close-up showing intricate details, textures, and features. Professional photography, sharp focus, beautiful lighting. Emphasize unique characteristics and beauty.",
+        "style": "detail photography"
+      },
+      {
+        "number": 3,
+        "type": "visitor_experience",
+        "prompt": "Atmospheric photograph of visitors or people experiencing Untitled. Show human interaction with the location. Natural lighting, candid moment, warm and inviting. Winter season context.",
+        "style": "lifestyle photography"
+      },
+      {
+        "number": 4,
+        "type": "seasonal_variant",
+        "prompt": "Seasonal variation of Untitled showing winter or spring characteristics. Different lighting condition from other images. Professional photography, high quality, cinematic.",
+        "style": "seasonal photography"
+      },
+      {
+        "number": 5,
+        "type": "context_shot",
+        "prompt": "Wide context shot of Untitled showing geographical context and surroundings. Aerial or elevated perspective. Mountains, landscape, regional context visible. Winter Abkhazia setting.",
+        "style": "landscape photography"
+      }
+    ]
+  },
+  {
+    "id": "place-белые-скалы-цандрипш",
+    "title": "Белые скалы Цандрипш",
+    "type": "place",
+    "image_prompts": [
+      {
+        "number": 1,
+        "type": "primary_attraction",
+        "prompt": "Professional landscape photography of Белые скалы Цандрипш, Abkhazia. Wide-angle shot showing the main attraction and surrounding landscape. Golden hour lighting, cinematic composition, high resolution, 4K quality. Winter season with snow or frost visible. Beautiful natural lighting.",
+        "style": "landscape photography"
+      },
+      {
+        "number": 2,
+        "type": "detail_shot",
+        "prompt": "Close-up detail photography of Белые скалы Цандрипш. Macro or medium close-up showing intricate details, textures, and features. Professional photography, sharp focus, beautiful lighting. Emphasize unique characteristics and beauty.",
+        "style": "detail photography"
+      },
+      {
+        "number": 3,
+        "type": "visitor_experience",
+        "prompt": "Atmospheric photograph of visitors or people experiencing Белые скалы Цандрипш. Show human interaction with the location. Natural lighting, candid moment, warm and inviting. Winter season context.",
+        "style": "lifestyle photography"
+      },
+      {
+        "number": 4,
+        "type": "seasonal_variant",
+        "prompt": "Seasonal variation of Белые скалы Цандрипш showing winter or spring characteristics. Different lighting condition from other images. Professional photography, high quality, cinematic.",
+        "style": "seasonal photography"
+      },
+      {
+        "number": 5,
+        "type": "context_shot",
+        "prompt": "Wide context shot of Белые скалы Цандрипш showing geographical context and surroundings. Aerial or elevated perspective. Mountains, landscape, regional context visible. Winter Abkhazia setting.",
+        "style": "landscape photography"
+      }
+    ]
+  },
+  {
+    "id": "place-лебединое-озеро-в-новом-афоне",
+    "title": "Лебединое озеро в Новом Афоне",
+    "type": "place",
+    "image_prompts": [
+      {
+        "number": 1,
+        "type": "primary_attraction",
+        "prompt": "Professional landscape photography of Лебединое озеро в Новом Афоне, Abkhazia. Wide-angle shot showing the main attraction and surrounding landscape. Golden hour lighting, cinematic composition, high resolution, 4K quality. Winter season with snow or frost visible. Beautiful natural lighting.",
+        "style": "landscape photography"
+      },
+      {
+        "number": 2,
+        "type": "detail_shot",
+        "prompt": "Close-up detail photography of Лебединое озеро в Новом Афоне. Macro or medium close-up showing intricate details, textures, and features. Professional photography, sharp focus, beautiful lighting. Emphasize unique characteristics and beauty.",
+        "style": "detail photography"
+      },
+      {
+        "number": 3,
+        "type": "visitor_experience",
+        "prompt": "Atmospheric photograph of visitors or people experiencing Лебединое озеро в Новом Афоне. Show human interaction with the location. Natural lighting, candid moment, warm and inviting. Winter season context.",
+        "style": "lifestyle photography"
+      },
+      {
+        "number": 4,
+        "type": "seasonal_variant",
+        "prompt": "Seasonal variation of Лебединое озеро в Новом Афоне showing winter or spring characteristics. Different lighting condition from other images. Professional photography, high quality, cinematic.",
+        "style": "seasonal photography"
+      },
+      {
+        "number": 5,
+        "type": "context_shot",
+        "prompt": "Wide context shot of Лебединое озеро в Новом Афоне showing geographical context and surroundings. Aerial or elevated perspective. Mountains, landscape, regional context visible. Winter Abkhazia setting.",
+        "style": "landscape photography"
+      }
+    ]
+  },
+  {
+    "id": "place-мандариновые-сады-золото-абхазской-зимы",
+    "title": "Мандариновые сады Золото Абхазской Зимы",
+    "type": "place",
+    "image_prompts": [
+      {
+        "number": 1,
+        "type": "primary_attraction",
+        "prompt": "Professional landscape photography of Мандариновые сады Золото Абхазской Зимы, Abkhazia. Wide-angle shot showing the main attraction and surrounding landscape. Golden hour lighting, cinematic composition, high resolution, 4K quality. Winter season with snow or frost visible. Beautiful natural lighting.",
+        "style": "landscape photography"
+      },
+      {
+        "number": 2,
+        "type": "detail_shot",
+        "prompt": "Close-up detail photography of Мандариновые сады Золото Абхазской Зимы. Macro or medium close-up showing intricate details, textures, and features. Professional photography, sharp focus, beautiful lighting. Emphasize unique characteristics and beauty.",
+        "style": "detail photography"
+      },
+      {
+        "number": 3,
+        "type": "visitor_experience",
+        "prompt": "Atmospheric photograph of visitors or people experiencing Мандариновые сады Золото Абхазской Зимы. Show human interaction with the location. Natural lighting, candid moment, warm and inviting. Winter season context.",
+        "style": "lifestyle photography"
+      },
+      {
+        "number": 4,
+        "type": "seasonal_variant",
+        "prompt": "Seasonal variation of Мандариновые сады Золото Абхазской Зимы showing winter or spring characteristics. Different lighting condition from other images. Professional photography, high quality, cinematic.",
+        "style": "seasonal photography"
+      },
+      {
+        "number": 5,
+        "type": "context_shot",
+        "prompt": "Wide context shot of Мандариновые сады Золото Абхазской Зимы showing geographical context and surroundings. Aerial or elevated perspective. Mountains, landscape, regional context visible. Winter Abkhazia setting.",
+        "style": "landscape photography"
+      }
+    ]
+  },
+  {
+    "id": "place-сочинский-дендрарий-вечнозеленый-оазис-и-зимний-пикник",
+    "title": "Сочинский дендрарий Вечнозеленый оазис и зимний пикник",
+    "type": "place",
+    "image_prompts": [
+      {
+        "number": 1,
+        "type": "primary_attraction",
+        "prompt": "Professional landscape photography of Сочинский дендрарий Вечнозеленый оазис и зимний пикник, Abkhazia. Wide-angle shot showing the main attraction and surrounding landscape. Golden hour lighting, cinematic composition, high resolution, 4K quality. Winter season with snow or frost visible. Beautiful natural lighting.",
+        "style": "landscape photography"
+      },
+      {
+        "number": 2,
+        "type": "detail_shot",
+        "prompt": "Close-up detail photography of Сочинский дендрарий Вечнозеленый оазис и зимний пикник. Macro or medium close-up showing intricate details, textures, and features. Professional photography, sharp focus, beautiful lighting. Emphasize unique characteristics and beauty.",
+        "style": "detail photography"
+      },
+      {
+        "number": 3,
+        "type": "visitor_experience",
+        "prompt": "Atmospheric photograph of visitors or people experiencing Сочинский дендрарий Вечнозеленый оазис и зимний пикник. Show human interaction with the location. Natural lighting, candid moment, warm and inviting. Winter season context.",
+        "style": "lifestyle photography"
+      },
+      {
+        "number": 4,
+        "type": "seasonal_variant",
+        "prompt": "Seasonal variation of Сочинский дендрарий Вечнозеленый оазис и зимний пикник showing winter or spring characteristics. Different lighting condition from other images. Professional photography, high quality, cinematic.",
+        "style": "seasonal photography"
+      },
+      {
+        "number": 5,
+        "type": "context_shot",
+        "prompt": "Wide context shot of Сочинский дендрарий Вечнозеленый оазис и зимний пикник showing geographical context and surroundings. Aerial or elevated perspective. Mountains, landscape, regional context visible. Winter Abkhazia setting.",
+        "style": "landscape photography"
+      }
+    ]
+  },
+  {
+    "id": "place-сухумский-рынок-зимний-урожай-и-атмосфера",
+    "title": "Сухумский рынок Зимний Урожай и Атмосфера",
+    "type": "place",
+    "image_prompts": [
+      {
+        "number": 1,
+        "type": "primary_attraction",
+        "prompt": "Professional landscape photography of Сухумский рынок Зимний Урожай и Атмосфера, Abkhazia. Wide-angle shot showing the main attraction and surrounding landscape. Golden hour lighting, cinematic composition, high resolution, 4K quality. Winter season with snow or frost visible. Beautiful natural lighting.",
+        "style": "landscape photography"
+      },
+      {
+        "number": 2,
+        "type": "detail_shot",
+        "prompt": "Close-up detail photography of Сухумский рынок Зимний Урожай и Атмосфера. Macro or medium close-up showing intricate details, textures, and features. Professional photography, sharp focus, beautiful lighting. Emphasize unique characteristics and beauty.",
+        "style": "detail photography"
+      },
+      {
+        "number": 3,
+        "type": "visitor_experience",
+        "prompt": "Atmospheric photograph of visitors or people experiencing Сухумский рынок Зимний Урожай и Атмосфера. Show human interaction with the location. Natural lighting, candid moment, warm and inviting. Winter season context.",
+        "style": "lifestyle photography"
+      },
+      {
+        "number": 4,
+        "type": "seasonal_variant",
+        "prompt": "Seasonal variation of Сухумский рынок Зимний Урожай и Атмосфера showing winter or spring characteristics. Different lighting condition from other images. Professional photography, high quality, cinematic.",
+        "style": "seasonal photography"
+      },
+      {
+        "number": 5,
+        "type": "context_shot",
+        "prompt": "Wide context shot of Сухумский рынок Зимний Урожай и Атмосфера showing geographical context and surroundings. Aerial or elevated perspective. Mountains, landscape, regional context visible. Winter Abkhazia setting.",
+        "style": "landscape photography"
+      }
+    ]
+  },
+  {
+    "id": "place-культура-апацхи-традиционная-абхазская-кухня",
+    "title": "Культура апацхи Традиционная Абхазская Кухня",
+    "type": "place",
+    "image_prompts": [
+      {
+        "number": 1,
+        "type": "primary_attraction",
+        "prompt": "Professional landscape photography of Культура апацхи Традиционная Абхазская Кухня, Abkhazia. Wide-angle shot showing the main attraction and surrounding landscape. Golden hour lighting, cinematic composition, high resolution, 4K quality. Winter season with snow or frost visible. Beautiful natural lighting.",
+        "style": "landscape photography"
+      },
+      {
+        "number": 2,
+        "type": "detail_shot",
+        "prompt": "Close-up detail photography of Культура апацхи Традиционная Абхазская Кухня. Macro or medium close-up showing intricate details, textures, and features. Professional photography, sharp focus, beautiful lighting. Emphasize unique characteristics and beauty.",
+        "style": "detail photography"
+      },
+      {
+        "number": 3,
+        "type": "visitor_experience",
+        "prompt": "Atmospheric photograph of visitors or people experiencing Культура апацхи Традиционная Абхазская Кухня. Show human interaction with the location. Natural lighting, candid moment, warm and inviting. Winter season context.",
+        "style": "lifestyle photography"
+      },
+      {
+        "number": 4,
+        "type": "seasonal_variant",
+        "prompt": "Seasonal variation of Культура апацхи Традиционная Абхазская Кухня showing winter or spring characteristics. Different lighting condition from other images. Professional photography, high quality, cinematic.",
+        "style": "seasonal photography"
+      },
+      {
+        "number": 5,
+        "type": "context_shot",
+        "prompt": "Wide context shot of Культура апацхи Традиционная Абхазская Кухня showing geographical context and surroundings. Aerial or elevated perspective. Mountains, landscape, regional context visible. Winter Abkhazia setting.",
+        "style": "landscape photography"
+      }
+    ]
+  },
+  {
+    "id": "place-kyndyg-springs",
+    "title": "Термальные источники Кындыг",
+    "type": "place",
+    "image_prompts": [
+      {
+        "number": 1,
+        "type": "primary_attraction",
+        "prompt": "Professional landscape photography of Термальные источники Кындыг, Abkhazia. Wide-angle shot showing the main attraction and surrounding landscape. Golden hour lighting, cinematic composition, high resolution, 4K quality. Winter season with snow or frost visible. Beautiful natural lighting.",
+        "style": "landscape photography"
+      },
+      {
+        "number": 2,
+        "type": "detail_shot",
+        "prompt": "Close-up detail photography of Термальные источники Кындыг. Macro or medium close-up showing intricate details, textures, and features. Professional photography, sharp focus, beautiful lighting. Emphasize unique characteristics and beauty.",
+        "style": "detail photography"
+      },
+      {
+        "number": 3,
+        "type": "visitor_experience",
+        "prompt": "Atmospheric photograph of visitors or people experiencing Термальные источники Кындыг. Show human interaction with the location. Natural lighting, candid moment, warm and inviting. Winter season context.",
+        "style": "lifestyle photography"
+      },
+      {
+        "number": 4,
+        "type": "seasonal_variant",
+        "prompt": "Seasonal variation of Термальные источники Кындыг showing winter or spring characteristics. Different lighting condition from other images. Professional photography, high quality, cinematic.",
+        "style": "seasonal photography"
+      },
+      {
+        "number": 5,
+        "type": "context_shot",
+        "prompt": "Wide context shot of Термальные источники Кындыг showing geographical context and surroundings. Aerial or elevated perspective. Mountains, landscape, regional context visible. Winter Abkhazia setting.",
+        "style": "landscape photography"
+      }
+    ]
+  },
+  {
+    "id": "place-аквапарк-галактика-гтц-газпром",
+    "title": "Аквапарк «Галактика» ГТЦ Газпром",
+    "type": "place",
+    "image_prompts": [
+      {
+        "number": 1,
+        "type": "primary_attraction",
+        "prompt": "Professional landscape photography of Аквапарк «Галактика» ГТЦ Газпром, Abkhazia. Wide-angle shot showing the main attraction and surrounding landscape. Golden hour lighting, cinematic composition, high resolution, 4K quality. Winter season with snow or frost visible. Beautiful natural lighting.",
+        "style": "landscape photography"
+      },
+      {
+        "number": 2,
+        "type": "detail_shot",
+        "prompt": "Close-up detail photography of Аквапарк «Галактика» ГТЦ Газпром. Macro or medium close-up showing intricate details, textures, and features. Professional photography, sharp focus, beautiful lighting. Emphasize unique characteristics and beauty.",
+        "style": "detail photography"
+      },
+      {
+        "number": 3,
+        "type": "visitor_experience",
+        "prompt": "Atmospheric photograph of visitors or people experiencing Аквапарк «Галактика» ГТЦ Газпром. Show human interaction with the location. Natural lighting, candid moment, warm and inviting. Winter season context.",
+        "style": "lifestyle photography"
+      },
+      {
+        "number": 4,
+        "type": "seasonal_variant",
+        "prompt": "Seasonal variation of Аквапарк «Галактика» ГТЦ Газпром showing winter or spring characteristics. Different lighting condition from other images. Professional photography, high quality, cinematic.",
+        "style": "seasonal photography"
+      },
+      {
+        "number": 5,
+        "type": "context_shot",
+        "prompt": "Wide context shot of Аквапарк «Галактика» ГТЦ Газпром showing geographical context and surroundings. Aerial or elevated perspective. Mountains, landscape, regional context visible. Winter Abkhazia setting.",
+        "style": "landscape photography"
+      }
+    ]
+  }
+]
