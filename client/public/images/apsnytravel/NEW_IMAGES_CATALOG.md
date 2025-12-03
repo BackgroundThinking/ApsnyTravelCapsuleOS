@@ -1,7 +1,7 @@
 # ApsnyTravel New Images Catalog
 
 **Generated**: December 2, 2025  
-**Total Images**: 10  
+**Total Images**: 13 (10 initial + 3 additional)  
 **Purpose**: Winter tourism photography for ApsnyTravel.ru  
 **Quality**: Professional 4K landscape and travel photography
 
@@ -207,6 +207,51 @@ All images are stored in: `/client/public/images/apsnytravel/`
 - Include location keywords (Abkhazia, Sochi, Caucasus)
 - Add seasonal keywords (winter, snow, etc.)
 - Reference specific landmarks and activities
+
+---
+
+### 11. Snowboarding Powder Action
+**Filename**: `snowboarding-powder-action.jpg`  
+**Category**: Adventure / Action Sports  
+**Description**: Dynamic action shot of snowboarder carving through deep powder snow with dramatic powder spray  
+**Use Cases**:
+- Action sports content
+- Snowboarding pages
+- Youth tourism marketing
+- Adventure experiences
+- Winter sports action
+
+**Keywords**: snowboarding, powder snow, action sports, Caucasus, Sochi, adventure, winter sports, extreme
+
+---
+
+### 12. Winter Beach Walk Promenade
+**Filename**: `winter-beach-walk-promenade.jpg`  
+**Category**: Lifestyle / Romantic  
+**Description**: Couple walking along Black Sea promenade with palm trees and snow-capped mountains in background  
+**Use Cases**:
+- Romantic getaways
+- Couples tourism
+- Winter beach content
+- Coastal walks
+- Lifestyle experiences
+
+**Keywords**: Black Sea, romantic, couples, promenade, palm trees, winter beach, Abkhazia, Sochi, lifestyle
+
+---
+
+### 13. Night Resort Village Lights
+**Filename**: `night-resort-village-lights.jpg`  
+**Category**: Nightlife / Resort  
+**Description**: Illuminated ski resort village at night with restaurants, shops, and festive atmosphere  
+**Use Cases**:
+- Nightlife content
+- Après-ski experiences
+- Resort village pages
+- Evening activities
+- Festive atmosphere
+
+**Keywords**: Rosa Khutor, night, resort village, nightlife, après-ski, restaurants, alpine village, festive, lights
 
 ---
 
