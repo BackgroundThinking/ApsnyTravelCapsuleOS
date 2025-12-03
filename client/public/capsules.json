@@ -45,7 +45,22 @@
         "version": "1.0.0"
       },
       "content": "# 🍷 #06 — ГАСТРО-ТУР: ВИНО И ОЧАГ\n\n**Slug:** `tour/gastro-wine-hearth`  \n**Статус:** 🍷 COZY  \n**Сезон:** Круглый год (особенно зимой)  \n\n> **ЗИМНИЙ УЮТ** — Огонь, еда, настоящее вино\n\n---\n\n## 📋 Параметры\n\n| Параметр | Значение |\n|----------|----------|\n| **Длительность** | 9-11 часов |\n| **Группа** | 2-6 человек |\n| **Старт** | 09:00 |\n| **Цена** | от ₽14,000 (еда оплачивается отдельно) |\n\n---\n\n## 🗺️ Маршрут\n\n```\n09:00 Сочи/Адлер\n  ↓\n10:00 Граница Псоу\n  ↓\n11:00 Лыхны (храм X века)\n  ↓\n12:30 ★ ОБЕД В АПАЦХЕ\n       Очаг в центре зала\n       Мамалыга, мясо, хачапур\n  ↓\n15:00 Винодельня (дегустация)\n  ↓\n17:00 Сухумский рынок (специи, мёд)\n  ↓\n19:00 Возвращение\n```\n\n---\n\n## 💎 Почему это ТОП\n\n- 🔥 Апацха = ресторан с ОТКРЫТЫМ ОЧАГОМ\n- 🍖 Аутентичная кухня (не туристическая)\n- 🍷 Научим отличать домашнее вино от заводского\n- 🧀 С собой: сыр, аджика, чурчхела, мёд\n\n---\n\n## 🔗 Deep-Links\n\n- [place/apatskha-culture](../../tier2-deeplinks/places/gastro/apatskha-culture.md)\n- [guide/abkhaz-wine](../../tier2-deeplinks/guides/abkhaz-wine.md)\n- [place/lykhny-temple](../../tier2-deeplinks/places/culture/lykhny-temple.md)\n- [place/sukhum-market](../../tier2-deeplinks/places/gastro/sukhum-market.md)\n\n---\n\n*Последнее обновление: Декабрь 2025*\n",
-      "image_url": "/images/capsules/product/гастро-тур-вино-и-очаг.jpg"
+      "image_url": "/images/capsules/product/гастро-тур-вино-и-очаг.jpg",
+      "gallery_images": [
+        "/images/tier1/traditional-hearth-cooking.jpg",
+        "/images/tier1/wine-tasting-table.jpg",
+        "/images/tier1/traditional-abkhaz-feast.jpg"
+      ],
+      "description": "Immerse yourself in Abkhaz culinary traditions with authentic home-cooked meals prepared over traditional open hearths. Taste local wines paired with regional specialties like khachapuri and khash. Experience genuine hospitality and centuries-old recipes in intimate village settings.",
+      "highlights": [
+        "Traditional hearth cooking",
+        "Local wine tasting",
+        "Authentic Abkhaz cuisine",
+        "Village hospitality",
+        "Recipe demonstrations"
+      ],
+      "price": "$179",
+      "rating": 4.8
     },
     {
       "id": "product-олимпийский-парк-огни",
@@ -92,7 +107,22 @@
         "version": "1.0.0"
       },
       "content": "# 🌃 #08 — ОЛИМПИЙСКИЙ ПАРК: ОГНИ\n\n**Slug:** `tour/olympic-lights-show`  \n**Статус:** 🌃 EVENING  \n**Сезон:** Круглый год  \n\n> **ВЕЧЕРНИЙ ФОРМАТ** — Идеально для дня прилёта/отлёта\n\n---\n\n## 📋 Параметры\n\n| Параметр | Значение |\n|----------|----------|\n| **Длительность** | 4-5 часов |\n| **Старт** | 17:00-18:00 |\n| **Цена** | от ₽8,000 за группу |\n\n---\n\n## 🗺️ Маршрут\n\n```\n17:00 Отель\n  ↓\n17:30 Олимпийский парк\n  ↓\n18:00 Стадион Фишт (подсветка)\n  ↓\n18:30 Чаша олимпийского огня\n  ↓\n19:00 Сочи Автодром (трасса F1)\n  ↓\n20:00 ★ ШОУ ПОЮЩИХ ФОНТАНОВ\n  ↓\n21:00 Опция: ужин / возвращение\n```\n\n---\n\n## 💎 Почему это ТОП\n\n- 🎆 Шоу фонтанов — бесплатно, но надо знать расписание\n- 🏟️ Вечерняя подсветка стадионов = космос\n- ⏰ 4 часа — можно совместить с трансфером\n- 🍽️ Рестораны на набережной\n\n---\n\n## 🔗 Deep-Links\n\n- [place/singing-fountains](../../tier2-deeplinks/places/olympic/singing-fountains.md)\n- [place/olympic-park](../../tier2-deeplinks/places/olympic/olympic-park.md)\n- [place/fisht-stadium](../../tier2-deeplinks/places/olympic/fisht-stadium.md)\n- [guide/evening-park-tips](../../tier2-deeplinks/guides/evening-park-tips.md)\n\n---\n\n*Последнее обновление: Декабрь 2025*\n",
-      "image_url": "/images/capsules/product/олимпийский-парк-огни.jpg"
+      "image_url": "/images/capsules/product/олимпийский-парк-огни.jpg",
+      "gallery_images": [
+        "/images/tier1/olympic-stadium-night.jpg",
+        "/images/tier1/olympic-flame-monument.jpg",
+        "/images/tier1/singing-fountains-show.jpg"
+      ],
+      "description": "Explore the iconic Olympic Park, home to the 2014 Winter Olympics. Visit the illuminated Fisht Stadium, see the Olympic flame monument, and experience the spectacular singing fountains show. Learn about Olympic history while enjoying world-class entertainment and architecture.",
+      "highlights": [
+        "Fisht Stadium tours",
+        "Olympic monuments",
+        "Singing fountains show",
+        "Olympic history",
+        "Night illuminations"
+      ],
+      "price": "$99",
+      "rating": 4.8
     },
     {
       "id": "product-красная-поляна-русские-альпы",
@@ -139,7 +169,23 @@
         "version": "1.0.0"
       },
       "content": "# 🏔️ #02 — КРАСНАЯ ПОЛЯНА: РУССКИЕ АЛЬПЫ\n\n**Slug:** `tour/russian-alps-panorama`  \n**Статус:** 🏔️ HOT  \n**Сезон:** Декабрь — Апрель  \n\n> **ДЛЯ ТЕХ, КТО НЕ КАТАЕТСЯ** — Горы без лыж\n\n```\n┌─────────────────────────────────────────────────────────────┐\n│  Горнолыжный сезон 2025-26: старт 1-2 декабря              │\n│  Роза Хутор: открытие 19 декабря 2025                      │\n│  Сезон до: середина апреля 2026                            │\n└─────────────────────────────────────────────────────────────┘\n```\n\n---\n\n## 📋 Параметры\n\n| Параметр | Значение |\n|----------|----------|\n| **Длительность** | 8-10 часов |\n| **Группа** | 1-6 человек |\n| **Транспорт** | Mercedes V-Class |\n| **Старт** | 09:00 |\n| **Цена** | от ₽14,000 + канатки |\n\n---\n\n## 🗺️ Маршрут\n\n```\n09:00 Адлер/Сочи\n  ↓\n10:00 Курорт «Красная Поляна»\n  ↓\n10:30 Подъём на высоту 2200м\n  ↓\n12:00 Панорамный обед с видом\n  ↓\n13:30 ★ РОЗА ХУТОР (набережная)\n  ↓\n14:30 Подъём Роза Пик 2320м\n  ↓\n16:00 ГТЦ Газпром «Галактика»\n  ↓\n18:00 Вечерняя иллюминация\n  ↓\n19:00 Возвращение (опция: Казино Сочи)\n```\n\n---\n\n## 💎 Почему это ТОП\n\n- 🎿 Лыжи НЕ нужны — это созерцательный тур\n- 📸 Фото на высоте 2320м с видом на Главный Кавказский хребет\n- 🍷 Глинтвейн в панорамном кафе\n- 🌃 Вечерняя подсветка курортов — магия\n- 🎰 Опция: ужин + Казино Сочи\n\n---\n\n## 🔗 Deep-Links\n\n- [place/rosa-khutor-village](../../tier2-deeplinks/places/ski/rosa-khutor-village.md)\n- [place/rosa-peak](../../tier2-deeplinks/places/ski/rosa-peak.md)\n- [place/gazprom-galaktika](../../tier2-deeplinks/places/ski/gazprom-galaktika.md)\n- [place/krasnaya-polyana-resort](../../tier2-deeplinks/places/ski/krasnaya-polyana-resort.md)\n- [place/casino-sochi](../../tier2-deeplinks/places/culture/casino-sochi.md)\n- [guide/ski-pass-prices](../../tier2-deeplinks/guides/ski-pass-prices.md)\n\n---\n\n*Последнее обновление: Декабрь 2025*\n",
-      "image_url": "/images/capsules/product/красная-поляна-русские-альпы.jpg"
+      "image_url": "/images/capsules/product/красная-поляна-русские-альпы.jpg",
+      "gallery_images": [
+        "/images/tier1/rosa-peak-panorama.jpg",
+        "/images/tier1/alpine-skiing-action.jpg",
+        "/images/tier1/cable-car-mountain-view.jpg",
+        "/images/tier1/ski-resort-village-evening.jpg"
+      ],
+      "description": "Discover Russia's premier ski destination in the Caucasus Mountains. Rosa Khutor offers world-class skiing with panoramic views of the Black Sea and surrounding peaks. Whether you're a beginner or expert, experience the thrill of alpine skiing combined with authentic mountain hospitality.",
+      "highlights": [
+        "World-class ski slopes",
+        "2320m mountain elevation",
+        "Professional ski instruction",
+        "Mountain village atmosphere",
+        "Après-ski entertainment"
+      ],
+      "price": "$349",
+      "rating": 4.8
     },
     {
       "id": "product-фото-охота-зимний-свет",
@@ -186,7 +232,22 @@
         "version": "1.0.0"
       },
       "content": "# 📸 #10 — ФОТО-ОХОТА: ЗИМНИЙ СВЕТ\n\n**Slug:** `tour/photo-winter-hunt`  \n**Статус:** 📸 CREATIVE  \n**Сезон:** Декабрь — Март  \n\n> **КОНТЕНТ-ТУР** — Лучшие кадры сезона\n\n---\n\n## 📋 Параметры\n\n| Параметр | Значение |\n|----------|----------|\n| **Длительность** | 6-8 часов |\n| **Группа** | 1-4 человека |\n| **Цена** | от ₽15,000 |\n\n---\n\n## 🗺️ Два сценария (по погоде)\n\n### ☀️ СОЛНЕЧНЫЙ ДЕНЬ\n\n```\nБелые скалы → Гагрская колоннада → \nСекретные качели → Закат у моря\n```\n\n### ☁️ ПАСМУРНО/ТУМАН\n\n```\nЗаброшки Гагры → Туманный лес →\nАтмосферные руины → Драматичные волны\n```\n\n---\n\n## 💎 УТП\n\n- 📱 10-15 обработанных фото В ПОДАРОК\n- 🌅 Знаем точное время «золотого часа»\n- 🗺️ Секретные локации (не в путеводителях)\n- ☁️ Адаптируем маршрут под погоду\n\n---\n\n## 🔗 Deep-Links\n\n- [place/white-cliffs](../../tier2-deeplinks/places/nature/white-cliffs.md)\n- [place/secret-swing](../../tier2-deeplinks/places/nature/secret-swing.md)\n- [place/abandoned-gagra](../../tier2-deeplinks/places/culture/abandoned-gagra.md)\n- [guide/golden-hour-sochi](../../tier2-deeplinks/guides/golden-hour-sochi.md)\n\n---\n\n*Последнее обновление: Декабрь 2025*\n",
-      "image_url": "/images/capsules/product/фото-охота-зимний-свет.jpg"
+      "image_url": "/images/capsules/product/фото-охота-зимний-свет.jpg",
+      "gallery_images": [
+        "/images/tier1/golden-hour-mountain-photography.jpg",
+        "/images/tier1/photographer-winter-landscape.jpg",
+        "/images/tier1/winter-frost-macro-photography.jpg"
+      ],
+      "description": "Capture the stunning beauty of winter Caucasus with professional photography guidance. Learn composition, lighting, and technique while photographing dramatic mountain landscapes, frost formations, and golden hour scenes. Perfect for photography enthusiasts of all levels.",
+      "highlights": [
+        "Professional photography instruction",
+        "Golden hour shoots",
+        "Landscape photography",
+        "Macro photography",
+        "Photo editing workshop"
+      ],
+      "price": "$249",
+      "rating": 4.9
     },
     {
       "id": "product-новый-афон-подземное-царство",
@@ -233,7 +294,22 @@
         "version": "1.0.0"
       },
       "content": "# 🏛️ #03 — НОВЫЙ АФОН: ПОДЗЕМНОЕ ЦАРСТВО\n\n**Slug:** `tour/new-athos-underground`  \n**Статус:** 🏛️ EVERGREEN  \n**Сезон:** Круглый год  \n\n> **ВСЕСЕЗОННЫЙ БЕСТСЕЛЛЕР** — В пещере всегда +14°C\n\n---\n\n## 📋 Параметры\n\n| Параметр | Значение |\n|----------|----------|\n| **Длительность** | 10-12 часов |\n| **Группа** | 1-6 человек |\n| **Старт** | 08:00 |\n| **Цена** | от ₽16,000 + входные билеты |\n\n---\n\n## 🗺️ Маршрут\n\n```\n08:00 Сочи/Адлер\n  ↓\n09:00 Граница Псоу\n  ↓\n10:00 Гагра (фото-стоп)\n  ↓\n11:30 ★ НОВОАФОНСКАЯ ПЕЩЕРА\n       (подземный поезд + 6 залов)\n  ↓\n14:00 ★ НОВОАФОНСКИЙ МОНАСТЫРЬ\n       (тропа грешников)\n  ↓\n15:30 Станция Псырцха\n  ↓\n16:30 Приморский парк + Лебединое озеро\n  ↓\n18:00 Возвращение\n```\n\n---\n\n## 💎 Почему это ТОП\n\n- 🌡️ В пещере ВСЕГДА +14°C — идеально в любую погоду\n- 🚂 Единственный в СНГ подземный поезд (как в метро!)\n- ⛪ Новоафонский монастырь — духовный центр\n- 💧 Рукотворный водопад + лебеди\n- 📸 Уникальные подземные фото\n\n---\n\n## 🔗 Deep-Links\n\n- [place/new-athos-cave](../../tier2-deeplinks/places/culture/new-athos-cave.md)\n- [place/new-athos-monastery](../../tier2-deeplinks/places/culture/new-athos-monastery.md)\n- [place/psyrtsha-station](../../tier2-deeplinks/places/culture/psyrtsha-station.md)\n- [place/swan-lake-athos](../../tier2-deeplinks/places/nature/swan-lake-athos.md)\n- [guide/border-crossing](../../tier2-deeplinks/guides/border-crossing.md)\n\n---\n\n*Последнее обновление: Декабрь 2025*\n",
-      "image_url": "/images/capsules/product/новый-афон-подземное-царство.jpg"
+      "image_url": "/images/capsules/product/новый-афон-подземное-царство.jpg",
+      "gallery_images": [
+        "/images/tier1/cave-stalactites-interior.jpg",
+        "/images/tier1/new-athos-monastery-winter.jpg",
+        "/images/tier1/cave-underground-lake.jpg"
+      ],
+      "description": "Explore one of the world's largest cave systems with stunning stalactites and underground lakes. Visit the historic New Athos Monastery perched on the mountainside. This unique combination of natural wonders and spiritual heritage offers an unforgettable journey into Abkhazia's underground kingdom.",
+      "highlights": [
+        "Massive stalactite formations",
+        "Underground lake",
+        "Historic monastery",
+        "Guided cave exploration",
+        "Spiritual heritage site"
+      ],
+      "price": "$189",
+      "rating": 4.7
     },
     {
       "id": "product-зимняя-рица-термы-кындыг",
@@ -280,7 +356,21 @@
         "version": "1.0.0"
       },
       "content": "# 🔥 #01 — ЗИМНЯЯ РИЦА + ТЕРМЫ КЫНДЫГ\n\n**Slug:** `tour/winter-ritsa-thermal`  \n**Статус:** 🔥 FLAGSHIP  \n**Сезон:** Декабрь — Март  \n\n> **ФЛАГМАН СЕЗОНА** — Тур №1 по продажам зимой\n\n```\n┌─────────────────────────────────────────────────────────────┐\n│  ❄️ СНЕЖНЫЕ ГОРЫ  +  ♨️ ГОРЯЧАЯ ВОДА = ИДЕАЛЬНЫЙ КОНТРАСТ  │\n└─────────────────────────────────────────────────────────────┘\n```\n\n---\n\n## 📋 Параметры\n\n| Параметр | Значение |\n|----------|----------|\n| **Длительность** | 11-13 часов |\n| **Группа** | 1-6 человек |\n| **Транспорт** | Mercedes V-Class |\n| **Старт** | 07:30 из Сочи/Адлера |\n| **Цена** | от ₽18,000 за группу |\n\n---\n\n## 🗺️ Маршрут\n\n```\n07:30 Сочи/Адлер\n  ↓\n08:30 КПП Псоу (граница)\n  ↓\n09:15 Гагрская Колоннада\n  ↓\n10:00 Голубое Озеро\n  ↓\n10:30 Юпшарский Каньон\n  ↓\n11:30 ★ ОЗЕРО РИЦА (1.5 часа)\n  ↓\n13:30 Обед в апацхе\n  ↓\n15:00 Спуск к побережью\n  ↓\n16:30 ★ ТЕРМЫ КЫНДЫГ (2 часа)\n  ↓\n19:00 Возвращение в Сочи\n```\n\n---\n\n## 💎 Почему это #1\n\n- ❄️ Рица зимой = альпийская Швейцария (снег на горах, изумрудная вода)\n- ♨️ Кындыг = +38-45°C под открытым небом в декабре\n- 🍊 **Бонус Декабрь-Январь:** Остановка у мандариновых садов\n- 🌼 **Бонус Февраль-Март:** Цветущая мимоза вдоль дороги\n- 📸 Контрастные фото: снег → пар от горячей воды\n\n---\n\n## 🔗 Deep-Links\n\n- [place/lake-ritsa-winter](../../tier2-deeplinks/places/nature/lake-ritsa-winter.md)\n- [place/kyndyg-springs](../../tier2-deeplinks/places/thermal/kyndyg-springs.md)\n- [place/yupshara-canyon](../../tier2-deeplinks/places/nature/yupshara-canyon.md)\n- [place/blue-lake](../../tier2-deeplinks/places/nature/blue-lake.md)\n- [place/gagra-colonnade](../../tier2-deeplinks/places/culture/gagra-colonnade.md)\n- [guide/border-crossing](../../tier2-deeplinks/guides/border-crossing.md)\n- [guide/winter-ritsa-road](../../tier2-deeplinks/guides/winter-ritsa-road.md)\n\n---\n\n## 📞 Бронирование\n\n**Телефон:** +7 (XXX) XXX-XX-XX  \n**Telegram:** @apsnytravel  \n**Сайт:** apsnytravel.ru\n\n---\n\n*Последнее обновление: Декабрь 2025*\n",
-      "image_url": "/images/capsules/product/зимняя-рица-термы-кындыг.jpg"
+      "image_url": "/images/capsules/product/зимняя-рица-термы-кындыг.jpg",
+      "gallery_images": [
+        "/images/tier1/thermal-springs-steam.jpg",
+        "/images/tier1/frozen-lake-ritsa-sunrise.jpg",
+        "/images/tier1/thermal-spa-relaxation.jpg"
+      ],
+      "description": "Experience the magic of Lake Ritsa in winter, surrounded by snow-capped peaks and pristine alpine beauty. Relax in natural thermal hot springs heated by geothermal energy, offering the perfect contrast to the frozen landscape. This exclusive winter experience combines adventure with luxury wellness.",
+      "highlights": [
+        "Pristine frozen alpine lake",
+        "Natural thermal hot springs",
+        "Snow-covered mountain peaks",
+        "Luxury spa experience"
+      ],
+      "price": "$299",
+      "rating": 4.9
     },
     {
       "id": "product-сочи-вечнозелёный-город",
@@ -327,7 +417,22 @@
         "version": "1.0.0"
       },
       "content": "# ☀️ #04 — СОЧИ: ВЕЧНОЗЕЛЁНЫЙ ГОРОД\n\n**Slug:** `tour/sochi-eternal-green`  \n**Статус:** ☀️ CLASSIC  \n**Сезон:** Круглый год  \n\n> **АНТИДОТ ОТ ЗИМЫ** — Пальмы, когда везде снег\n\n---\n\n## 📋 Параметры\n\n| Параметр | Значение |\n|----------|----------|\n| **Длительность** | 7-9 часов |\n| **Группа** | 1-6 человек |\n| **Старт** | 10:00 |\n| **Цена** | от ₽12,000 за группу |\n\n---\n\n## 🗺️ Маршрут\n\n```\n10:00 Отель\n  ↓\n10:30 Морской порт Сочи\n  ↓\n11:30 ★ ДЕНДРАРИЙ\n       (вечнозелёный даже в январе!)\n  ↓\n13:30 Дача Сталина\n  ↓\n15:00 Санаторий Орджоникидзе\n  ↓\n16:00 Башня на горе Ахун\n  ↓\n17:30 Олимпийский парк (закат)\n  ↓\n19:00 Возвращение\n```\n\n---\n\n## 💎 Почему это ТОП\n\n- 🌴 +10-15°C когда в Москве -20°C\n- 📱 Instagram-контент: пальмы + море зимой\n- 🏛️ Дендрарий цветёт круглый год\n- 🗼 Башня Ахун — панорама 360°\n- 🎡 Олимпийский парк на закате\n\n---\n\n## 🔗 Deep-Links\n\n- [place/sochi-dendrarium](../../tier2-deeplinks/places/gastro/sochi-dendrarium.md)\n- [place/akhun-tower](../../tier2-deeplinks/places/nature/akhun-tower.md)\n- [place/stalin-dacha](../../tier2-deeplinks/places/culture/stalin-dacha.md)\n- [place/sochi-seaport](../../tier2-deeplinks/places/culture/sochi-seaport.md)\n- [place/olympic-park](../../tier2-deeplinks/places/olympic/olympic-park.md)\n\n---\n\n*Последнее обновление: Декабрь 2025*\n",
-      "image_url": "/images/capsules/product/сочи-вечнозелёный-город.jpg"
+      "image_url": "/images/capsules/product/сочи-вечнозелёный-город.jpg",
+      "gallery_images": [
+        "/images/tier1/sochi-seaside-winter.jpg",
+        "/images/tier1/sochi-botanical-garden.jpg",
+        "/images/tier1/sochi-promenade-evening.jpg"
+      ],
+      "description": "Experience the unique charm of Sochi, where subtropical gardens flourish despite winter snow on nearby mountains. Stroll along the elegant promenade, explore the famous botanical gardens, and enjoy the contrast of beach culture with alpine scenery. A truly unique winter destination.",
+      "highlights": [
+        "Subtropical botanical gardens",
+        "Seaside promenade",
+        "Olympic legacy sites",
+        "Unique climate contrast",
+        "Cultural attractions"
+      ],
+      "price": "$229",
+      "rating": 4.6
     },
     {
       "id": "product-мандарины-мимоза",
@@ -374,7 +479,22 @@
         "version": "1.0.0"
       },
       "content": "# 🍊 #07 — МАНДАРИНЫ & МИМОЗА\n\n**Slug:** `tour/mandarin-mimosa-season`  \n**Статус:** 🍊 SEASONAL  \n**Сезон:** Декабрь — Март (ЭКСКЛЮЗИВ)  \n\n> **СЕЗОННЫЙ ЭКСКЛЮЗИВ** — Только зимой!\n\n---\n\n## 📋 Параметры\n\n| Параметр | Значение |\n|----------|----------|\n| **Длительность** | 7-9 часов |\n| **Группа** | 1-6 человек |\n| **Цена** | от ₽12,000 + подарок |\n\n---\n\n## 🗺️ Два сценария\n\n### 🍊 ДЕКАБРЬ — ЯНВАРЬ: Сезон мандаринов\n\n```\nСочи → Мандариновые сады → Гагра → Пицунда → Сочи\n\n★ БОНУС: 5 кг мандаринов в подарок\n★ Сбор своими руками в саду\n```\n\n### 🌼 ФЕВРАЛЬ — МАРТ: Цветение мимозы\n\n```\nСочи → Жёлтые холмы → Гагра → Фотосессия → Сочи\n\n★ БОНУС: Букет мимозы в подарок\n★ Фото в цветущих садах\n```\n\n---\n\n## 🔗 Deep-Links\n\n- [place/mandarin-gardens](../../tier2-deeplinks/places/gastro/mandarin-gardens.md)\n- [place/pitsunda-grove](../../tier2-deeplinks/places/nature/pitsunda-grove.md)\n- [guide/mandarin-season](../../tier2-deeplinks/guides/mandarin-season.md)\n- [guide/mimosa-bloom](../../tier2-deeplinks/guides/mimosa-bloom.md)\n\n---\n\n*Последнее обновление: Декабрь 2025*\n",
-      "image_url": "/images/capsules/product/мандарины-мимоза.jpg"
+      "image_url": "/images/capsules/product/мандарины-мимоза.jpg",
+      "gallery_images": [
+        "/images/tier1/mandarin-orchard-winter.jpg",
+        "/images/tier1/fresh-mandarins-basket.jpg",
+        "/images/tier1/mimosa-flowers-spring.jpg"
+      ],
+      "description": "Visit the famous mandarin orchards where vibrant oranges grow against snow-capped mountains. Pick fresh mandarins directly from the trees, taste local varieties, and experience the unique seasonal transition. Includes visits to mimosa flower festivals celebrating the arrival of spring.",
+      "highlights": [
+        "Mandarin picking experience",
+        "Orchard tours",
+        "Seasonal fruit tasting",
+        "Mimosa flower festivals",
+        "Farm-to-table experience"
+      ],
+      "price": "$139",
+      "rating": 4.7
     },
     {
       "id": "product-экспресс-в-абхазию",
@@ -421,7 +541,21 @@
         "version": "1.0.0"
       },
       "content": "# 🚕 #09 — ЭКСПРЕСС В АБХАЗИЮ\n\n**Slug:** `transfer/abkhazia-express`  \n**Статус:** 🚕 SMART  \n**Сезон:** Круглый год  \n\n> **УМНЫЙ ТРАНСФЕР** — Доставка + мини-экскурсия\n\n---\n\n## 📋 Параметры\n\n| Параметр | Значение |\n|----------|----------|\n| **Время** | 2-4 часа |\n| **Авто** | Mercedes V-Class |\n| **Цена** | от ₽5,000 |\n\n---\n\n## 💰 Тарифы\n\n| Направление | Цена |\n|-------------|-----:|\n| Сочи/Адлер → Гагра | ₽5,000 |\n| Сочи/Адлер → Пицунда | ₽6,000 |\n| Сочи/Адлер → Новый Афон | ₽7,500 |\n| Сочи/Адлер → Сухум | ₽9,000 |\n| Сочи/Адлер → Кындыг | ₽10,000 |\n\n---\n\n## 💎 УТП\n\n- 📖 Мини-экскурсия по пути (не просто такси!)\n- 📋 Помощь с документами на границе\n- 💡 Советы: симка, обмен валюты, кафе\n- ⏱️ Знаем быстрые маршруты\n\n---\n\n## 🔗 Deep-Links\n\n- [guide/border-crossing](../../tier2-deeplinks/guides/border-crossing.md)\n- [guide/abkhazia-first-time](../../tier2-deeplinks/guides/abkhazia-first-time.md)\n- [place/duty-free-psou](../../tier2-deeplinks/places/culture/duty-free-psou.md)\n\n---\n\n*Последнее обновление: Декабрь 2025*\n",
-      "image_url": "/images/capsules/product/экспресс-в-абхазию.jpg"
+      "image_url": "/images/capsules/product/экспресс-в-абхазию.jpg",
+      "gallery_images": [
+        "/images/tier1/border-crossing-road.jpg",
+        "/images/tier1/abkhazia-welcome-landscape.jpg"
+      ],
+      "description": "Fast-track your journey to Abkhazia with our express service. Navigate scenic mountain passes and border crossings smoothly with expert guides. Arrive refreshed and ready to explore this hidden gem where mountains meet the Black Sea coast.",
+      "highlights": [
+        "Scenic border crossing",
+        "Expert guides",
+        "Mountain pass navigation",
+        "Smooth customs process",
+        "Welcome orientation"
+      ],
+      "price": "$119",
+      "rating": 4.7
     },
     {
       "id": "product-ski-transfer-premium",
@@ -468,7 +602,22 @@
         "version": "1.0.0"
       },
       "content": "# 🚐 #05 — SKI-TRANSFER PREMIUM\n\n**Slug:** `transfer/ski-vip-mountain`  \n**Статус:** 🚐 UTILITY  \n**Сезон:** Декабрь — Апрель  \n\n> **ЛОГИСТИКА БЕЗ СТРЕССА** — Лыжи + чемоданы + комфорт\n\n---\n\n## 📋 Параметры\n\n| Параметр | Значение |\n|----------|----------|\n| **Время** | 1-1.5 часа |\n| **Вместимость** | до 6 чел + оборудование |\n| **Авто** | Mercedes V-Class |\n| **Цена** | от ₽6,000 в одну сторону |\n\n---\n\n## 💰 Тарифы\n\n| Направление | Цена |\n|-------------|-----:|\n| ✈️ Аэропорт Сочи ⟷ Роза Хутор | ₽6,000 |\n| ✈️ Аэропорт Сочи ⟷ Красная Поляна | ₽5,500 |\n| ✈️ Аэропорт Сочи ⟷ ГТЦ Газпром | ₽5,500 |\n| 🏨 Адлер/Сочи ⟷ Горы | ₽5,000 |\n\n---\n\n## 💎 УТП\n\n- 🎿 Багажник V-Class = лыжи/борды БЕЗ разбора\n- 👶 Детские кресла (0+, 9-36кг) бесплатно\n- 💧 Вода, салфетки, зарядки USB-C\n- 📋 Встреча с табличкой\n- 🚫 Никаких очередей на такси под снегом\n\n---\n\n## 🔗 Deep-Links\n\n- [guide/ski-equipment-transport](../../tier2-deeplinks/guides/ski-equipment-transport.md)\n- [guide/adler-traffic-tips](../../tier2-deeplinks/guides/adler-traffic-tips.md)\n- [place/sochi-airport-meeting](../../tier2-deeplinks/places/culture/sochi-airport-meeting.md)\n\n---\n\n*Последнее обновление: Декабрь 2025*\n",
-      "image_url": "/images/capsules/product/ski-transfer-premium.jpg"
+      "image_url": "/images/capsules/product/ski-transfer-premium.jpg",
+      "gallery_images": [
+        "/images/tier1/luxury-van-mountain-road.jpg",
+        "/images/tier1/ski-equipment-loading.jpg",
+        "/images/tier1/mountain-road-winter-drive.jpg"
+      ],
+      "description": "Travel in style and comfort with our premium ski transfer service. Professional drivers navigate scenic mountain roads while you relax in luxury vehicles. Includes equipment transport, route optimization, and personalized service for the ultimate ski vacation experience.",
+      "highlights": [
+        "Luxury Mercedes vehicles",
+        "Professional drivers",
+        "Equipment transport",
+        "Scenic route planning",
+        "Concierge service"
+      ],
+      "price": "$159",
+      "rating": 4.9
     },
     {
       "id": "guide-абхазское-вино-зимний-гид-по-вкусам-и-традициям",
